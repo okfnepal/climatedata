@@ -1,32 +1,32 @@
-Analytical Domain,Increased Summer Temperature(%),Decreased Summer Temperature(%),No Change Summer Temperature(%)
-Urban,92.26,1.91,5.83
-Rural,88,2.92,9.08
-Mountain Ecological Belt,86.47,0.91,12.61
-Hill Ecological Belt,86.35,1.57,12.08
-Terai Ecological Belt,92.6,3.97,3.43
-Eastern Mountain Ecological Belt,75.64,1.2,23.15
-Eastern Hill Ecological Belt,88.32,2.78,8.91
-Eastern Terai Ecological Belt,92.68,3.5,3.82
-Central Mountain Ecological Belt,79.69,1.4,18.91
-Central Hill Ecological Belt,89.46,1.94,8.59
-Central Terai Ecological Belt,92.62,6.05,1.33
-Western Mountain Ecological Belt,90.6,0,9.4
-Western Hill Ecological Belt,78.79,0.91,20.3
-Western Terai Ecological Belt,94.36,1.62,4.02
-Mid-western Mountain Ecological Belt,98.77,0.61,0.61
-Mid-western Hill Ecological Belt,83.92,0.58,15.5
-Mid-western Terai Ecological Belt,88.22,2.72,9.06
-Far-western Mountain Ecological Belt,100,0,0
-Far-western Hill Ecological Belt,93.11,2.79,4.1
-Far-western Terai Ecological Belt,95.55,0.49,3.96
-Kathmandu Valley Ecological Belt,97.47,0.4,2.13
-Very High NAPA Combined Vulnerability Index,93.43,1.94,4.64
-High  NAPA Combined Vulnerability Index,89.35,2.46,8.19
-Moderate  NAPA Combined Vulnerability Index,87.86,3.76,8.37
-Low  NAPA Combined Vulnerability Index,88.21,2.51,9.28
-Very Low  NAPA Combined Vulnerability Index,84.5,2.02,13.47
-Tropical Bio-Climatic Zone,90.46,3.38,6.16
-Sub-tropical Bio-Climatic Zone,86.88,1.35,11.76
-Temperate Bio-Climatic Zone,90.92,2.16,6.93
-Sub-alpine Bio-Climatic Zone,95,0,5
-Nepal,89.25,2.62,8.13
+Category ,Analytical Domain,Increased Summer Temperature(%),Decreased Summer Temperature(%),No Change Summer Temperature(%)
+Urban/Rural,Urban,92.26,1.91,5.83
+Urban/Rural,Rural,88,2.92,9.08
+Ecological Belt,Mountain   ,86.47,0.91,12.61
+Ecological Belt,Hill   ,86.35,1.57,12.08
+Ecological Belt,Terai   ,92.6,3.97,3.43
+Eco-Development Region,Eastern Mountain ,75.64,1.2,23.15
+Eco-Development Region,Eastern Hill ,88.32,2.78,8.91
+Eco-Development Region,Eastern Terai ,92.68,3.5,3.82
+Eco-Development Region,Central Mountain,79.69,1.4,18.91
+Eco-Development Region,Central Hill ,89.46,1.94,8.59
+Eco-Development Region,Central Terai ,92.62,6.05,1.33
+Eco-Development Region,Western Mountain  ,90.6,0,9.4
+Eco-Development Region,Western Hill,78.79,0.91,20.3
+Eco-Development Region,Western Terai ,94.36,1.62,4.02
+Eco-Development Region,Mid-western Mountain   ,98.77,0.61,0.61
+Eco-Development Region,Mid-western Hill   ,83.92,0.58,15.5
+Eco-Development Region,Mid-western Terai ,88.22,2.72,9.06
+Eco-Development Region,Far-western Mountain   ,100,0,0
+Eco-Development Region,Far-western Hill   ,93.11,2.79,4.1
+Eco-Development Region,Far-western Terai   ,95.55,0.49,3.96
+Eco-Development Region,Kathmandu Valley ,97.47,0.4,2.13
+NAPA Combined Vulnerability Index,Very High ,93.43,1.94,4.64
+NAPA Combined Vulnerability Index,High ,89.35,2.46,8.19
+NAPA Combined Vulnerability Index,Moderate ,87.86,3.76,8.37
+NAPA Combined Vulnerability Index,Low,88.21,2.51,9.28
+NAPA Combined Vulnerability Index,Very Low,84.5,2.02,13.47
+Bio-Climatic Zone,Tropical ,90.46,3.38,6.16
+Bio-Climatic Zone,Sub-tropical ,86.88,1.35,11.76
+Bio-Climatic Zone,Temperate ,90.92,2.16,6.93
+Bio-Climatic Zone,Sub-alpine,95,0,5
+Country,Nepal,89.25,2.62,8.13
