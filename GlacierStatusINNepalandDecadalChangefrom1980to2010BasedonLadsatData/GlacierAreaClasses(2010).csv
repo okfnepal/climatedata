@@ -1,0 +1,7 @@
+Class,Area(km2),Glacier number,Glacier %,Glacier area(km2),Glacier area %,Estimated ice reserves(km3),Estimated ice reserves(%),Mean area per glacier (km2)
+1a,Less than or equals to  0.10,781,20.5,50.3,1.3,0.6,0.2,0.06
+1b,0.11 -0.50,1739,45. 7,431.4,11.1,10.8,3.5,0.25
+2,0.51-1.00,556,14.6,394.2,10.1,14.6,4. 7,0.71
+3,1.01-5.00,606,15.9,1234.1,31.6,70.7,22.6,2.04
+4,5.01-10.00,64,1.7,444.3,11.4,37.5,12,6.94
+5,Less than or equal to 10.01,62,1.6,1348.1,34.5,178.2,57,21.74
