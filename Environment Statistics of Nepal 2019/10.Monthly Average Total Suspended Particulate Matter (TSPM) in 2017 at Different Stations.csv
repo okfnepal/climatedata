@@ -1,34 +1,34 @@
-Stations,Month,Jan,Feb,March,April,May,June,July,Aug.,Sept.,Oct.,Nov.,Dec.,Total
-Ratnapark,Monthly Average TSPM (µg/m3),136.37,141.2,200.78,714.89,350.75,306.9,209,142.14,202.37,134.39,106.7,53.36,-
-Ratnapark,Total days with valid data,24,25,19,26,28,30,31,31,30,31,16,27,318
-Ratnapark,No of days exceeding National Standard,0,1,9,24,23,24,8,2,11,0,0,0,102
-Pulchowak,Monthly Average TSPM (µg/ m3),100.1,96.99,74.01,69.06,43.68,21.05,7.27,7.53,9.09,13.03,18.67,26.28,-
-Pulchowak,Total days with valid data,27,28,29,30,30,28,30,23,5,21,22,26,299
-Pulchowak,No of days exceeding National Standard,0,0,0,0,0,0,0,0,0,0,0,0,-
-Dulikhel,Monthly Average TSPM (µg/ m3),106.17,251.8,199.21,188.58,75.82,68.69,19.5,-,-,93.99,143.98,147.59,-
-Dulikhel,Total days with valid data,22,20,21,26,19,20,17,-,-,27,11,27,210
-Dulikhel,No of days exceeding National Standard,0,9,6,8,0,1,0,-,-,0,0,3,27
-Lumbini,Monthly Average TSPM (µg/ m3),-,-,-,-,-,-,-,-,-,-,-,-,-
-Lumbini,Total days with valid data,-,-,-,-,-,-,-,-,-,-,-,-,-
-Lumbini,No of days exceeding National Standard,-,-,-,-,-,-,-,-,-,-,-,-,-
-Birendra school Bhaktapur,Monthly Average TSPM (µg/ m3),-,-,-,-,-,-,,69.29,134.78,158.88,362.41,398.18,-
-Birendra school Bhaktapur,Total days with valid data,-,-,-,-,-,-,-,12,23,31,18,31,115
-Birendra school Bhaktapur,No of days exceeding National Standard,-,-,-,-,-,-,-,0,1,7,17,29,54
-Sauraha,Monthly Average TSPM (µg/ m3),-,-,108.85,201.15,74.35,40.77,20.3,17.13,-,-,-,-,-
-Sauraha,Total days with valid data,-,-,9,22,9,1,9,11,-,-,-,-,61
-Sauraha,No of days exceeding National Standard,-,-,0,8,0,0,0,0,-,-,-,-,8
-Bhaisepati,Monthly Average TSPM (µg/ m3),-,-,-,-,-,-,-,-,144.37,219.24,249.98,272.75,-
-Bhaisepati,Total days with valid data,-,-,-,-,-,-,-,-,30,31,29,31,121
-Bhaisepati,No of days exceeding National Standard,-,-,-,-,-,-,-,-,2,15,20,27,64
-Shankhapark,Monthly Average TSPM (µg/ m3),-,-,-,-,-,-,-,119.8,192.72,255.22,364.49,249.47,
-Shankhapark,Total days with valid data,-,-,-,-,-,-,-,13,30,31,30,31,135
-Shankhapark,No of days exceeding National Standard,-,-,-,-,-,-,-,0,9,18,29,16,72
-DHM Pokhara,Monthly Average TSPM (µg/ m3),-,-,-,-,-,-,-,26.96,36.16,55.66,96.74,122.13,-
-DHM Pokhara,Total days with valid data,-,-,-,-,-,-,-,10,29,31,30,31,131
-DHM Pokhara,No of days exceeding National Standard,-,-,-,-,-,-,-,0,0,0,0,0,-
-Pokhara University,Monthly Average TSPM (µg/ m3),-,-,-,-,-,-,-,26.03,40.44,64.04,106.38,122.26,-
-Pokhara University,Total days with valid data,-,-,-,-,-,-,-,16,30,31,30,31,138
-Pokhara University,No of days exceeding National Standard,-,-,-,-,-,-,-,0,0,0,0,0,-
-Gandaki Boarding,Monthly Average TSPM (µg/m3),-,-,-,-,-,-,-,8.69,12.87,18.18,25.98,32.58,-
-Gandaki Boarding,Total days with valid data,-,-,-,-,-,-,-,8,25,31,30,30,124
-Gandaki Boarding,No of days exceeding National Standard,-,-,-,-,-,-,-,0,0,0,0,0,-
+Stations,Month,Jan,Feb,March,April,May,June,July,Aug.,Sept.,Oct.,Nov.,Dec.
+Ratnapark,Monthly Average TSPM (µg/m3),136.37,141.2,200.78,714.89,350.75,306.9,209,142.14,202.37,134.39,106.7,53.36
+Ratnapark,Total days with valid data,24,25,19,26,28,30,31,31,30,31,16,27
+Ratnapark,No of days exceeding National Standard,0,1,9,24,23,24,8,2,11,0,0,0
+Pulchowak,Monthly Average TSPM (µg/ m3),100.1,96.99,74.01,69.06,43.68,21.05,7.27,7.53,9.09,13.03,18.67,26.28
+Pulchowak,Total days with valid data,27,28,29,30,30,28,30,23,5,21,22,26
+Pulchowak,No of days exceeding National Standard,0,0,0,0,0,0,0,0,0,0,0,0
+Dulikhel,Monthly Average TSPM (µg/ m3),106.17,251.8,199.21,188.58,75.82,68.69,19.5,-,-,93.99,143.98,147.59
+Dulikhel,Total days with valid data,22,20,21,26,19,20,17,-,-,27,11,27
+Dulikhel,No of days exceeding National Standard,0,9,6,8,0,1,0,-,-,0,0,3
+Lumbini,Monthly Average TSPM (µg/ m3),-,-,-,-,-,-,-,-,-,-,-,-
+Lumbini,Total days with valid data,-,-,-,-,-,-,-,-,-,-,-,-
+Lumbini,No of days exceeding National Standard,-,-,-,-,-,-,-,-,-,-,-,-
+Birendra school Bhaktapur,Monthly Average TSPM (µg/ m3),-,-,-,-,-,-,,69.29,134.78,158.88,362.41,398.18
+Birendra school Bhaktapur,Total days with valid data,-,-,-,-,-,-,-,12,23,31,18,31
+Birendra school Bhaktapur,No of days exceeding National Standard,-,-,-,-,-,-,-,0,1,7,17,29
+Sauraha,Monthly Average TSPM (µg/ m3),-,-,108.85,201.15,74.35,40.77,20.3,17.13,-,-,-,-
+Sauraha,Total days with valid data,-,-,9,22,9,1,9,11,-,-,-,-
+Sauraha,No of days exceeding National Standard,-,-,0,8,0,0,0,0,-,-,-,-
+Bhaisepati,Monthly Average TSPM (µg/ m3),-,-,-,-,-,-,-,-,144.37,219.24,249.98,272.75
+Bhaisepati,Total days with valid data,-,-,-,-,-,-,-,-,30,31,29,31
+Bhaisepati,No of days exceeding National Standard,-,-,-,-,-,-,-,-,2,15,20,27
+Shankhapark,Monthly Average TSPM (µg/ m3),-,-,-,-,-,-,-,119.8,192.72,255.22,364.49,249.47
+Shankhapark,Total days with valid data,-,-,-,-,-,-,-,13,30,31,30,31
+Shankhapark,No of days exceeding National Standard,-,-,-,-,-,-,-,0,9,18,29,16
+DHM Pokhara,Monthly Average TSPM (µg/ m3),-,-,-,-,-,-,-,26.96,36.16,55.66,96.74,122.13
+DHM Pokhara,Total days with valid data,-,-,-,-,-,-,-,10,29,31,30,31
+DHM Pokhara,No of days exceeding National Standard,-,-,-,-,-,-,-,0,0,0,0,0
+Pokhara University,Monthly Average TSPM (µg/ m3),-,-,-,-,-,-,-,26.03,40.44,64.04,106.38,122.26
+Pokhara University,Total days with valid data,-,-,-,-,-,-,-,16,30,31,30,31
+Pokhara University,No of days exceeding National Standard,-,-,-,-,-,-,-,0,0,0,0,0
+Gandaki Boarding,Monthly Average TSPM (µg/m3),-,-,-,-,-,-,-,8.69,12.87,18.18,25.98,32.58
+Gandaki Boarding,Total days with valid data,-,-,-,-,-,-,-,8,25,31,30,30
+Gandaki Boarding,No of days exceeding National Standard,-,-,-,-,-,-,-,0,0,0,0,0
