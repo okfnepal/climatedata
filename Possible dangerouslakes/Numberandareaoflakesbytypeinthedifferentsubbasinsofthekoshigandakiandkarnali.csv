@@ -1,0 +1,23 @@
+Basin,Sub-basin,No. Moraine-dammed lakeM(e),No. Moraine-dammed lakeM(l),No. Moraine-dammed lake M(o),No.Ice- dammed lake I(s),No.Ice- dammed lake I(v),No. Bedrock- dammed lake B(c),No. Bedrock- dammed lake B(o),Others,Area of M(e) in km2,Aread of M(l) in km2,Area M(o) in km2,Aread of I(s) in km2,Area of I(v) in km2,Area of B(c) in km2,Area of  B(o) in km2,Area other blocked lake
+Koshi,Tamor,37,9,78,36,0,34,87,2,3,0.17,1.5,0.38,0,2.03,1.6,0.46
+Koshi,Arun,167,4,218,39,0,64,411,6,36.8,0.23,4.64,0.98,0,3.78,20.36,1.79
+Koshi,Dudh Koshi,64,17,134,103,0,4,32,1,9.77,3.04,2.22,1.4,0,0.17,0.31,0.01
+Koshi,Likhu,2,0,8,0,0,3,4,0,0.15,0,0.11,0,0,0.1,0.05,0
+Koshi,Tama Koshi,55,2,162,38,0,14,36,0,9.31,1.19,2.8,0.3,0,0.53,0.56,0
+Koshi,Sun Koshi,34,5,64,18,0,11,49,0,15.95,2.85,1.5,0.3,0,0.41,1.12,0
+Koshi,Indrawati,0,0,5,0,0,1,6,0,0,0,0.08,0,0,0.02,0.06,0
+Koshi,Sub-total,359,37,669,234,0,131,625,9,74.98,7.48,12.85,3.36,0,7.04,24.06,2.26
+Gandaki,Trishuli,34,13,62,35,0,18,80,0,3.13,0.49,1.8,0.29,0,0.97,1.52,0
+Gandaki,Budhi Gandaki,11,2,18,8,0,6,4,0,0.76,0.12,0.28,0.06,0,0.1,0.27,0
+Gandaki,Marsyangdi,14,3,23,3,0,4,12,0,4.09,0.37,0.61,0.02,0,0.15,0.19,0
+Gandaki,Seti,0,0,0,0,0,0,3,1,0,0,0,0,0,0,0.05,0.1
+Gandaki,Kali Gandaki,16,2,40,0,0,3,17,0,1.15,0.47,0.77,0,0,0.12,0.53,0
+Gandaki,Sub-total,75,20,143,46,0,31,116,1,9.94,1.45,3.46,0.37,0,1.34,2.56,0.1
+Karnali,Bheri,21,1,56,3,0,16,65,2,1.44,0.01,1.07,0.02,0,0.73,0.98,4.96
+Karnali,Tila,2,0,20,2,0,24,32,2,0.51,0,1.32,0.01,0,1.5,0.54,0.23
+Karnali,Mugu,29,0,127,7,0,31,40,5,1.91,0,2.37,0.1,0,1.03,0.65,0.16
+Karnali,Kawari,5,0,10,0,0,6,7,0,0.5,0,0.21,0,0,0.27,0.06,0
+Karnali,West Seti,9,3,22,9,0,4,3,1,0.84,0.14,0.24,0.08,0,0.1,0.01,0.004
+Karnali,Humla,61,16,285,22,2,31,74,7,6.1,1.63,6.77,0.16,0.04,1.53,3.18,0.79
+Karnali,Kali,12,5,16,14,0,3,13,0,0.42,0.14,0.55,0.08,0,0.07,0.27,0
+Karnali,Karnali,0,0,0,0,0,3,0,0,0,0,0,0,0,0.19,0,0
