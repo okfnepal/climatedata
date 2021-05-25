@@ -1,0 +1,13 @@
+Lake ID,Name ,Latitude(N),Longitude(E),Altitude(m),Length(m) in 1960s,Length(m) in 2000,Area in 1960s,Area in 2000/01,Remarks
+Kdu_gl 28 (D)    ,Lumding Tsho,27° 46.51' ,86° 37.53,4846,625,1952,"104,944","836,765",Growing
+Kdu_gl 350 (E) , Imja Tsho,27° 54.00',86° 55.40,5023,410,1822,"48,811","848,742",Rapid growth
+Kdu_gl 399 (F)  ,Tam Pokhari,27° 44.33',86° 50.76',4431,515,925,"138,846","265,386",GLOF on 3 September 1998
+Kdu_gl 422 (G) ,Dudh Pokhari,27° 41.21',86° 51.68',4760,1120,1095,"274,297","297,574",No change in area
+Kdu_gl 442 (H) , Unnamed,27° 47.70',86° 54.81',5266,840,1082,"133,753","194,966",No change in area
+Kdu_gl 444 (I)   , Unnamed,27° 48.23,86° 56.61',5056,420,NaN,"112,398",NaN,Dried/breached
+Kdu_gl 449 (J)  ,Hungu,27° 50.17,86° 56.26',5181,875,1054,"198,905","232,842",Merged with   gl 532
+Kdu_gl 459 (K)  ,East Hungu 1,27° 47.92',86° 57.95',5379,465,1055,"78,761","296,886",Possibly merged with 458 and 460
+Kdu_gl 462 (L)  ,East Hungu 2,27° 48.30',86° 58.65',5483,640,448,"211,877","178,317",No change in area
+Kdu_gl 464               ,Unnamed  ,27° 46.86',86° 57.22,5205,1100,"1,918","349,397",,Growing
+Kdu_gl 466 (N)                  ,West Chamjang ,27° 45.24,86° 57.33',4983,125,1699,"6,446","831,427",kdu-gl 465 to 469 merged into one 
+Kdu_gl  (0)             ,Dig Tso,27° 52.41',86° 36.61',4364,605,1262,"143,250","375,681",GLOF on 3 September 1998
