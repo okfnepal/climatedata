@@ -28,12 +28,12 @@ Number             "," Lake Name/ Latitude, longitude",Type,Area(m2) in  1960s,A
 26,Kdu_gl 387,NaN,Supraglacial,23706,4085,Kdu_gr 284,0
 27,Kdu_gl 399,Tam Pokhari*,M dammed,265386,138846,Kdu_gr 202,0
 28,Kdu_gl 442,0,M dammed,194966,133753,Kdu_gr 247,845
-29,Kdu_gl 446,,M dammed,349263,207314,Kdu_gr 289,0
-30,Kdu_gl 449,,M dammed,232842,198905,Kdu_gr 249,0
-31,Kdu_gl 459,,M dammed,296886,78761,Kdu_gr 260,80
-32,Kdu_gl 464,,M dammed,783553,349397,Kdu_gr 262,0
-33,Kdu_gl 466,,M dammed,831427,6446,Kdu_gr 264,0
-34,Kdu_gl 472,,M dammed,46215,6526,Kdu_gr 293,0
+29,Kdu_gl 446,NaN,M dammed,349263,207314,Kdu_gr 289,0
+30,Kdu_gl 449,NaN,M dammed,232842,198905,Kdu_gr 249,0
+31,Kdu_gl 459,NaN,M dammed,296886,78761,Kdu_gr 260,80
+32,Kdu_gl 464,NaN,M dammed,783553,349397,Kdu_gr 262,0
+33,Kdu_gl 466,NaN,M dammed,831427,6446,Kdu_gr 264,0
+34,Kdu_gl 472,NaN,M dammed,46215,6526,Kdu_gr 293,0
 35,Kdu_gl 483,"27°43'39""N, 86°34'22""E",M dammed,34016,New,Kdu_gr 3,0
 36,Kdu_gl 488,"27°44'31""N, 86°40'24""E",Erosion,26686,New,NaN,NaN
 37,Kdu_gl 489,"27°44'42""N, 86°40'21""E",Erosion,34246,New,NaN,NaN
