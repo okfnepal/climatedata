@@ -1,0 +1,33 @@
+Metadata
+KATHMANDU AIRPORT
+
+# Variables
+	Name: Tavg
+	Units: Celsius
+	Long_name: average of minimum and maximum temperature
+	
+	Name: Tmin
+	Units: Celsius
+	Long_name: daily minimum temperature
+	
+	Name: Tax
+	Units: Celsius
+	Long_name: daily maximum temperature
+
+# coordinates:  27.70N,   85.37E,   1337.0m; GHCN-D station code: NP000444540 KATHMANDU_AIRPORT Nepal
+# WMO station 44454
+# institution :: NOAA/NCEI
+# source_url :: https://catalog.data.gov/dataset/global-historical-climatology-network-daily-ghcn-daily-version-3
+# source_doi :: https://doi.org/10.7289/V5D21VHZ
+# contact_email :: ncdc.ghcnd@noaa.gov
+# reference :: Matthew J. Menne, Imke Durre, Russell S. Vose, Byron E. Gleason, and Tamara G. Houston, 2012: An Overview of the Global Historical Climatology Network-Daily Database. J. Atmos. Oceanic Technol., 29, 897-910. doi:10.1175/JTECH-D-11-00103.1.
+# license :: U.S. Government Work. The non-U.S. data cannot be redistributed within or outside of the U.S. for any commercial activities.
+# station_code :: NP000444540
+# station_name :: KATHMANDU_AIRPORT
+# station_country :: Nepal
+# wmo_code :: 44454
+# latitude ::   27.70 degrees_north
+# longitude ::   85.37 degrees_east
+# elevation ::   1337.0 m
+# climexp_url :: https://climexp.knmi.nl/gdcntmax.cgi?WMO=NP000444540, https://climexp.knmi.nl/gdcnprcp.cgi?WMO=NP000444540
+
