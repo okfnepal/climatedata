@@ -1,0 +1,28 @@
+Expected Daily Rainfall Maximum in 25 Years (25-yr Return Level) - (MM), Year, Model, Statistics, ISO3
+60.0338, 2040-2059, access1_0, Annual Anomaly, NPL
+63.3651, 2040-2059, access1_3, Annual Anomaly, NPL
+76.6104, 2040-2059, bcc_csm1_1_m, Annual Anomaly, NPL
+67.1855, 2040-2059, bcc_csm1_1, Annual Anomaly, NPL
+38.1979, 2040-2059, bnu_esm, Annual Anomaly, NPL
+186.615, 2040-2059, canesm2, Annual Anomaly, NPL
+124.265, 2040-2059, ccsm4, Annual Anomaly, NPL
+197.987, 2040-2059, cesm1_bgc, Annual Anomaly, NPL
+305.688, 2040-2059, cesm1_cam5, Annual Anomaly, NPL
+-45.922, 2040-2059, cnrm_cm5, Annual Anomaly, NPL
+-1.6763, 2040-2059, csiro_mk3_6_0, Annual Anomaly, NPL
+41.6499, 2040-2059, hadgem2_ao, Annual Anomaly, NPL
+23.5123, 2040-2059, hadgem2_cc, Annual Anomaly, NPL
+15.3849, 2040-2059, inmcm4, Annual Anomaly, NPL
+47.7494, 2040-2059, ipsl_cm5a_lr, Annual Anomaly, NPL
+38.9026, 2040-2059, ipsl_cm5a_mr, Annual Anomaly, NPL
+-0.7194, 2040-2059, ipsl_cm5b_lr, Annual Anomaly, NPL
+99.735, 2040-2059, miroc5, Annual Anomaly, NPL
+13.1322, 2040-2059, miroc_esm_chem, Annual Anomaly, NPL
+3.20625, 2040-2059, miroc_esm, Annual Anomaly, NPL
+31.9197, 2040-2059, mpi_esm_lr, Annual Anomaly, NPL
+30.6828, 2040-2059, mpi_esm_mr, Annual Anomaly, NPL
+56.4403, 2040-2059, mri_cgcm3, Annual Anomaly, NPL
+207.19, 2040-2059, noresm1_m, Annual Anomaly, NPL
+-142.1, 2040-2059, Ensemble (10th Percentile), Annual Anomaly, NPL
+43.6957, 2040-2059, Ensemble (50th Percentile), Annual Anomaly, NPL
+779.861, 2040-2059, Ensemble (90th Percentile), Annual Anomaly, NPL

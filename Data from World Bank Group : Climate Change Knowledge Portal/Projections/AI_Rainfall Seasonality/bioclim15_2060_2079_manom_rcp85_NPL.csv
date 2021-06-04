@@ -1,0 +1,36 @@
+Rainfall Seasonality - (Standard Deviation), Year, Model, Statistics, ISO3
+0.14334, 2060-2079, access1_0, Annual Anomaly, NPL
+0.19285, 2060-2079, access1_3, Annual Anomaly, NPL
+0.05087, 2060-2079, bcc_csm1_1_m, Annual Anomaly, NPL
+-0.044, 2060-2079, bcc_csm1_1, Annual Anomaly, NPL
+0.05548, 2060-2079, bnu_esm, Annual Anomaly, NPL
+0.09105, 2060-2079, canesm2, Annual Anomaly, NPL
+0.11246, 2060-2079, ccsm4, Annual Anomaly, NPL
+0.10973, 2060-2079, cesm1_bgc, Annual Anomaly, NPL
+0.0634, 2060-2079, cesm1_cam5, Annual Anomaly, NPL
+-0.0881, 2060-2079, cmcc_cesm, Annual Anomaly, NPL
+0.09258, 2060-2079, cmcc_cm, Annual Anomaly, NPL
+0.12458, 2060-2079, cmcc_cms, Annual Anomaly, NPL
+0.01899, 2060-2079, cnrm_cm5, Annual Anomaly, NPL
+0.12038, 2060-2079, csiro_mk3_6_0, Annual Anomaly, NPL
+0.20754, 2060-2079, gfdl_cm3, Annual Anomaly, NPL
+0.05237, 2060-2079, gfdl_esm2g, Annual Anomaly, NPL
+-0.0477, 2060-2079, gfdl_esm2m, Annual Anomaly, NPL
+0.06069, 2060-2079, hadgem2_ao, Annual Anomaly, NPL
+0.06608, 2060-2079, hadgem2_cc, Annual Anomaly, NPL
+0.0563, 2060-2079, hadgem2_es, Annual Anomaly, NPL
+0.04006, 2060-2079, inmcm4, Annual Anomaly, NPL
+0.20772, 2060-2079, ipsl_cm5a_lr, Annual Anomaly, NPL
+0.06493, 2060-2079, ipsl_cm5a_mr, Annual Anomaly, NPL
+0.05278, 2060-2079, ipsl_cm5b_lr, Annual Anomaly, NPL
+-0.0541, 2060-2079, miroc5, Annual Anomaly, NPL
+0.13727, 2060-2079, miroc_esm_chem, Annual Anomaly, NPL
+0.13514, 2060-2079, miroc_esm, Annual Anomaly, NPL
+0.04121, 2060-2079, mpi_esm_lr, Annual Anomaly, NPL
+-0.015, 2060-2079, mpi_esm_mr, Annual Anomaly, NPL
+-0.026, 2060-2079, mri_cgcm3, Annual Anomaly, NPL
+0.07415, 2060-2079, mri_esm1, Annual Anomaly, NPL
+0.10256, 2060-2079, noresm1_m, Annual Anomaly, NPL
+-0.2351, 2060-2079, Ensemble (10th Percentile), Annual Anomaly, NPL
+0.07285, 2060-2079, Ensemble (50th Percentile), Annual Anomaly, NPL
+0.34875, 2060-2079, Ensemble (90th Percentile), Annual Anomaly, NPL

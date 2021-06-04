@@ -1,0 +1,339 @@
+Cold Spell Duration Index - (Days), Year, Model, Statistics, ISO3
+-0.1206, 2040-2059, access1_0, Jan Anomaly, NPL
+-0.0076, 2040-2059, access1_0, Feb Anomaly, NPL
+-0.1438, 2040-2059, access1_0, Mar Anomaly, NPL
+-0.1814, 2040-2059, access1_0, Apr Anomaly, NPL
+-0.6719, 2040-2059, access1_0, May Anomaly, NPL
+-0.1611, 2040-2059, access1_0, Jun Anomaly, NPL
+-0.2235, 2040-2059, access1_0, Jul Anomaly, NPL
+-0.3623, 2040-2059, access1_0, Aug Anomaly, NPL
+-0.5642, 2040-2059, access1_0, Sep Anomaly, NPL
+-0.6707, 2040-2059, access1_0, Oct Anomaly, NPL
+-0.1113, 2040-2059, access1_0, Nov Anomaly, NPL
+-0.1369, 2040-2059, access1_0, Dec Anomaly, NPL
+-0.729, 2040-2059, access1_3, Jan Anomaly, NPL
+-0.1011, 2040-2059, access1_3, Feb Anomaly, NPL
+-0.4039, 2040-2059, access1_3, Mar Anomaly, NPL
+-0.1992, 2040-2059, access1_3, Apr Anomaly, NPL
+-0.4079, 2040-2059, access1_3, May Anomaly, NPL
+-0.3475, 2040-2059, access1_3, Jun Anomaly, NPL
+-0.1523, 2040-2059, access1_3, Jul Anomaly, NPL
+-0.2325, 2040-2059, access1_3, Aug Anomaly, NPL
+-0.2907, 2040-2059, access1_3, Sep Anomaly, NPL
+-0.4177, 2040-2059, access1_3, Oct Anomaly, NPL
+-0.1602, 2040-2059, access1_3, Nov Anomaly, NPL
+-0.3584, 2040-2059, access1_3, Dec Anomaly, NPL
+-0.0884, 2040-2059, bcc_csm1_1_m, Jan Anomaly, NPL
+-0.0228, 2040-2059, bcc_csm1_1_m, Feb Anomaly, NPL
+-0.0258, 2040-2059, bcc_csm1_1_m, Mar Anomaly, NPL
+-0.2062, 2040-2059, bcc_csm1_1_m, Apr Anomaly, NPL
+-0.1125, 2040-2059, bcc_csm1_1_m, May Anomaly, NPL
+-0.1792, 2040-2059, bcc_csm1_1_m, Jun Anomaly, NPL
+-0.1927, 2040-2059, bcc_csm1_1_m, Jul Anomaly, NPL
+-0.1619, 2040-2059, bcc_csm1_1_m, Aug Anomaly, NPL
+-0.3079, 2040-2059, bcc_csm1_1_m, Sep Anomaly, NPL
+-0.4221, 2040-2059, bcc_csm1_1_m, Oct Anomaly, NPL
+-0.1313, 2040-2059, bcc_csm1_1_m, Nov Anomaly, NPL
+-0.3619, 2040-2059, bcc_csm1_1_m, Dec Anomaly, NPL
+-0.3758, 2040-2059, bnu_esm, Jan Anomaly, NPL
+-0.1859, 2040-2059, bnu_esm, Feb Anomaly, NPL
+-0.5326, 2040-2059, bnu_esm, Mar Anomaly, NPL
+-0.2142, 2040-2059, bnu_esm, Apr Anomaly, NPL
+-0.072, 2040-2059, bnu_esm, May Anomaly, NPL
+-0.4157, 2040-2059, bnu_esm, Jun Anomaly, NPL
+-0.2949, 2040-2059, bnu_esm, Jul Anomaly, NPL
+-0.28, 2040-2059, bnu_esm, Aug Anomaly, NPL
+-0.754, 2040-2059, bnu_esm, Sep Anomaly, NPL
+-0.5998, 2040-2059, bnu_esm, Oct Anomaly, NPL
+-0.2387, 2040-2059, bnu_esm, Nov Anomaly, NPL
+-0.1431, 2040-2059, bnu_esm, Dec Anomaly, NPL
+-0.186, 2040-2059, canesm2, Jan Anomaly, NPL
+-0.0566, 2040-2059, canesm2, Feb Anomaly, NPL
+-0.1021, 2040-2059, canesm2, Mar Anomaly, NPL
+-0.1292, 2040-2059, canesm2, Apr Anomaly, NPL
+-0.1144, 2040-2059, canesm2, May Anomaly, NPL
+-0.0838, 2040-2059, canesm2, Jun Anomaly, NPL
+-0.1173, 2040-2059, canesm2, Jul Anomaly, NPL
+-0.0721, 2040-2059, canesm2, Aug Anomaly, NPL
+-0.2581, 2040-2059, canesm2, Sep Anomaly, NPL
+-0.0455, 2040-2059, canesm2, Oct Anomaly, NPL
+-0.2083, 2040-2059, canesm2, Nov Anomaly, NPL
+-0.1669, 2040-2059, canesm2, Dec Anomaly, NPL
+-0.0537, 2040-2059, ccsm4, Jan Anomaly, NPL
+-0.3125, 2040-2059, ccsm4, Feb Anomaly, NPL
+-0.0684, 2040-2059, ccsm4, Mar Anomaly, NPL
+-0.0629, 2040-2059, ccsm4, Apr Anomaly, NPL
+-0.0415, 2040-2059, ccsm4, May Anomaly, NPL
+-0.2416, 2040-2059, ccsm4, Jun Anomaly, NPL
+-0.2124, 2040-2059, ccsm4, Jul Anomaly, NPL
+-0.0858, 2040-2059, ccsm4, Aug Anomaly, NPL
+-0.2054, 2040-2059, ccsm4, Sep Anomaly, NPL
+-0.4784, 2040-2059, ccsm4, Oct Anomaly, NPL
+-0.1042, 2040-2059, ccsm4, Nov Anomaly, NPL
+-0.2402, 2040-2059, ccsm4, Dec Anomaly, NPL
+-0.2895, 2040-2059, cesm1_cam5, Jan Anomaly, NPL
+-0.503, 2040-2059, cesm1_cam5, Feb Anomaly, NPL
+-0.0649, 2040-2059, cesm1_cam5, Mar Anomaly, NPL
+-0.1302, 2040-2059, cesm1_cam5, Apr Anomaly, NPL
+-0.1484, 2040-2059, cesm1_cam5, May Anomaly, NPL
+-0.0896, 2040-2059, cesm1_cam5, Jun Anomaly, NPL
+-0.0442, 2040-2059, cesm1_cam5, Jul Anomaly, NPL
+-0.0176, 2040-2059, cesm1_cam5, Aug Anomaly, NPL
+-0.1567, 2040-2059, cesm1_cam5, Sep Anomaly, NPL
+-0.4011, 2040-2059, cesm1_cam5, Oct Anomaly, NPL
+-0.3148, 2040-2059, cesm1_cam5, Nov Anomaly, NPL
+-0.467, 2040-2059, cesm1_cam5, Dec Anomaly, NPL
+-0.2026, 2040-2059, cnrm_cm5, Jan Anomaly, NPL
+-0.2473, 2040-2059, cnrm_cm5, Feb Anomaly, NPL
+-0.0718, 2040-2059, cnrm_cm5, Mar Anomaly, NPL
+-0.0204, 2040-2059, cnrm_cm5, Apr Anomaly, NPL
+-0.1466, 2040-2059, cnrm_cm5, May Anomaly, NPL
+0.05825, 2040-2059, cnrm_cm5, Jun Anomaly, NPL
+-0.1439, 2040-2059, cnrm_cm5, Jul Anomaly, NPL
+-0.1485, 2040-2059, cnrm_cm5, Aug Anomaly, NPL
+-0.4055, 2040-2059, cnrm_cm5, Sep Anomaly, NPL
+-0.673, 2040-2059, cnrm_cm5, Oct Anomaly, NPL
+-0.2379, 2040-2059, cnrm_cm5, Nov Anomaly, NPL
+-0.2856, 2040-2059, cnrm_cm5, Dec Anomaly, NPL
+-0.3203, 2040-2059, csiro_mk3_6_0, Jan Anomaly, NPL
+-0.4876, 2040-2059, csiro_mk3_6_0, Feb Anomaly, NPL
+-0.3005, 2040-2059, csiro_mk3_6_0, Mar Anomaly, NPL
+-0.3425, 2040-2059, csiro_mk3_6_0, Apr Anomaly, NPL
+-0.1277, 2040-2059, csiro_mk3_6_0, May Anomaly, NPL
+-0.3327, 2040-2059, csiro_mk3_6_0, Jun Anomaly, NPL
+-0.3015, 2040-2059, csiro_mk3_6_0, Jul Anomaly, NPL
+-0.49, 2040-2059, csiro_mk3_6_0, Aug Anomaly, NPL
+-0.2867, 2040-2059, csiro_mk3_6_0, Sep Anomaly, NPL
+-0.4857, 2040-2059, csiro_mk3_6_0, Oct Anomaly, NPL
+-0.4053, 2040-2059, csiro_mk3_6_0, Nov Anomaly, NPL
+-0.3566, 2040-2059, csiro_mk3_6_0, Dec Anomaly, NPL
+-0.095, 2040-2059, gfdl_cm3, Jan Anomaly, NPL
+-0.0416, 2040-2059, gfdl_cm3, Feb Anomaly, NPL
+0.03155, 2040-2059, gfdl_cm3, Mar Anomaly, NPL
+0.02716, 2040-2059, gfdl_cm3, Apr Anomaly, NPL
+-0.0418, 2040-2059, gfdl_cm3, May Anomaly, NPL
+-0.1496, 2040-2059, gfdl_cm3, Jun Anomaly, NPL
+-0.4266, 2040-2059, gfdl_cm3, Jul Anomaly, NPL
+-0.1797, 2040-2059, gfdl_cm3, Aug Anomaly, NPL
+-0.3174, 2040-2059, gfdl_cm3, Sep Anomaly, NPL
+-0.1953, 2040-2059, gfdl_cm3, Oct Anomaly, NPL
+-0.288, 2040-2059, gfdl_cm3, Nov Anomaly, NPL
+-0.1119, 2040-2059, gfdl_cm3, Dec Anomaly, NPL
+-0.065, 2040-2059, gfdl_esm2g, Jan Anomaly, NPL
+-0.0463, 2040-2059, gfdl_esm2g, Feb Anomaly, NPL
+-0.0327, 2040-2059, gfdl_esm2g, Mar Anomaly, NPL
+-0.0751, 2040-2059, gfdl_esm2g, Apr Anomaly, NPL
+0.12049, 2040-2059, gfdl_esm2g, May Anomaly, NPL
+-0.0636, 2040-2059, gfdl_esm2g, Jun Anomaly, NPL
+-0.1517, 2040-2059, gfdl_esm2g, Jul Anomaly, NPL
+-0.0284, 2040-2059, gfdl_esm2g, Aug Anomaly, NPL
+-0.1089, 2040-2059, gfdl_esm2g, Sep Anomaly, NPL
+-0.1368, 2040-2059, gfdl_esm2g, Oct Anomaly, NPL
+-0.1645, 2040-2059, gfdl_esm2g, Nov Anomaly, NPL
+-0.1677, 2040-2059, gfdl_esm2g, Dec Anomaly, NPL
+0.04195, 2040-2059, gfdl_esm2m, Jan Anomaly, NPL
+-0.1534, 2040-2059, gfdl_esm2m, Feb Anomaly, NPL
+-0.198, 2040-2059, gfdl_esm2m, Mar Anomaly, NPL
+-0.1852, 2040-2059, gfdl_esm2m, Apr Anomaly, NPL
+-0.4281, 2040-2059, gfdl_esm2m, May Anomaly, NPL
+-0.1381, 2040-2059, gfdl_esm2m, Jun Anomaly, NPL
+-0.0093, 2040-2059, gfdl_esm2m, Jul Anomaly, NPL
+0.21446, 2040-2059, gfdl_esm2m, Aug Anomaly, NPL
+-0.2054, 2040-2059, gfdl_esm2m, Sep Anomaly, NPL
+-0.1312, 2040-2059, gfdl_esm2m, Oct Anomaly, NPL
+-0.2601, 2040-2059, gfdl_esm2m, Nov Anomaly, NPL
+-0.1024, 2040-2059, gfdl_esm2m, Dec Anomaly, NPL
+-0.1707, 2040-2059, hadgem2_ao, Jan Anomaly, NPL
+-0.3554, 2040-2059, hadgem2_ao, Feb Anomaly, NPL
+-0.0965, 2040-2059, hadgem2_ao, Mar Anomaly, NPL
+-0.3749, 2040-2059, hadgem2_ao, Apr Anomaly, NPL
+-0.4315, 2040-2059, hadgem2_ao, May Anomaly, NPL
+-0.5345, 2040-2059, hadgem2_ao, Jun Anomaly, NPL
+-0.1612, 2040-2059, hadgem2_ao, Jul Anomaly, NPL
+-0.4541, 2040-2059, hadgem2_ao, Aug Anomaly, NPL
+-0.0355, 2040-2059, hadgem2_ao, Sep Anomaly, NPL
+-0.1667, 2040-2059, hadgem2_ao, Oct Anomaly, NPL
+-0.2616, 2040-2059, hadgem2_ao, Nov Anomaly, NPL
+-0.2199, 2040-2059, hadgem2_ao, Dec Anomaly, NPL
+-0.0946, 2040-2059, hadgem2_cc, Jan Anomaly, NPL
+-0.0866, 2040-2059, hadgem2_cc, Feb Anomaly, NPL
+-0.0386, 2040-2059, hadgem2_cc, Mar Anomaly, NPL
+-0.2427, 2040-2059, hadgem2_cc, Apr Anomaly, NPL
+-0.2207, 2040-2059, hadgem2_cc, May Anomaly, NPL
+-0.3879, 2040-2059, hadgem2_cc, Jun Anomaly, NPL
+-0.2892, 2040-2059, hadgem2_cc, Jul Anomaly, NPL
+-0.1151, 2040-2059, hadgem2_cc, Aug Anomaly, NPL
+-0.2586, 2040-2059, hadgem2_cc, Sep Anomaly, NPL
+-0.1769, 2040-2059, hadgem2_cc, Oct Anomaly, NPL
+-0.0889, 2040-2059, hadgem2_cc, Nov Anomaly, NPL
+-0.1425, 2040-2059, hadgem2_cc, Dec Anomaly, NPL
+-0.1391, 2040-2059, inmcm4, Jan Anomaly, NPL
+-0.2352, 2040-2059, inmcm4, Feb Anomaly, NPL
+0.28379, 2040-2059, inmcm4, Mar Anomaly, NPL
+-0.1077, 2040-2059, inmcm4, Apr Anomaly, NPL
+0.10951, 2040-2059, inmcm4, May Anomaly, NPL
+0.0898, 2040-2059, inmcm4, Jun Anomaly, NPL
+-0.1684, 2040-2059, inmcm4, Jul Anomaly, NPL
+-0.0906, 2040-2059, inmcm4, Aug Anomaly, NPL
+0.05783, 2040-2059, inmcm4, Sep Anomaly, NPL
+-0.536, 2040-2059, inmcm4, Oct Anomaly, NPL
+-0.0893, 2040-2059, inmcm4, Nov Anomaly, NPL
+0.29918, 2040-2059, inmcm4, Dec Anomaly, NPL
+-0.194, 2040-2059, ipsl_cm5a_lr, Jan Anomaly, NPL
+-0.2861, 2040-2059, ipsl_cm5a_lr, Feb Anomaly, NPL
+-0.1941, 2040-2059, ipsl_cm5a_lr, Mar Anomaly, NPL
+-0.2949, 2040-2059, ipsl_cm5a_lr, Apr Anomaly, NPL
+-0.281, 2040-2059, ipsl_cm5a_lr, May Anomaly, NPL
+-0.4964, 2040-2059, ipsl_cm5a_lr, Jun Anomaly, NPL
+-0.7294, 2040-2059, ipsl_cm5a_lr, Jul Anomaly, NPL
+-0.3057, 2040-2059, ipsl_cm5a_lr, Aug Anomaly, NPL
+-0.7996, 2040-2059, ipsl_cm5a_lr, Sep Anomaly, NPL
+-0.3157, 2040-2059, ipsl_cm5a_lr, Oct Anomaly, NPL
+-0.2778, 2040-2059, ipsl_cm5a_lr, Nov Anomaly, NPL
+-0.2428, 2040-2059, ipsl_cm5a_lr, Dec Anomaly, NPL
+-0.1552, 2040-2059, ipsl_cm5a_mr, Jan Anomaly, NPL
+-0.1702, 2040-2059, ipsl_cm5a_mr, Feb Anomaly, NPL
+-0.1891, 2040-2059, ipsl_cm5a_mr, Mar Anomaly, NPL
+-0.0224, 2040-2059, ipsl_cm5a_mr, Apr Anomaly, NPL
+-0.3122, 2040-2059, ipsl_cm5a_mr, May Anomaly, NPL
+-0.1155, 2040-2059, ipsl_cm5a_mr, Jun Anomaly, NPL
+-0.2736, 2040-2059, ipsl_cm5a_mr, Jul Anomaly, NPL
+-0.1703, 2040-2059, ipsl_cm5a_mr, Aug Anomaly, NPL
+-0.2287, 2040-2059, ipsl_cm5a_mr, Sep Anomaly, NPL
+-0.4063, 2040-2059, ipsl_cm5a_mr, Oct Anomaly, NPL
+-0.1327, 2040-2059, ipsl_cm5a_mr, Nov Anomaly, NPL
+-0.111, 2040-2059, ipsl_cm5a_mr, Dec Anomaly, NPL
+-0.074, 2040-2059, ipsl_cm5b_lr, Jan Anomaly, NPL
+-0.2384, 2040-2059, ipsl_cm5b_lr, Feb Anomaly, NPL
+0.05254, 2040-2059, ipsl_cm5b_lr, Mar Anomaly, NPL
+0.00884, 2040-2059, ipsl_cm5b_lr, Apr Anomaly, NPL
+-0.0359, 2040-2059, ipsl_cm5b_lr, May Anomaly, NPL
+-0.6123, 2040-2059, ipsl_cm5b_lr, Jun Anomaly, NPL
+-0.7926, 2040-2059, ipsl_cm5b_lr, Jul Anomaly, NPL
+-0.5629, 2040-2059, ipsl_cm5b_lr, Aug Anomaly, NPL
+-0.5722, 2040-2059, ipsl_cm5b_lr, Sep Anomaly, NPL
+-0.3277, 2040-2059, ipsl_cm5b_lr, Oct Anomaly, NPL
+-0.142, 2040-2059, ipsl_cm5b_lr, Nov Anomaly, NPL
+-0.0473, 2040-2059, ipsl_cm5b_lr, Dec Anomaly, NPL
+-0.2396, 2040-2059, miroc_esm, Jan Anomaly, NPL
+-0.3382, 2040-2059, miroc_esm, Feb Anomaly, NPL
+-0.2048, 2040-2059, miroc_esm, Mar Anomaly, NPL
+-0.0023, 2040-2059, miroc_esm, Apr Anomaly, NPL
+-0.4336, 2040-2059, miroc_esm, May Anomaly, NPL
+-0.0374, 2040-2059, miroc_esm, Jun Anomaly, NPL
+-0.0659, 2040-2059, miroc_esm, Jul Anomaly, NPL
+-0.0442, 2040-2059, miroc_esm, Aug Anomaly, NPL
+-0.0747, 2040-2059, miroc_esm, Sep Anomaly, NPL
+-0.2828, 2040-2059, miroc_esm, Oct Anomaly, NPL
+-0.239, 2040-2059, miroc_esm, Nov Anomaly, NPL
+-0.479, 2040-2059, miroc_esm, Dec Anomaly, NPL
+-0.3171, 2040-2059, mpi_esm_lr, Jan Anomaly, NPL
+-0.2567, 2040-2059, mpi_esm_lr, Feb Anomaly, NPL
+-0.0265, 2040-2059, mpi_esm_lr, Mar Anomaly, NPL
+-0.1598, 2040-2059, mpi_esm_lr, Apr Anomaly, NPL
+-0.1399, 2040-2059, mpi_esm_lr, May Anomaly, NPL
+-0.1394, 2040-2059, mpi_esm_lr, Jun Anomaly, NPL
+-0.0492, 2040-2059, mpi_esm_lr, Jul Anomaly, NPL
+-0.0412, 2040-2059, mpi_esm_lr, Aug Anomaly, NPL
+-0.4928, 2040-2059, mpi_esm_lr, Sep Anomaly, NPL
+-0.1286, 2040-2059, mpi_esm_lr, Oct Anomaly, NPL
+-0.1986, 2040-2059, mpi_esm_lr, Nov Anomaly, NPL
+-0.1717, 2040-2059, mpi_esm_lr, Dec Anomaly, NPL
+-0.7832, 2040-2059, mpi_esm_mr, Jan Anomaly, NPL
+-0.0956, 2040-2059, mpi_esm_mr, Feb Anomaly, NPL
+-0.242, 2040-2059, mpi_esm_mr, Mar Anomaly, NPL
+-0.041, 2040-2059, mpi_esm_mr, Apr Anomaly, NPL
+-0.0674, 2040-2059, mpi_esm_mr, May Anomaly, NPL
+-0.1218, 2040-2059, mpi_esm_mr, Jun Anomaly, NPL
+-0.0864, 2040-2059, mpi_esm_mr, Jul Anomaly, NPL
+-0.0888, 2040-2059, mpi_esm_mr, Aug Anomaly, NPL
+-0.1191, 2040-2059, mpi_esm_mr, Sep Anomaly, NPL
+-0.252, 2040-2059, mpi_esm_mr, Oct Anomaly, NPL
+-0.0311, 2040-2059, mpi_esm_mr, Nov Anomaly, NPL
+-0.2007, 2040-2059, mpi_esm_mr, Dec Anomaly, NPL
+-0.1875, 2040-2059, mri_cgcm3, Jan Anomaly, NPL
+-0.1537, 2040-2059, mri_cgcm3, Feb Anomaly, NPL
+-0.1629, 2040-2059, mri_cgcm3, Mar Anomaly, NPL
+-0.2001, 2040-2059, mri_cgcm3, Apr Anomaly, NPL
+-0.1382, 2040-2059, mri_cgcm3, May Anomaly, NPL
+-0.1533, 2040-2059, mri_cgcm3, Jun Anomaly, NPL
+-0.0935, 2040-2059, mri_cgcm3, Jul Anomaly, NPL
+-0.192, 2040-2059, mri_cgcm3, Aug Anomaly, NPL
+-0.4619, 2040-2059, mri_cgcm3, Sep Anomaly, NPL
+-0.4262, 2040-2059, mri_cgcm3, Oct Anomaly, NPL
+-0.3249, 2040-2059, mri_cgcm3, Nov Anomaly, NPL
+-0.5598, 2040-2059, mri_cgcm3, Dec Anomaly, NPL
+-0.158, 2040-2059, noresm1_m, Jan Anomaly, NPL
+-0.1286, 2040-2059, noresm1_m, Feb Anomaly, NPL
+-0.3152, 2040-2059, noresm1_m, Mar Anomaly, NPL
+-0.1206, 2040-2059, noresm1_m, Apr Anomaly, NPL
+-0.3776, 2040-2059, noresm1_m, May Anomaly, NPL
+-0.1166, 2040-2059, noresm1_m, Jun Anomaly, NPL
+-0.1361, 2040-2059, noresm1_m, Jul Anomaly, NPL
+-0.0842, 2040-2059, noresm1_m, Aug Anomaly, NPL
+-0.1931, 2040-2059, noresm1_m, Sep Anomaly, NPL
+-0.3538, 2040-2059, noresm1_m, Oct Anomaly, NPL
+-0.1569, 2040-2059, noresm1_m, Nov Anomaly, NPL
+-0.2615, 2040-2059, noresm1_m, Dec Anomaly, NPL
+-0.2367, 2040-2059, Ensemble (10th Percentile), Jan Anomaly, NPL
+-0.1739, 2040-2059, Ensemble (10th Percentile), Feb Anomaly, NPL
+-0.1135, 2040-2059, Ensemble (10th Percentile), Mar Anomaly, NPL
+-0.1187, 2040-2059, Ensemble (10th Percentile), Apr Anomaly, NPL
+-0.1701, 2040-2059, Ensemble (10th Percentile), May Anomaly, NPL
+-0.1826, 2040-2059, Ensemble (10th Percentile), Jun Anomaly, NPL
+-0.1282, 2040-2059, Ensemble (10th Percentile), Jul Anomaly, NPL
+-0.1053, 2040-2059, Ensemble (10th Percentile), Aug Anomaly, NPL
+-0.2501, 2040-2059, Ensemble (10th Percentile), Sep Anomaly, NPL
+-0.306, 2040-2059, Ensemble (10th Percentile), Oct Anomaly, NPL
+-0.2013, 2040-2059, Ensemble (10th Percentile), Nov Anomaly, NPL
+-0.2788, 2040-2059, Ensemble (10th Percentile), Dec Anomaly, NPL
+-0.2367, 2040-2059, Ensemble (50th Percentile), Jan Anomaly, NPL
+-0.1739, 2040-2059, Ensemble (50th Percentile), Feb Anomaly, NPL
+-0.1135, 2040-2059, Ensemble (50th Percentile), Mar Anomaly, NPL
+-0.1187, 2040-2059, Ensemble (50th Percentile), Apr Anomaly, NPL
+-0.1701, 2040-2059, Ensemble (50th Percentile), May Anomaly, NPL
+-0.1826, 2040-2059, Ensemble (50th Percentile), Jun Anomaly, NPL
+-0.1282, 2040-2059, Ensemble (50th Percentile), Jul Anomaly, NPL
+-0.1053, 2040-2059, Ensemble (50th Percentile), Aug Anomaly, NPL
+-0.2501, 2040-2059, Ensemble (50th Percentile), Sep Anomaly, NPL
+-0.306, 2040-2059, Ensemble (50th Percentile), Oct Anomaly, NPL
+-0.2013, 2040-2059, Ensemble (50th Percentile), Nov Anomaly, NPL
+-0.2788, 2040-2059, Ensemble (50th Percentile), Dec Anomaly, NPL
+0.11484, 2040-2059, Ensemble (90th Percentile), Jan Anomaly, NPL
+-0.073, 2040-2059, Ensemble (90th Percentile), Feb Anomaly, NPL
+0.02036, 2040-2059, Ensemble (90th Percentile), Mar Anomaly, NPL
+-0.0148, 2040-2059, Ensemble (90th Percentile), Apr Anomaly, NPL
+-4.0E-4, 2040-2059, Ensemble (90th Percentile), May Anomaly, NPL
+-0.0632, 2040-2059, Ensemble (90th Percentile), Jun Anomaly, NPL
+-0.0589, 2040-2059, Ensemble (90th Percentile), Jul Anomaly, NPL
+-0.0525, 2040-2059, Ensemble (90th Percentile), Aug Anomaly, NPL
+-0.2025, 2040-2059, Ensemble (90th Percentile), Sep Anomaly, NPL
+-0.174, 2040-2059, Ensemble (90th Percentile), Oct Anomaly, NPL
+0.02357, 2040-2059, Ensemble (90th Percentile), Nov Anomaly, NPL
+0.18603, 2040-2059, Ensemble (90th Percentile), Dec Anomaly, NPL
+-3.3562, 2040-2059, access1_0, Annual Anomaly, NPL
+-3.802, 2040-2059, access1_3, Annual Anomaly, NPL
+-2.2134, 2040-2059, bcc_csm1_1_m, Annual Anomaly, NPL
+-4.1072, 2040-2059, bnu_esm, Annual Anomaly, NPL
+-1.5408, 2040-2059, canesm2, Annual Anomaly, NPL
+-2.1074, 2040-2059, ccsm4, Annual Anomaly, NPL
+-2.6276, 2040-2059, cesm1_cam5, Annual Anomaly, NPL
+-2.5249, 2040-2059, cnrm_cm5, Annual Anomaly, NPL
+-4.2377, 2040-2059, csiro_mk3_6_0, Annual Anomaly, NPL
+-1.7888, 2040-2059, gfdl_cm3, Annual Anomaly, NPL
+-0.9207, 2040-2059, gfdl_esm2g, Annual Anomaly, NPL
+-1.5553, 2040-2059, gfdl_esm2m, Annual Anomaly, NPL
+-3.1158, 2040-2059, hadgem2_ao, Annual Anomaly, NPL
+-2.0453, 2040-2059, hadgem2_cc, Annual Anomaly, NPL
+-0.5264, 2040-2059, inmcm4, Annual Anomaly, NPL
+-4.418, 2040-2059, ipsl_cm5a_lr, Annual Anomaly, NPL
+-2.2877, 2040-2059, ipsl_cm5a_mr, Annual Anomaly, NPL
+-3.3441, 2040-2059, ipsl_cm5b_lr, Annual Anomaly, NPL
+-2.44, 2040-2059, miroc_esm, Annual Anomaly, NPL
+-2.1244, 2040-2059, mpi_esm_lr, Annual Anomaly, NPL
+-2.1284, 2040-2059, mpi_esm_mr, Annual Anomaly, NPL
+-3.0551, 2040-2059, mri_cgcm3, Annual Anomaly, NPL
+-2.4027, 2040-2059, noresm1_m, Annual Anomaly, NPL
+-2.7454, 2040-2059, Ensemble (10th Percentile), Annual Anomaly, NPL
+-2.585, 2040-2059, Ensemble (50th Percentile), Annual Anomaly, NPL
+-1.1415, 2040-2059, Ensemble (90th Percentile), Annual Anomaly, NPL

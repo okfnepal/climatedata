@@ -1,0 +1,27 @@
+Mean Drought Index - (SPEI), Year, Model, Statistics, ISO3
+0.38508, 2060-2079, access1_3, Annual Anomaly, NPL
+-0.3012, 2060-2079, bcc_csm1_1_m, Annual Anomaly, NPL
+0.43546, 2060-2079, bcc_csm1_1, Annual Anomaly, NPL
+0.03373, 2060-2079, bnu_esm, Annual Anomaly, NPL
+0.23481, 2060-2079, canesm2, Annual Anomaly, NPL
+0.10293, 2060-2079, ccsm4, Annual Anomaly, NPL
+0.53908, 2060-2079, cesm1_bgc, Annual Anomaly, NPL
+0.78331, 2060-2079, cesm1_cam5, Annual Anomaly, NPL
+0.06065, 2060-2079, cnrm_cm5, Annual Anomaly, NPL
+0.47222, 2060-2079, csiro_mk3_6_0, Annual Anomaly, NPL
+0.71872, 2060-2079, gfdl_cm3, Annual Anomaly, NPL
+-0.1964, 2060-2079, gfdl_esm2g, Annual Anomaly, NPL
+-0.105, 2060-2079, gfdl_esm2m, Annual Anomaly, NPL
+0.45172, 2060-2079, inmcm4, Annual Anomaly, NPL
+0.14451, 2060-2079, ipsl_cm5a_lr, Annual Anomaly, NPL
+0.4162, 2060-2079, ipsl_cm5a_mr, Annual Anomaly, NPL
+0.66597, 2060-2079, ipsl_cm5b_lr, Annual Anomaly, NPL
+0.47801, 2060-2079, miroc5, Annual Anomaly, NPL
+0.06782, 2060-2079, miroc_esm_chem, Annual Anomaly, NPL
+-0.0627, 2060-2079, miroc_esm, Annual Anomaly, NPL
+-0.2536, 2060-2079, mpi_esm_mr, Annual Anomaly, NPL
+-0.5982, 2060-2079, mri_cgcm3, Annual Anomaly, NPL
+0.86442, 2060-2079, noresm1_m, Annual Anomaly, NPL
+-0.4454, 2060-2079, Ensemble (10th Percentile), Annual Anomaly, NPL
+0.21335, 2060-2079, Ensemble (50th Percentile), Annual Anomaly, NPL
+0.89477, 2060-2079, Ensemble (90th Percentile), Annual Anomaly, NPL
