@@ -1,0 +1,69 @@
+# The data is provided by the website "Reliable Prognosis", rp5.ru
+# If you use the data, please indicate the name of the website.
+
+# Interval: Daily Data, includes multiple observation on same day at different times
+
+# Parameters:
+	1. T: Air Temperature(degree Celsius) at 2m height above earth surface
+	2. P0: Atmospheric Pressure at Weather Station level(millimeters of mercury)
+	3. P: Atmospheric Pressure reduced to mean sea level(millimeters of mercury)
+	4. Pa: Pressure Tendency: change in atmospheric pressure at last three hours(millimeters of mercury)
+	5. U: Relative Humidity(%) at 2m  height above earth's surface
+	6. DD: Mean Wind Direction(compass point) at height of 10-12 m above earth's surface over the 10 minute period immediately preceeding the observation
+	7. Ff: Mean-wind direction at height of 10-12 meters above earth surface over the 10 minute preiod immediately preceding the observation
+	8. ff10: Maximum gust value at height of 10-12m above earth surface over the 10 minute preiod immediately preceding the observation(meters per second)
+	9. ff3: Maximum gust value at height of 10-12m above earth surface between the periods of observation
+	10. N: Total Cloud Cover
+	11. WW: Present weather reported from weather station
+	12. W1: Past Weather(weather between the periods of observation)1
+	13. W2: Past Weather(weather between the periods of observation)2
+	14. Tn: Minimum air temperature(degree Celsius) during past period(not exceeding 12 hrs)
+	15. Tx: Maximum air temperature(degree Celsius) during past period(not exceeding 12 hrs)
+	16. Cl: Clouds of the genera Stratocumulus, Stratus, Cumulus and Cumulonimbus
+	17. Nh: Amount of all Cl cloud present or if no Cl cloud is present, the amount of all Cm cloud present
+	18. H: Height of the base of the lowest cloud
+	19. Cm:Clouds of genera Altocumulus, Altostratus and Nimbostratus
+	20. Ch: Clouds og genera cirrus, cirrocumulus and cirrostratus
+	21. VV: Horizontal Visibility(km)
+	22. Td: Dew point temperature at height of 2m above earth surface(degree Celsius)
+	23. RRR: Amount of precipitation
+	24. tR: The time periods during which the specified amount of precipitaion was accumulated
+	25. E: State of the ground without snow or measurable ice cover
+	26. Tg: The minimum soil surface temperature at night(degC)
+	27. E': State of the ground with snow or measurable ice
+	28. sss: Snow Depth(cm) 
+	
+	
+
+
+
+# The data collected in the resource with their station name, WMO_ID and date range for collected data are
+
+	1. Weather station Atariya, Nepal, WMO_ID=44409,selection from 02.03.2011 till 03.06.2021, all days
+	2. Weather station Bhairahawa, Nepal, WMO_ID=44438,selection from 13.02.2009 till 03.06.2021, all days
+	3. Weather station Biratnagar, Nepal, WMO_ID=44478,selection from 19.01.2010 till 03.06.2021, all days
+	4. Weather station Dadeldhura, Nepal, WMO_ID=44404,selection from 08.03.2010 till 03.06.2021, all days
+	5. Weather station Dhankuta, Nepal, WMO_ID=44477,selection from 13.02.2009 till 03.06.2021, all days
+	6. Weather station Dipayal, Nepal, WMO_ID=44406,selection from 02.03.2011 till 03.06.2021, all days
+	7. Weather station Ghorai, Nepal, WMO_ID=44429,selection from 05.03.2011 till 03.06.2021, all days
+	8. Weather station Kalimpong, India, WMO_ID=42296,selection from 07.12.2015 till 03.06.2021, all days
+	9. Weather station Darbhanga, India, WMO_ID=42391,selection from 09.12.2015 till 03.06.2021, all days
+	10. Weather station Jumla, Nepal, WMO_ID=44424,selection from 19.01.2010 till 03.06.2021, all days
+	11. Weather station Nepalgunj (airport), Nepal, WMO_ID=44418,selection from 02.03.2011 till 03.06.2021, all days
+	12. Weather station Okhaldhunga, Nepal, WMO_ID=44462,selection from 20.01.2010 till 03.06.2021, all days
+	13. Weather station Pokhara (airport), Nepal, WMO_ID=44434,selection from 19.01.2010 till 03.06.2021, all days
+	14. Weather station Rikaze, China, WMO_ID=55578,selection from 01.02.2005 till 03.06.2021, all days
+	15. Weather station Supaul, India, WMO_ID=42393,selection from 09.12.2015 till 03.06.2021, all days
+	16. Weather station Simara (airport), Nepal, WMO_ID=44449,selection from 19.01.2010 till 03.06.2021, all days
+	17. Weather station Surkhet, Nepal, WMO_ID=44416,selection from 19.01.2010 till 03.06.2021, all days
+	18. Weather station Taplejung, Nepal, WMO_ID=44474,selection from 19.01.2010 till 03.06.2021, all days
+
+
+Note: For some weather locations the nearest available station location at India or China was recorded
+	- Kalimpong, India for Ilam
+	- Darbhanga, India for Janakpur
+	- Supaul, India for Rajbiraj
+	- Rikaze, China for Syangboche 
+	
+
+
