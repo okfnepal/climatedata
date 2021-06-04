@@ -1,4 +1,4 @@
-Temperature(Celsius), Year,Month, Statistics, Country, ISO3
+Temperature(Celsius), Year,Month Statistics,  Country,ISO3
 2.8, 1991, Jan Average, Nepal, NPL
 6.6, 1991, Feb Average, Nepal, NPL
 10.6, 1991, Mar Average, Nepal, NPL
