@@ -1,0 +1,36 @@
+Basin,Glacier type,Glacier Name,Glacier number,Glacier number %,Glacier area(km2),Glacier area(%),Estimated ice reserves(km3),Estimated ice reserves(%),Mean area per glacier(km2)
+Tamor,Mountain,Miscellaneous,12,4.6,5.1,1.3,0.19,0.5,0.43
+Tamor,Mountain,Ice Apron,83,31.7,15.5,4,0.41,1,0.19
+Tamor,Mountain,Cirque,5,1.9,0.8,0.2,0.02,0,0.16
+Tamor,Mountain,Niche,17,6.5,2.6,0.7,0.07,0.2,0.15
+Tamor,Mountain,Basin,128,48.9,100,25.9,4.87,11.5,0.78
+Tamor,Valley,Trough,17,6.5,261.9,67.9,36.7,86.8,15.4
+Arun,Mountain,Ice Apron,31,28.7,8.9,6,0.29,1.9,0.29
+Arun,Mountain,Niche,5,4.6,0.4,0.2,0.01,0,0.07
+Arun,Mountain,Basin,69,63.9,52.6,35.3,2.58,17.2,0.76
+Arun,Valley,Trough,3,2.8,87.3,58.5,12.11,80.8,29.11
+Dudh Koshi,Mountain,Miscellaneous,1,0.3,0.3,0.1,0.01,0,0.31
+Dudh Koshi,Mountain,Ice Apron,84,29.3,23.1,5.9,0.74,1.9,0.28
+Dudh Koshi,Mountain,Cirque,1,0.3,0.2,0,0,0,0.17
+Dudh Koshi,Mountain,Niche,38,13.2,5.6,1.4,0.13,0.3,0.15
+Dudh Koshi,Mountain,Basin,143,49.8,121.6,31.1,6.11,15.6,0.85
+Dudh Koshi,Valley,Trough,20,7,240.4,61.4,32.21,82.2,12.02
+Likhu,Mountain,Ice Apron,6,22.2,0.8,3.4,0.02,1.1,0.13
+Likhu,Mountain,Cirque,1,3.7,0.3,1.2,0.01,0.5,0.28
+Likhu,Mountain,Niche,1,3.7,0,0.2,0,0,0.04
+Likhu,Mountain,Basin,16,59.3,12.3,53.7,0.57,40.1,0.77
+Likhu,Valley,Trough,3,11.1,9.5,41.5,0.83,58.3,3.18
+Tama Koshi,Mountain,Ice Apron,20,23.5,4.5,5.3,0.13,1.7,0.22
+Tama Koshi,Mountain,Cirque,1,1.2,0.1,0.1,0,0,0.11
+Tama Koshi,Mountain,Niche,14,16.5,1.3,1.5,0.02,0.3,0.09
+Tama Koshi,Mountain,Basin,48,56.5,28.3,33.6,1.16,14.7,0.59
+Tama Koshi,Valley,Trough,2,2.4,50.2,59.5,6.57,83.3,25.11
+Sun Koshi,Mountain,Ice Apron,11,28.2,1.7,3.2,0.03,0.8,0.15
+Sun Koshi,Mountain,Cirque,1,2.6,0.1,0.1,0,0,0.06
+Sun Koshi,Mountain,Niche,2,5.1,0.2,0.4,0,0.1,0.12
+Sun Koshi,Mountain,Basin,22,56.4,17.6,33.5,0.86,20.7,0.8
+Sun Koshi,Valley,Trough,3,7.7,33,62.7,3.26,78.4,10.99
+Indrawati,Mountain,Ice Apron,7,18.9,0.7,4,0.01,1.6,0.09
+Indrawati,Mountain,Cirque,1,2.7,0.1,0.4,0,0.1,0.06
+Indrawati,Mountain,Niche,3,8.1,0.2,1.5,0,0.5,0.08
+Indrawati,Mountain,Basin,26,70.3,15.5,94.2,0.71,97.8,0.59

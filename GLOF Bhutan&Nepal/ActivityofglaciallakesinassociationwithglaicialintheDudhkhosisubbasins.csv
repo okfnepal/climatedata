@@ -1,0 +1,60 @@
+S.N.,"Lake
+Number             "," Lake Name/ Latitude, longitude",Type,Area(m2) in  1960s,Area(m2) in 2000,Associated glacier number,Distance to glacier(m)
+1,Kdu_gl 28,Lumding Tsho,M dammed,836765,104944,Kdu_gr 21,0
+2,Kdu_gl 40,NaN,M dammed,23289,18914,Kdu_gr 24,270
+3,Kdu_gl 41,NaN,M dammed,74197,26289,Kdu_gr 25,785
+4,Kdu_gl 43,NaN,M dammed,25888,13662,Kdu_gr 26,70
+5,Kdu_gl 47,NaN,Blocked,35593,12866,Kdu_gr 32,45
+6,Kdu_gl 52,NaN,M dammed,30921,2096,Kdu_gr 35,785
+7,Kdu_gl 55,Dig Tsho*,M dammed,375681,143250,Kdu_gr 40,0
+8,Kdu_gl 69,NaN,Supraglacial,23322,3316,Kdu_gr 48,0
+9,Kdu_gl 71,NaN,Supraglacial,21194,4404,Kdu_gr 49,300
+10,Kdu_gl 150,NaN,Erosion,25489,16394,NaN,NaN
+11,Kdu_gl 158,Tanjung Tsho,Valley,218681,169539,NaN,NaN
+12,Kdu_gl 160,NaN,Erosion,27473,15439,Kdu_gr 87,670
+13,Kdu_gl 163,NaN,M dammed,21905,3714,NaN,NaN
+14,Kdu_gl 168,Ngojumba Tsho,Valley,220465,143940,NaN,NaN
+15,Kdu_gl 177,NaN,Supraglacial,28412,4138,Kdu_gr 100,0
+16,Kdu_gl 222,NaN,Supraglacial,24289,15147,Kdu_gr 100,0
+17,Kdu_gl 229,NaN,Erosion,20184,17933,Kdu_gr 113,515
+18,Kdu_gl 255,NaN,Supraglacial,48496,10425,Kdu gr 130,0
+19,Kdu_gl 286,NaN,Supraglacial,22191,6765,Kdu_gr 133,0
+20,Kdu_gl 287,NaN,Supraglacial,121762,48811,Kdu_gr 133,0
+21,Kdu_gl 300,Paugungagayang,Block/valley,23474,16606,Kdu_gr 133,95
+22,Kdu_gl 340,NaN,Supraglacial,23220,9391,Kdu_gr 156,0
+23,Kdu_gl 342,NaN,Supraglacial,41503,6977,Kdu_gr 156,0
+24,Kdu_gl 350,Imja Tsho,M dammed,848742,48811,Kdu_gr 160,0
+25,Kdu_gl 384,NaN,M dammed,29750,14431,Kdu_gr 169,245
+26,Kdu_gl 387,NaN,Supraglacial,23706,4085,Kdu_gr 284,0
+27,Kdu_gl 399,Tam Pokhari*,M dammed,265386,138846,Kdu_gr 202,0
+28,Kdu_gl 442,0,M dammed,194966,133753,Kdu_gr 247,845
+29,Kdu_gl 446,NaN,M dammed,349263,207314,Kdu_gr 289,0
+30,Kdu_gl 449,NaN,M dammed,232842,198905,Kdu_gr 249,0
+31,Kdu_gl 459,NaN,M dammed,296886,78761,Kdu_gr 260,80
+32,Kdu_gl 464,NaN,M dammed,783553,349397,Kdu_gr 262,0
+33,Kdu_gl 466,NaN,M dammed,831427,6446,Kdu_gr 264,0
+34,Kdu_gl 472,NaN,M dammed,46215,6526,Kdu_gr 293,0
+35,Kdu_gl 483,"27°43'39""N, 86°34'22""E",M dammed,34016,New,Kdu_gr 3,0
+36,Kdu_gl 488,"27°44'31""N, 86°40'24""E",Erosion,26686,New,NaN,NaN
+37,Kdu_gl 489,"27°44'42""N, 86°40'21""E",Erosion,34246,New,NaN,NaN
+38,Kdu_gl 491,"27°46'39""N, 86°38'44""E",M dammed,286119,New,Kdu_gr 28,245
+39,Kdu_gl 495,"27°54'32""N, 86°35'00""E",M dammed,20044,New,Kdu_gr 46,405
+40,Kdu_gl 501,"27°57'30""N, 86°39'50""E",M dammed,60039,New,Kdu_gr 87,270
+41,Kdu_gl 502,"27°59'20""N, 86°39'06""E",M dammed,58097,New,Kdu_gr 90,0
+42,Kdu_gl 504,"27°52'24""N, 86°41'17""E",Valley,32090,New,NaN,NaN
+43,Kdu_gl 505,"27°56'10""N, 86°42'48""E",Supraglacial,48184,New,Kdu_gr 100,0
+44,Kdu_gl 511,"27°59'27""N, 86°41'38""E",Supraglacial,27858,New,Kdu_gr 100,0
+45,Kdu_gl 513,"28°02'30""N, 86°42'31""E",M dammed,38349,New,Kdu_gr 100,210
+46,Kdu_gl 517,"27°48'38""N, 86°50'52""E",M dammed,69238,New,Kdu_gr 208,0
+47,Kdu_gl 520,"27°54'01""N, 86°54'45""E",M dammed,28950,New,NaN,NaN
+48,Kdu_gl 521,"27°53'13""N, 86°54'01""E",M dammed,65368,New,Kdu_gr 282,0
+49,Kdu_gl 522,"27°53'00""N, 86°53'43""E",M dammed,22274,New,Kdu_gr 166,135
+50,Kdu_gl 524,"27°42'49""N, 86°55'12""E",M dammed,67607,New,Kdu_gr 240,310
+51,Kdu_gl 526,"27°43'28""N, 86°54'13""E",M dammed,31381,New,Kdu_gr 240,170
+52,Kdu_gl 528,"27°49'26""N, 86°55'54""E",M dammed,46225,New,Kdu_gr 287,880
+53,Kdu_gl 529,"27°49'02""N, 86°56'26""E",Valley,31838,New,NaN,NaN
+54,Kdu_gl 532,"27°49'51""N, 86°56'14""E",M dammed,28520,New,NaN,NaN
+55,Kdu_gl 533,"27°49'15""N, 86°54'50""E",M dammed,25197,New,Kdu_gr 288,95
+56,Kdu_gl 536,"27°58'08""N, 86°42'05""E",Supraglacial,27084,New,Kdu_gr 100,0
+57,Kdu_gl 539,"27°55'20""N, 86°55'05""E",Supraglacial,34459,New,Kdu_gr 156,0
+58,Kdu_gl 543,"27°45'57""N, 86°52'31""E",Supraglacial,21467,New,Kdu_gr 205,0

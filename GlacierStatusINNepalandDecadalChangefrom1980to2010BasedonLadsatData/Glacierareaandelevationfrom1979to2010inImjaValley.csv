@@ -1,0 +1,33 @@
+Glacier,Year/No. of years after base year,1979/0,1992/12,2000/24,2010/33
+All,Glacier area (km2),63.2,53.8,51.9,45.6
+All,Cumulative area change (km2),0,9.5,11.3,17.6
+All,% area change (from base year 1979),0,15,17.9,27.8
+All,% area change (from previous observed year),0,15,3.4,12.1
+All,Maximum elevation (masl),8427,8329,8329,8057
+All,Minimum elevation (masl),4675,4689,4689,4728
+All,Elevation shift (from base year 1979) (m),0,14,14,53
+All,Elevation shift (from previous observed year) (m),0,14,0,39
+Imja,Glacier area (km2),21,20.1,19.4,17.6
+Imja,Cumulative area change (km2),0,0.9,1.6,3.4
+Imja,% area change (from base year 1979),0,4.4,7.7,16.3
+Imja,% area change (from previous observed year),0,4.4,3.4,9.3
+Imja,Maximum elevation (masl),8329,8329,8329,8057
+Imja,Minimum elevation (masl),5002,5002,5013,5019
+Imja,Elevation shift (from base year 1979) (m),0,0,11,17
+Imja,Elevation shift (from previous observed year) (m),0,0,11,6
+Lhotse,Glacier area (km2),14.7,13.1,12.1,10.2
+Lhotse,Cumulative area change (km2),0,1.6,2.6,4.5
+Lhotse,% area change (from base year 1979),0,11.2,17.6,30.5
+Lhotse,% area change (from previous observed year),0,11.2,7.2,15.6
+Lhotse,Maximum elevation (masl),7961,8039,7879,7879
+Lhotse,Minimum elevation (masl),4748,4789,4796,4843
+Lhotse,Elevation shift (from base year 1979) (m),0,41,48,95
+Lhotse,Elevation shift (from previous observed year) (m),0,41,7,47
+East Amadablam,Glacier area (km2),2.4,2.2,2,1.9
+East Amadablam,Cumulative area change (km2),0,0.2,0.4,0.4
+East Amadablam,% area change (from base year 1979),0,7.8,15.3,18.8
+East Amadablam,% area change (from previous observed year),0,7.8,8.2,4.1
+East Amadablam,Maximum elevation (masl),6016,6056,6056,6103
+East Amadablam,Minimum elevation (masl),5051,5108,5148,5176
+East Amadablam,Elevation shift (from base year 1979) (m),0,57,97,125
+East Amadablam,Elevation shift (from previous observed year) (m),0,57,40,28
