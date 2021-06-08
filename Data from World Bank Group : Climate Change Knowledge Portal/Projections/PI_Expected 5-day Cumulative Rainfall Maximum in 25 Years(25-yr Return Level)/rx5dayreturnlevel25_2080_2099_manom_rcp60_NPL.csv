@@ -1,0 +1,18 @@
+Expected Daily Rainfall Maximum in 25 Years (25-yr Return Level) - (MM), Year, Model, Statistics, ISO3
+146.272, 2080-2099, bcc_csm1_1_m, Annual Anomaly, NPL
+68.1002, 2080-2099, bcc_csm1_1, Annual Anomaly, NPL
+211.575, 2080-2099, ccsm4, Annual Anomaly, NPL
+338.888, 2080-2099, cesm1_cam5, Annual Anomaly, NPL
+13.1953, 2080-2099, csiro_mk3_6_0, Annual Anomaly, NPL
+122.613, 2080-2099, hadgem2_ao, Annual Anomaly, NPL
+67.8672, 2080-2099, hadgem2_es, Annual Anomaly, NPL
+18.7076, 2080-2099, ipsl_cm5a_lr, Annual Anomaly, NPL
+149.528, 2080-2099, ipsl_cm5a_mr, Annual Anomaly, NPL
+150.325, 2080-2099, miroc5, Annual Anomaly, NPL
+52.1288, 2080-2099, miroc_esm_chem, Annual Anomaly, NPL
+55.263, 2080-2099, miroc_esm, Annual Anomaly, NPL
+114.35, 2080-2099, mri_cgcm3, Annual Anomaly, NPL
+156.934, 2080-2099, noresm1_m, Annual Anomaly, NPL
+-106.21, 2080-2099, Ensemble (10th Percentile), Annual Anomaly, NPL
+77.901, 2080-2099, Ensemble (50th Percentile), Annual Anomaly, NPL
+959.806, 2080-2099, Ensemble (90th Percentile), Annual Anomaly, NPL

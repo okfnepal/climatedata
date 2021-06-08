@@ -1,0 +1,229 @@
+Monthly Temperature - (Celsius), Year, Model, Statistics, Country, ISO3
+1.5396143, 2040-2059, bcc_csm1_1, Jan Anomaly, Nepal, NPL
+1.152677, 2040-2059, bcc_csm1_1, Feb Anomaly, Nepal, NPL
+0.23015083, 2040-2059, bcc_csm1_1, Mar Anomaly, Nepal, NPL
+1.4796274, 2040-2059, bcc_csm1_1, Apr Anomaly, Nepal, NPL
+1.6952809, 2040-2059, bcc_csm1_1, May Anomaly, Nepal, NPL
+1.078102, 2040-2059, bcc_csm1_1, Jun Anomaly, Nepal, NPL
+0.876524, 2040-2059, bcc_csm1_1, Jul Anomaly, Nepal, NPL
+0.14509664, 2040-2059, bcc_csm1_1, Aug Anomaly, Nepal, NPL
+0.8595954, 2040-2059, bcc_csm1_1, Sep Anomaly, Nepal, NPL
+1.0899161, 2040-2059, bcc_csm1_1, Oct Anomaly, Nepal, NPL
+0.6841814, 2040-2059, bcc_csm1_1, Nov Anomaly, Nepal, NPL
+0.7331988, 2040-2059, bcc_csm1_1, Dec Anomaly, Nepal, NPL
+1.3441371, 2040-2059, bcc_csm1_1_m, Jan Anomaly, Nepal, NPL
+1.2047797, 2040-2059, bcc_csm1_1_m, Feb Anomaly, Nepal, NPL
+1.87338, 2040-2059, bcc_csm1_1_m, Mar Anomaly, Nepal, NPL
+2.0872364, 2040-2059, bcc_csm1_1_m, Apr Anomaly, Nepal, NPL
+2.0652525, 2040-2059, bcc_csm1_1_m, May Anomaly, Nepal, NPL
+2.2986176, 2040-2059, bcc_csm1_1_m, Jun Anomaly, Nepal, NPL
+1.3759954, 2040-2059, bcc_csm1_1_m, Jul Anomaly, Nepal, NPL
+1.0889623, 2040-2059, bcc_csm1_1_m, Aug Anomaly, Nepal, NPL
+0.70430404, 2040-2059, bcc_csm1_1_m, Sep Anomaly, Nepal, NPL
+1.670415, 2040-2059, bcc_csm1_1_m, Oct Anomaly, Nepal, NPL
+1.495534, 2040-2059, bcc_csm1_1_m, Nov Anomaly, Nepal, NPL
+2.2750447, 2040-2059, bcc_csm1_1_m, Dec Anomaly, Nepal, NPL
+1.7074343, 2040-2059, ccsm4, Jan Anomaly, Nepal, NPL
+1.0023156, 2040-2059, ccsm4, Feb Anomaly, Nepal, NPL
+2.202852, 2040-2059, ccsm4, Mar Anomaly, Nepal, NPL
+2.2502716, 2040-2059, ccsm4, Apr Anomaly, Nepal, NPL
+2.1360435, 2040-2059, ccsm4, May Anomaly, Nepal, NPL
+2.162067, 2040-2059, ccsm4, Jun Anomaly, Nepal, NPL
+1.5443575, 2040-2059, ccsm4, Jul Anomaly, Nepal, NPL
+1.2395642, 2040-2059, ccsm4, Aug Anomaly, Nepal, NPL
+1.2214983, 2040-2059, ccsm4, Sep Anomaly, Nepal, NPL
+1.5052431, 2040-2059, ccsm4, Oct Anomaly, Nepal, NPL
+1.4041362, 2040-2059, ccsm4, Nov Anomaly, Nepal, NPL
+1.320138, 2040-2059, ccsm4, Dec Anomaly, Nepal, NPL
+2.5882363, 2040-2059, cesm1_cam5, Jan Anomaly, Nepal, NPL
+2.5301902, 2040-2059, cesm1_cam5, Feb Anomaly, Nepal, NPL
+1.773328, 2040-2059, cesm1_cam5, Mar Anomaly, Nepal, NPL
+1.4420712, 2040-2059, cesm1_cam5, Apr Anomaly, Nepal, NPL
+0.9789324, 2040-2059, cesm1_cam5, May Anomaly, Nepal, NPL
+2.1745255, 2040-2059, cesm1_cam5, Jun Anomaly, Nepal, NPL
+1.9107997, 2040-2059, cesm1_cam5, Jul Anomaly, Nepal, NPL
+1.3867052, 2040-2059, cesm1_cam5, Aug Anomaly, Nepal, NPL
+1.5824531, 2040-2059, cesm1_cam5, Sep Anomaly, Nepal, NPL
+1.7021873, 2040-2059, cesm1_cam5, Oct Anomaly, Nepal, NPL
+2.0118065, 2040-2059, cesm1_cam5, Nov Anomaly, Nepal, NPL
+2.1106377, 2040-2059, cesm1_cam5, Dec Anomaly, Nepal, NPL
+1.8333507, 2040-2059, csiro_mk3_6_0, Jan Anomaly, Nepal, NPL
+1.9610586, 2040-2059, csiro_mk3_6_0, Feb Anomaly, Nepal, NPL
+1.2579769, 2040-2059, csiro_mk3_6_0, Mar Anomaly, Nepal, NPL
+1.6118444, 2040-2059, csiro_mk3_6_0, Apr Anomaly, Nepal, NPL
+1.4681852, 2040-2059, csiro_mk3_6_0, May Anomaly, Nepal, NPL
+1.8053352, 2040-2059, csiro_mk3_6_0, Jun Anomaly, Nepal, NPL
+1.8856585, 2040-2059, csiro_mk3_6_0, Jul Anomaly, Nepal, NPL
+1.2259243, 2040-2059, csiro_mk3_6_0, Aug Anomaly, Nepal, NPL
+0.9971498, 2040-2059, csiro_mk3_6_0, Sep Anomaly, Nepal, NPL
+1.2569363, 2040-2059, csiro_mk3_6_0, Oct Anomaly, Nepal, NPL
+1.7837745, 2040-2059, csiro_mk3_6_0, Nov Anomaly, Nepal, NPL
+1.6058375, 2040-2059, csiro_mk3_6_0, Dec Anomaly, Nepal, NPL
+1.1710291, 2040-2059, fio_esm, Jan Anomaly, Nepal, NPL
+1.7181872, 2040-2059, fio_esm, Feb Anomaly, Nepal, NPL
+1.2064855, 2040-2059, fio_esm, Mar Anomaly, Nepal, NPL
+1.2552651, 2040-2059, fio_esm, Apr Anomaly, Nepal, NPL
+1.2599472, 2040-2059, fio_esm, May Anomaly, Nepal, NPL
+0.96408314, 2040-2059, fio_esm, Jun Anomaly, Nepal, NPL
+1.6555185, 2040-2059, fio_esm, Jul Anomaly, Nepal, NPL
+1.1952226, 2040-2059, fio_esm, Aug Anomaly, Nepal, NPL
+1.1455797, 2040-2059, fio_esm, Sep Anomaly, Nepal, NPL
+0.8262605, 2040-2059, fio_esm, Oct Anomaly, Nepal, NPL
+0.7383313, 2040-2059, fio_esm, Nov Anomaly, Nepal, NPL
+0.7202756, 2040-2059, fio_esm, Dec Anomaly, Nepal, NPL
+2.4660354, 2040-2059, gfdl_cm3, Jan Anomaly, Nepal, NPL
+1.4971999, 2040-2059, gfdl_cm3, Feb Anomaly, Nepal, NPL
+2.006181, 2040-2059, gfdl_cm3, Mar Anomaly, Nepal, NPL
+2.805569, 2040-2059, gfdl_cm3, Apr Anomaly, Nepal, NPL
+2.9113925, 2040-2059, gfdl_cm3, May Anomaly, Nepal, NPL
+2.331605, 2040-2059, gfdl_cm3, Jun Anomaly, Nepal, NPL
+2.0298407, 2040-2059, gfdl_cm3, Jul Anomaly, Nepal, NPL
+2.0641804, 2040-2059, gfdl_cm3, Aug Anomaly, Nepal, NPL
+1.9299543, 2040-2059, gfdl_cm3, Sep Anomaly, Nepal, NPL
+1.9250854, 2040-2059, gfdl_cm3, Oct Anomaly, Nepal, NPL
+2.0457413, 2040-2059, gfdl_cm3, Nov Anomaly, Nepal, NPL
+1.5959303, 2040-2059, gfdl_cm3, Dec Anomaly, Nepal, NPL
+1.1236888, 2040-2059, gfdl_esm2m, Jan Anomaly, Nepal, NPL
+0.9170162, 2040-2059, gfdl_esm2m, Feb Anomaly, Nepal, NPL
+0.9129986, 2040-2059, gfdl_esm2m, Mar Anomaly, Nepal, NPL
+1.6530885, 2040-2059, gfdl_esm2m, Apr Anomaly, Nepal, NPL
+1.6894915, 2040-2059, gfdl_esm2m, May Anomaly, Nepal, NPL
+1.6378347, 2040-2059, gfdl_esm2m, Jun Anomaly, Nepal, NPL
+2.0459542, 2040-2059, gfdl_esm2m, Jul Anomaly, Nepal, NPL
+1.4367902, 2040-2059, gfdl_esm2m, Aug Anomaly, Nepal, NPL
+1.6951536, 2040-2059, gfdl_esm2m, Sep Anomaly, Nepal, NPL
+1.7278731, 2040-2059, gfdl_esm2m, Oct Anomaly, Nepal, NPL
+1.42861, 2040-2059, gfdl_esm2m, Nov Anomaly, Nepal, NPL
+0.67015046, 2040-2059, gfdl_esm2m, Dec Anomaly, Nepal, NPL
+1.0630022, 2040-2059, giss_e2_h, Jan Anomaly, Nepal, NPL
+1.6231772, 2040-2059, giss_e2_h, Feb Anomaly, Nepal, NPL
+0.95273584, 2040-2059, giss_e2_h, Mar Anomaly, Nepal, NPL
+0.7055729, 2040-2059, giss_e2_h, Apr Anomaly, Nepal, NPL
+1.3757379, 2040-2059, giss_e2_h, May Anomaly, Nepal, NPL
+1.0987132, 2040-2059, giss_e2_h, Jun Anomaly, Nepal, NPL
+1.2732067, 2040-2059, giss_e2_h, Jul Anomaly, Nepal, NPL
+1.1411504, 2040-2059, giss_e2_h, Aug Anomaly, Nepal, NPL
+1.6316756, 2040-2059, giss_e2_h, Sep Anomaly, Nepal, NPL
+1.4481704, 2040-2059, giss_e2_h, Oct Anomaly, Nepal, NPL
+1.1306244, 2040-2059, giss_e2_h, Nov Anomaly, Nepal, NPL
+1.4049237, 2040-2059, giss_e2_h, Dec Anomaly, Nepal, NPL
+1.1057303, 2040-2059, giss_e2_r, Jan Anomaly, Nepal, NPL
+1.6413203, 2040-2059, giss_e2_r, Feb Anomaly, Nepal, NPL
+1.9137357, 2040-2059, giss_e2_r, Mar Anomaly, Nepal, NPL
+1.3956589, 2040-2059, giss_e2_r, Apr Anomaly, Nepal, NPL
+0.91072136, 2040-2059, giss_e2_r, May Anomaly, Nepal, NPL
+1.2425365, 2040-2059, giss_e2_r, Jun Anomaly, Nepal, NPL
+0.9852807, 2040-2059, giss_e2_r, Jul Anomaly, Nepal, NPL
+0.60286903, 2040-2059, giss_e2_r, Aug Anomaly, Nepal, NPL
+0.92721736, 2040-2059, giss_e2_r, Sep Anomaly, Nepal, NPL
+1.1837233, 2040-2059, giss_e2_r, Oct Anomaly, Nepal, NPL
+1.2126528, 2040-2059, giss_e2_r, Nov Anomaly, Nepal, NPL
+1.061682, 2040-2059, giss_e2_r, Dec Anomaly, Nepal, NPL
+1.81799, 2040-2059, ipsl_cm5a_mr, Jan Anomaly, Nepal, NPL
+1.9872453, 2040-2059, ipsl_cm5a_mr, Feb Anomaly, Nepal, NPL
+1.9224133, 2040-2059, ipsl_cm5a_mr, Mar Anomaly, Nepal, NPL
+1.9033008, 2040-2059, ipsl_cm5a_mr, Apr Anomaly, Nepal, NPL
+1.2600715, 2040-2059, ipsl_cm5a_mr, May Anomaly, Nepal, NPL
+1.4219178, 2040-2059, ipsl_cm5a_mr, Jun Anomaly, Nepal, NPL
+1.5715233, 2040-2059, ipsl_cm5a_mr, Jul Anomaly, Nepal, NPL
+1.2011894, 2040-2059, ipsl_cm5a_mr, Aug Anomaly, Nepal, NPL
+1.504674, 2040-2059, ipsl_cm5a_mr, Sep Anomaly, Nepal, NPL
+1.351668, 2040-2059, ipsl_cm5a_mr, Oct Anomaly, Nepal, NPL
+1.6430659, 2040-2059, ipsl_cm5a_mr, Nov Anomaly, Nepal, NPL
+1.3568883, 2040-2059, ipsl_cm5a_mr, Dec Anomaly, Nepal, NPL
+1.39665, 2040-2059, miroc_esm, Jan Anomaly, Nepal, NPL
+1.2468302, 2040-2059, miroc_esm, Feb Anomaly, Nepal, NPL
+1.4495932, 2040-2059, miroc_esm, Mar Anomaly, Nepal, NPL
+1.9511954, 2040-2059, miroc_esm, Apr Anomaly, Nepal, NPL
+1.7677547, 2040-2059, miroc_esm, May Anomaly, Nepal, NPL
+1.6682353, 2040-2059, miroc_esm, Jun Anomaly, Nepal, NPL
+0.6180455, 2040-2059, miroc_esm, Jul Anomaly, Nepal, NPL
+0.815248, 2040-2059, miroc_esm, Aug Anomaly, Nepal, NPL
+1.2637566, 2040-2059, miroc_esm, Sep Anomaly, Nepal, NPL
+1.3757918, 2040-2059, miroc_esm, Oct Anomaly, Nepal, NPL
+1.4531757, 2040-2059, miroc_esm, Nov Anomaly, Nepal, NPL
+1.9909236, 2040-2059, miroc_esm, Dec Anomaly, Nepal, NPL
+3.6067123, 2040-2059, miroc_esm_chem, Jan Anomaly, Nepal, NPL
+2.486742, 2040-2059, miroc_esm_chem, Feb Anomaly, Nepal, NPL
+2.4322135, 2040-2059, miroc_esm_chem, Mar Anomaly, Nepal, NPL
+2.7929564, 2040-2059, miroc_esm_chem, Apr Anomaly, Nepal, NPL
+2.3165596, 2040-2059, miroc_esm_chem, May Anomaly, Nepal, NPL
+1.8129656, 2040-2059, miroc_esm_chem, Jun Anomaly, Nepal, NPL
+0.65103525, 2040-2059, miroc_esm_chem, Jul Anomaly, Nepal, NPL
+1.0687987, 2040-2059, miroc_esm_chem, Aug Anomaly, Nepal, NPL
+1.5936302, 2040-2059, miroc_esm_chem, Sep Anomaly, Nepal, NPL
+1.5470208, 2040-2059, miroc_esm_chem, Oct Anomaly, Nepal, NPL
+1.5158211, 2040-2059, miroc_esm_chem, Nov Anomaly, Nepal, NPL
+2.8685646, 2040-2059, miroc_esm_chem, Dec Anomaly, Nepal, NPL
+1.3042252, 2040-2059, miroc5, Jan Anomaly, Nepal, NPL
+1.4525821, 2040-2059, miroc5, Feb Anomaly, Nepal, NPL
+0.99086446, 2040-2059, miroc5, Mar Anomaly, Nepal, NPL
+1.2533532, 2040-2059, miroc5, Apr Anomaly, Nepal, NPL
+1.3525645, 2040-2059, miroc5, May Anomaly, Nepal, NPL
+1.0237797, 2040-2059, miroc5, Jun Anomaly, Nepal, NPL
+0.48227134, 2040-2059, miroc5, Jul Anomaly, Nepal, NPL
+0.89170295, 2040-2059, miroc5, Aug Anomaly, Nepal, NPL
+0.8141232, 2040-2059, miroc5, Sep Anomaly, Nepal, NPL
+0.8442773, 2040-2059, miroc5, Oct Anomaly, Nepal, NPL
+0.8661541, 2040-2059, miroc5, Nov Anomaly, Nepal, NPL
+1.1389674, 2040-2059, miroc5, Dec Anomaly, Nepal, NPL
+1.3214709, 2040-2059, mri_cgcm3, Jan Anomaly, Nepal, NPL
+1.197204, 2040-2059, mri_cgcm3, Feb Anomaly, Nepal, NPL
+1.4406807, 2040-2059, mri_cgcm3, Mar Anomaly, Nepal, NPL
+0.84883875, 2040-2059, mri_cgcm3, Apr Anomaly, Nepal, NPL
+0.41814, 2040-2059, mri_cgcm3, May Anomaly, Nepal, NPL
+1.2212398, 2040-2059, mri_cgcm3, Jun Anomaly, Nepal, NPL
+0.8142572, 2040-2059, mri_cgcm3, Jul Anomaly, Nepal, NPL
+0.7764079, 2040-2059, mri_cgcm3, Aug Anomaly, Nepal, NPL
+0.9965206, 2040-2059, mri_cgcm3, Sep Anomaly, Nepal, NPL
+0.7557921, 2040-2059, mri_cgcm3, Oct Anomaly, Nepal, NPL
+0.9934508, 2040-2059, mri_cgcm3, Nov Anomaly, Nepal, NPL
+1.9422945, 2040-2059, mri_cgcm3, Dec Anomaly, Nepal, NPL
+1.6846688, 2040-2059, noresm1_m, Jan Anomaly, Nepal, NPL
+1.5507218, 2040-2059, noresm1_m, Feb Anomaly, Nepal, NPL
+1.5877005, 2040-2059, noresm1_m, Mar Anomaly, Nepal, NPL
+2.0879827, 2040-2059, noresm1_m, Apr Anomaly, Nepal, NPL
+1.928097, 2040-2059, noresm1_m, May Anomaly, Nepal, NPL
+0.38903767, 2040-2059, noresm1_m, Jun Anomaly, Nepal, NPL
+0.35153374, 2040-2059, noresm1_m, Jul Anomaly, Nepal, NPL
+0.6067043, 2040-2059, noresm1_m, Aug Anomaly, Nepal, NPL
+1.0448978, 2040-2059, noresm1_m, Sep Anomaly, Nepal, NPL
+1.2482892, 2040-2059, noresm1_m, Oct Anomaly, Nepal, NPL
+1.3034838, 2040-2059, noresm1_m, Nov Anomaly, Nepal, NPL
+1.1475718, 2040-2059, noresm1_m, Dec Anomaly, Nepal, NPL
+1.0406212, 2040-2059, Ensemble (10th Percentile), Jan Anomaly, Nepal, NPL
+0.9724429, 2040-2059, Ensemble (10th Percentile), Feb Anomaly, Nepal, NPL
+0.6234944, 2040-2059, Ensemble (10th Percentile), Mar Anomaly, Nepal, NPL
+0.8039029, 2040-2059, Ensemble (10th Percentile), Apr Anomaly, Nepal, NPL
+0.6122599, 2040-2059, Ensemble (10th Percentile), May Anomaly, Nepal, NPL
+0.7446591, 2040-2059, Ensemble (10th Percentile), Jun Anomaly, Nepal, NPL
+0.3935529, 2040-2059, Ensemble (10th Percentile), Jul Anomaly, Nepal, NPL
+0.380673, 2040-2059, Ensemble (10th Percentile), Aug Anomaly, Nepal, NPL
+0.71184593, 2040-2059, Ensemble (10th Percentile), Sep Anomaly, Nepal, NPL
+0.77095884, 2040-2059, Ensemble (10th Percentile), Oct Anomaly, Nepal, NPL
+0.71968865, 2040-2059, Ensemble (10th Percentile), Nov Anomaly, Nepal, NPL
+0.67197853, 2040-2059, Ensemble (10th Percentile), Dec Anomaly, Nepal, NPL
+1.5084141, 2040-2059, Ensemble (50th Percentile), Jan Anomaly, Nepal, NPL
+1.4818703, 2040-2059, Ensemble (50th Percentile), Feb Anomaly, Nepal, NPL
+1.5149592, 2040-2059, Ensemble (50th Percentile), Mar Anomaly, Nepal, NPL
+1.6540247, 2040-2059, Ensemble (50th Percentile), Apr Anomaly, Nepal, NPL
+1.5203863, 2040-2059, Ensemble (50th Percentile), May Anomaly, Nepal, NPL
+1.4719229, 2040-2059, Ensemble (50th Percentile), Jun Anomaly, Nepal, NPL
+1.304537, 2040-2059, Ensemble (50th Percentile), Jul Anomaly, Nepal, NPL
+1.0554076, 2040-2059, Ensemble (50th Percentile), Aug Anomaly, Nepal, NPL
+1.2085068, 2040-2059, Ensemble (50th Percentile), Sep Anomaly, Nepal, NPL
+1.349265, 2040-2059, Ensemble (50th Percentile), Oct Anomaly, Nepal, NPL
+1.3976051, 2040-2059, Ensemble (50th Percentile), Nov Anomaly, Nepal, NPL
+1.4036115, 2040-2059, Ensemble (50th Percentile), Dec Anomaly, Nepal, NPL
+3.0132802, 2040-2059, Ensemble (90th Percentile), Jan Anomaly, Nepal, NPL
+2.4334269, 2040-2059, Ensemble (90th Percentile), Feb Anomaly, Nepal, NPL
+2.3449368, 2040-2059, Ensemble (90th Percentile), Mar Anomaly, Nepal, NPL
+2.7571034, 2040-2059, Ensemble (90th Percentile), Apr Anomaly, Nepal, NPL
+2.6326706, 2040-2059, Ensemble (90th Percentile), May Anomaly, Nepal, NPL
+2.3690374, 2040-2059, Ensemble (90th Percentile), Jun Anomaly, Nepal, NPL
+2.1081243, 2040-2059, Ensemble (90th Percentile), Jul Anomaly, Nepal, NPL
+1.7036428, 2040-2059, Ensemble (90th Percentile), Aug Anomaly, Nepal, NPL
+1.8347402, 2040-2059, Ensemble (90th Percentile), Sep Anomaly, Nepal, NPL
+1.8947862, 2040-2059, Ensemble (90th Percentile), Oct Anomaly, Nepal, NPL
+2.012646, 2040-2059, Ensemble (90th Percentile), Nov Anomaly, Nepal, NPL
+2.5482688, 2040-2059, Ensemble (90th Percentile), Dec Anomaly, Nepal, NPL

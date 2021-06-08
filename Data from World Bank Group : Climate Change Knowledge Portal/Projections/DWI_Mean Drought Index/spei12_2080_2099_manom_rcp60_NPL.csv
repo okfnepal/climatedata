@@ -1,0 +1,19 @@
+Mean Drought Index - (SPEI), Year, Model, Statistics, ISO3
+-0.1581, 2080-2099, bcc_csm1_1_m, Annual Anomaly, NPL
+-0.0649, 2080-2099, bcc_csm1_1, Annual Anomaly, NPL
+0.11245, 2080-2099, ccsm4, Annual Anomaly, NPL
+0.71544, 2080-2099, cesm1_cam5, Annual Anomaly, NPL
+-0.0458, 2080-2099, csiro_mk3_6_0, Annual Anomaly, NPL
+1.16737, 2080-2099, gfdl_cm3, Annual Anomaly, NPL
+0.7927, 2080-2099, gfdl_esm2g, Annual Anomaly, NPL
+-0.0932, 2080-2099, gfdl_esm2m, Annual Anomaly, NPL
+-0.2452, 2080-2099, ipsl_cm5a_lr, Annual Anomaly, NPL
+0.45594, 2080-2099, ipsl_cm5a_mr, Annual Anomaly, NPL
+0.72086, 2080-2099, miroc5, Annual Anomaly, NPL
+-0.5275, 2080-2099, miroc_esm_chem, Annual Anomaly, NPL
+0.08242, 2080-2099, miroc_esm, Annual Anomaly, NPL
+-0.0539, 2080-2099, mri_cgcm3, Annual Anomaly, NPL
+0.64862, 2080-2099, noresm1_m, Annual Anomaly, NPL
+-0.5031, 2080-2099, Ensemble (10th Percentile), Annual Anomaly, NPL
+0.11349, 2080-2099, Ensemble (50th Percentile), Annual Anomaly, NPL
+1.17492, 2080-2099, Ensemble (90th Percentile), Annual Anomaly, NPL

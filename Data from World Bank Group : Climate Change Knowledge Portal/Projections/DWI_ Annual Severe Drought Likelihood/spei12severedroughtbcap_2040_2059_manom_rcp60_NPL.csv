@@ -1,0 +1,19 @@
+Annual Severe Drought Likelihood - (Probability), Year, Model, Statistics, ISO3
+0.13641, 2040-2059, bcc_csm1_1_m, Annual Anomaly, NPL
+-0.0107, 2040-2059, bcc_csm1_1, Annual Anomaly, NPL
+0.08523, 2040-2059, ccsm4, Annual Anomaly, NPL
+-0.0322, 2040-2059, cesm1_cam5, Annual Anomaly, NPL
+0.07148, 2040-2059, csiro_mk3_6_0, Annual Anomaly, NPL
+0.35083, 2040-2059, gfdl_cm3, Annual Anomaly, NPL
+0.08633, 2040-2059, gfdl_esm2g, Annual Anomaly, NPL
+0.25131, 2040-2059, gfdl_esm2m, Annual Anomaly, NPL
+0.15089, 2040-2059, ipsl_cm5a_lr, Annual Anomaly, NPL
+0.13571, 2040-2059, ipsl_cm5a_mr, Annual Anomaly, NPL
+-0.0278, 2040-2059, miroc5, Annual Anomaly, NPL
+0.08303, 2040-2059, miroc_esm_chem, Annual Anomaly, NPL
+0.04853, 2040-2059, miroc_esm, Annual Anomaly, NPL
+0.21942, 2040-2059, mri_cgcm3, Annual Anomaly, NPL
+0.0209, 2040-2059, noresm1_m, Annual Anomaly, NPL
+-0.0154, 2040-2059, Ensemble (10th Percentile), Annual Anomaly, NPL
+0.08382, 2040-2059, Ensemble (50th Percentile), Annual Anomaly, NPL
+0.37003, 2040-2059, Ensemble (90th Percentile), Annual Anomaly, NPL

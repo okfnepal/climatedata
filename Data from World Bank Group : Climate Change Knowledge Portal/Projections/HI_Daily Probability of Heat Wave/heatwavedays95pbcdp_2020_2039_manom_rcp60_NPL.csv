@@ -1,0 +1,21 @@
+Daily Probability of Heat Wave - (Probability), Year, Model, Statistics, ISO3
+0.0256, 2020-2039, bcc_csm1_1_m, Annual Anomaly, NPL
+0.0159, 2020-2039, bcc_csm1_1, Annual Anomaly, NPL
+0.05283, 2020-2039, ccsm4, Annual Anomaly, NPL
+0.04616, 2020-2039, cesm1_cam5, Annual Anomaly, NPL
+0.03922, 2020-2039, csiro_mk3_6_0, Annual Anomaly, NPL
+0.1037, 2020-2039, gfdl_cm3, Annual Anomaly, NPL
+0.02841, 2020-2039, gfdl_esm2g, Annual Anomaly, NPL
+0.02932, 2020-2039, gfdl_esm2m, Annual Anomaly, NPL
+0.00373, 2020-2039, hadgem2_ao, Annual Anomaly, NPL
+0.06701, 2020-2039, hadgem2_es, Annual Anomaly, NPL
+0.05218, 2020-2039, ipsl_cm5a_lr, Annual Anomaly, NPL
+0.04652, 2020-2039, ipsl_cm5a_mr, Annual Anomaly, NPL
+0.03338, 2020-2039, miroc5, Annual Anomaly, NPL
+0.03106, 2020-2039, miroc_esm_chem, Annual Anomaly, NPL
+0.01846, 2020-2039, miroc_esm, Annual Anomaly, NPL
+0.02617, 2020-2039, mri_cgcm3, Annual Anomaly, NPL
+0.02126, 2020-2039, noresm1_m, Annual Anomaly, NPL
+0.00479, 2020-2039, Ensemble (10th Percentile), Annual Anomaly, NPL
+0.03041, 2020-2039, Ensemble (50th Percentile), Annual Anomaly, NPL
+0.07549, 2020-2039, Ensemble (90th Percentile), Annual Anomaly, NPL

@@ -1,0 +1,32 @@
+Metadata
+DHANKUTA
+
+#Variables
+	Name: Tavg
+	Units: Celsius
+	Long_name: average of minimum and maximum temperature
+	
+	Name: Tmin
+	Units: Celsius
+	Long_name: daily minimum temperature
+	
+	Name: Tax
+	Units: Celsius
+	Long_name: daily maximum temperature
+	
+# coordinates:  26.98N,   87.35E,   1210.0m; GHCN-D station code: NPM00044477 DHANKUTA Nepal
+# WMO station 44477
+# institution :: NOAA/NCEI
+# source_url :: https://catalog.data.gov/dataset/global-historical-climatology-network-daily-ghcn-daily-version-3
+# source_doi :: https://doi.org/10.7289/V5D21VHZ
+# contact_email :: ncdc.ghcnd@noaa.gov
+# reference :: Matthew J. Menne, Imke Durre, Russell S. Vose, Byron E. Gleason, and Tamara G. Houston, 2012: An Overview of the Global Historical Climatology Network-Daily Database. J. Atmos. Oceanic Technol., 29, 897-910. doi:10.1175/JTECH-D-11-00103.1.
+# license :: U.S. Government Work. The non-U.S. data cannot be redistributed within or outside of the U.S. for any commercial activities.
+# station_code :: NPM00044477
+# station_name :: DHANKUTA
+# station_country :: Nepal
+# wmo_code :: 44477
+# latitude ::   26.98 degrees_north
+# longitude ::   87.35 degrees_east
+# elevation ::   1210.0 m
+# climexp_url :: https://climexp.knmi.nl/gdcntmin.cgi?WMO=NPM00044477
