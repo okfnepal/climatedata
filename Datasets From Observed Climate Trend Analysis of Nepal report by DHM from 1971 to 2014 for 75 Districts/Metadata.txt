@@ -1,0 +1,217 @@
+Readme file for Observed Climate Change Analysis of Nepal
+Generated on YYYY-MM-DD
+
+
+Recommended citation for the dataset: DHM, 2017. Observed Climate Trend Analysis in the Districts and Physiographic Regions of Nepal (1971-2014). Department of Hydrology and Meteorology, Kathmandu
+
+*********************
+PROJECT INFORMATION
+*********************
+1. Title of dataset: Observed Climate Change Analysis of Nepal (1971 - 2014)
+2. Author information
+
+	Steering Committee
+		- Dr. Rishi Ram Sharma, Director General - Coordinator
+		- Mr. Saraju Kumar Baidya, Deputy Director General - Member
+		- Mr. Durga Prakash Manandhar, Deputy Director General - Member
+		- Dr. Jagdishwor Karmacharya, Deputy Director General - Member
+	
+	Technical Committee
+		- Dr. Archana Shrestha, Senior Divisional Meteorologist- Coordinator
+		- Ms. Pratibha Manandhar, Senior Divisional Meteorologist - Member
+		- Mr. Bikash Nepal, Meteorologist - Member
+		- Mr. Lasakusa Samir Shrestha, Meteorologist - Member
+	
+
+3. Data of data collection (single date or date range): 1971 to 2014
+
+4. Funder
+	Name: Government of Nepal, Ministry of Population and Environment, Department of Hydrology and Meterology
+
+
+
+*************************
+DATA ACCESS INFORMATION
+*************************
+
+1. Licences / restrictions placed on access to the dataset
+	©Government of Nepal, Ministry of Population and Environment, Department of Hydrology and Meteorology, 2017
+	
+	This Publication may be used for educational and non-profit purposes, provided acknowledgement of the source is accurately made. Use of any part of it for commercial purpose is strictly prohibited.
+
+2. Links to publications that use the data 
+	Reference: https://www.dhm.gov.np/uploads/climatic/467608975Observed%20Climate%20Trend%20Analysis%20Report_2017_Final.pdf
+	Reference: http://www.dhm.gov.np/uploads/climatic/1935165359NAP_TrendReport_DHM_2017.pdf
+
+3. Links to other publicly accessible locations of the data: 
+	URL: http://www.mofe.gov.np/downloadfile/MOFE_2019_Climate%20change%20scenarios%20for%20Nepal_NAP_1562647620.pdf
+	URL:https://floodresilience.net/resources/item/observed-climate-trend-analysis-of-nepal-1971-2014/
+
+4. Links to related datasets (for example, datasets from the same project. Provide the DOI in preference to the URL)
+	DOI/URL: 
+	DOI/URL: 
+
+5. Links to third party or secondary data used in the project (for example, existing datasets, third-party datasets)
+	DOI/URL: 
+	DOI/URL: 
+
+
+****************************
+METHODS OF DATA COLLECTION
+****************************
+
+1. Describe the methods for data collection and / or provide links to papers describing data collection methods
+	Paper URL: https://www.dhm.gov.np/uploads/climatic/467608975Observed%20Climate%20Trend%20Analysis%20Report_2017_Final.pdf
+	Additional information on data collection methods: Data is directly sourced from 93 climatic stations by DHM, Look under Data for more details.
+	
+2. Data processing methods 
+	The outliers and unusual values were corrected for individual stations by replacing them by average of the value from previous day and the next day.
+	More details can be found under methodology in the full report.
+
+3. Instrument information
+	Not Available 
+
+4. Quality assurance procedures
+	RClimdex software was used to test quality of the meterological data.
+
+5. Analysis methods
+	Trend and Extreme Index Analysis was done. Look under methodology for more details. 
+
+
+************************
+SUMMARY OF DATA FILES
+************************
+
+1. List of data files
+	Filename: District Maximum Temperature Trends with Corresponding Significance Levels for 75 Districts
+	Short description: Summary of district distribution with positive and negative trends annually and seasonally is given. Annual and seasonal maximum temperature trends for districts along with significance levels are annexed
+
+	Filename: District Minimum Temperature Trends with Corresponding Significance Levels for 75 Districts
+	Short description: The annual and seasonal minimum temperature trends for the districts are listed. Summary of districts with positive and negative trends for seasonal and annual minimum temperature trends is given
+
+	Filename: District Precipitation Trends with Corresponding Significance Levels for 75 Districts
+	Short description: The distribution of districts with positive and negative seasonal and annual precipitation trends is given in the dataset.
+
+	Filename: District Trends for Extreme Climate Inidices for 75 Districts
+	Short description: Results of trend analysis of eleven extreme climate indices for 75 districts of Nepal are presented in this dataset. The district trend values with significance levels for each climate are listed.
+	
+	Filename: Seasonal and Annual Climatic Normals for 5 Physiographic Regions
+	Short description: Annual and seasonal normal are calculated by averaging each time series data (for precipitation, maximum temperature and minimum temperature) for the period from 1981 to 2010.
+	
+	Filename: Seasonal and Annual Climatic Normals for 75 districts
+	Short description: Precipitation(in mm ), minimum/maximum temperatures (in degree celcius) normals for seasonal and annual time interval is expressed for each of five physiographic regions. These physiographic regions are divided on the basis of masl(meters above sea level).
+	
+
+2. Relationships between files
+	Not Available 
+
+****************************************
+DATA-SPECIFIC INFORMATION FOR: District Maximum Temperature Trends with Corresponding Significance Levels for 75 Districts
+****************************************
+1. Number of variables: 10
+
+2. Number of cases / rows: 75
+
+3. Missing data codes: Not Available
+
+4. Variable list
+	Variable name: Winter_alpha, Winter_Trend, PreMonsoon_alpha, PreMonsoon_Trend, Monsoon_alpha, Monsoon_Trend, PostMonsoon_alpha, PostMonsoon_Trend, Annual_alpha, Annual_Trend
+	Variable coding/values: Significance (alpha)
+		* : 95% CL
+		** : 99% CL 
+		*** : 99.9% CL
+		+ : insignificant at 95% CL
+		0 : insignificant at 95% CL
+	Unit of measurement: Level of Significance
+
+****************************************
+DATA-SPECIFIC INFORMATION FOR: District Minimum Temperature Trends with Corresponding Significance Levels for 75 Districts
+****************************************
+1. Number of variables: 10
+
+2. Number of cases / rows: 75
+
+
+3. Missing data codes: Not Available
+
+4. Variable list
+	Variable name: Winter_alpha, Winter_Trend, PreMonsoon_alpha, PreMonsoon_Trend, Monsoon_alpha, Monsoon_Trend, PostMonsoon_alpha, PostMonsoon_Trend, Annual_alpha, Annual_Trend
+	Variable coding/values: Significance (alpha)
+		* : 95% CL
+		** : 99% CL 
+		*** : 99.9% CL
+		+ : insignificant at 95% CL
+		0 : insignificant at 95% CL
+	Unit of measurement: Level of Significance
+
+****************************************
+DATA-SPECIFIC INFORMATION FOR: District Precipitation Trends with Corresponding Significance Levels for 75 Districts
+****************************************
+1. Number of variables: 10
+
+2. Number of cases / rows: 75
+
+3. Missing data codes: Not Available
+
+4. Variable list
+	Variable name: Winter_alpha, Winter_Trend, PreMonsoon_alpha, PreMonsoon_Trend, Monsoon_alpha, Monsoon_Trend, PostMonsoon_alpha, PostMonsoon_Trend, Annual_alpha, Annual_Trend
+	Variable coding/values: Significance (alpha)
+		* : 95% CL
+		** : 99% CL 
+		*** : 99.9% CL
+		+ : insignificant at 95% CL
+		0 : insignificant at 95% CL
+	Unit of measurement: Level of Significance
+
+****************************************
+DATA-SPECIFIC INFORMATION FOR: District Trends for Extreme Climate Inidices for 75 Districts
+****************************************
+1. Number of variables: 22
+
+2. Number of cases / rows: 75
+
+3. Missing data codes: Not Available
+
+4. Variable list
+	Variable name: Rainy_Days_alpha, Rainy_Days_Trend, Consecutive_Dry_Days_alpha, Consecutive_Dry_Days_Trend, Consecutive_Wet_Days_alpha, Consecutive_Wet_Days_Trend, Very_Wet_Days_alpha, Very_Wet_Days_Trend, Extremely_Wet_Days_alpha, Extremely_WetDays_Trend, Warm_Days_alpha, Warm_Days_Trend, Cool_Days_alpha, Cool_Days_Trend, Warm_Spell_Duration_alpha, Warm_Spell_Duration_Trend, Warm_Nights_alpha, Warm_Nights_Trend, Cool_Nights_alpha, Cool_Nights_Trend, Cold_Spell_Duration_alpha, Cold_Spell_Duration_Trend
+
+	Variable coding/values: Significance (alpha)
+		* : 95% CL
+		** : 99% CL 
+		*** : 99.9% CL
+		+ : insignificant at 95% CL
+		0 : insignificant at 95% CL
+	Unit of measurement: Level of Significance
+	
+****************************************
+DATA-SPECIFIC INFORMATION FOR: Seasonal and Annual Climatic Normals for 5 Physiographic Regions 
+****************************************
+1. Number of variables: 15
+
+2. Number of cases / rows: 75
+
+3. Missing data codes: Not Available
+
+4. Variable list
+	Variable name: Precipitaton (mm) Winter, Precipitaton (mm) Pre-monsoon, Precipitaton (mm) monsoon, Precipitaton (mm) Post-monsoon, Precipitaton (mm) winter, Maximum Temperature (C) Winter,	Maximum Temperature (C) Pre-monsoon, Maximum Temperature (C) monsoon, Maximum Temperature (C)Post-monsoon, Maximum Temperature (C) Annual, Minimum Temperature (C) Winter, Minimum Temperature (C) Pre-monsoon, Minimum Temperature (C) monsoon, Minimum Temperature (C) Post-monsoon, Minimum Temperature (C) Annual
+
+	Unit of measurement: 
+		Precipitation : mm
+		Temperature: Celsius
+
+****************************************
+DATA-SPECIFIC INFORMATION FOR: Seasonal and Annual Climatic Normals for 75 districts
+****************************************
+1. Number of variables: 15
+
+2. Number of cases / rows: 75
+
+3. Missing data codes: Not Available
+
+4. Variable list
+	Variable name: Precipitaton (mm) Winter, Precipitaton (mm) Pre-monsoon, Precipitaton (mm) monsoon, Precipitaton (mm) Post-monsoon, Precipitaton (mm) winter, Maximum Temperature (C) Winter,	Maximum Temperature (C) Pre-monsoon, Maximum Temperature (C) monsoon, Maximum Temperature (C)Post-monsoon, Maximum Temperature (C) Annual, Minimum Temperature (C) Winter, Minimum Temperature (C) Pre-monsoon, Minimum Temperature (C) monsoon, Minimum Temperature (C) Post-monsoon, Minimum Temperature (C) Annual
+
+	Unit of measurement: Level of Significance
+	Range of values: 0 to 1
+
+
