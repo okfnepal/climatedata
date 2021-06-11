@@ -1,5 +1,5 @@
 Readme file for Observed Climate Change Analysis of Nepal
-Generated on YYYY-MM-DD
+Generated on 2021-06-11
 
 
 Recommended citation for the dataset: DHM, 2017. Observed Climate Trend Analysis in the Districts and Physiographic Regions of Nepal (1971-2014). Department of Hydrology and Meteorology, Kathmandu
@@ -22,13 +22,10 @@ PROJECT INFORMATION
 		- Mr. Bikash Nepal, Meteorologist - Member
 		- Mr. Lasakusa Samir Shrestha, Meteorologist - Member
 	
-
 3. Data of data collection (single date or date range): 1971 to 2014
 
 4. Funder
 	Name: Government of Nepal, Ministry of Population and Environment, Department of Hydrology and Meterology
-
-
 
 *************************
 DATA ACCESS INFORMATION
@@ -46,15 +43,7 @@ DATA ACCESS INFORMATION
 3. Links to other publicly accessible locations of the data: 
 	URL: http://www.mofe.gov.np/downloadfile/MOFE_2019_Climate%20change%20scenarios%20for%20Nepal_NAP_1562647620.pdf
 	URL:https://floodresilience.net/resources/item/observed-climate-trend-analysis-of-nepal-1971-2014/
-
-4. Links to related datasets (for example, datasets from the same project. Provide the DOI in preference to the URL)
-	DOI/URL: 
-	DOI/URL: 
-
-5. Links to third party or secondary data used in the project (for example, existing datasets, third-party datasets)
-	DOI/URL: 
-	DOI/URL: 
-
+	
 
 ****************************
 METHODS OF DATA COLLECTION
@@ -103,7 +92,7 @@ SUMMARY OF DATA FILES
 	
 
 2. Relationships between files
-	Not Available 
+	None 
 
 ****************************************
 DATA-SPECIFIC INFORMATION FOR: District Maximum Temperature Trends with Corresponding Significance Levels for 75 Districts
@@ -112,7 +101,7 @@ DATA-SPECIFIC INFORMATION FOR: District Maximum Temperature Trends with Correspo
 
 2. Number of cases / rows: 75
 
-3. Missing data codes: Not Available
+3. Missing data codes: None
 
 4. Variable list
 	Variable name: Winter_alpha, Winter_Trend, PreMonsoon_alpha, PreMonsoon_Trend, Monsoon_alpha, Monsoon_Trend, PostMonsoon_alpha, PostMonsoon_Trend, Annual_alpha, Annual_Trend
@@ -132,7 +121,7 @@ DATA-SPECIFIC INFORMATION FOR: District Minimum Temperature Trends with Correspo
 2. Number of cases / rows: 75
 
 
-3. Missing data codes: Not Available
+3. Missing data codes: None
 
 4. Variable list
 	Variable name: Winter_alpha, Winter_Trend, PreMonsoon_alpha, PreMonsoon_Trend, Monsoon_alpha, Monsoon_Trend, PostMonsoon_alpha, PostMonsoon_Trend, Annual_alpha, Annual_Trend
@@ -151,7 +140,7 @@ DATA-SPECIFIC INFORMATION FOR: District Precipitation Trends with Corresponding 
 
 2. Number of cases / rows: 75
 
-3. Missing data codes: Not Available
+3. Missing data codes: None
 
 4. Variable list
 	Variable name: Winter_alpha, Winter_Trend, PreMonsoon_alpha, PreMonsoon_Trend, Monsoon_alpha, Monsoon_Trend, PostMonsoon_alpha, PostMonsoon_Trend, Annual_alpha, Annual_Trend
@@ -170,7 +159,7 @@ DATA-SPECIFIC INFORMATION FOR: District Trends for Extreme Climate Inidices for 
 
 2. Number of cases / rows: 75
 
-3. Missing data codes: Not Available
+3. Missing data codes: None
 
 4. Variable list
 	Variable name: Rainy_Days_alpha, Rainy_Days_Trend, Consecutive_Dry_Days_alpha, Consecutive_Dry_Days_Trend, Consecutive_Wet_Days_alpha, Consecutive_Wet_Days_Trend, Very_Wet_Days_alpha, Very_Wet_Days_Trend, Extremely_Wet_Days_alpha, Extremely_WetDays_Trend, Warm_Days_alpha, Warm_Days_Trend, Cool_Days_alpha, Cool_Days_Trend, Warm_Spell_Duration_alpha, Warm_Spell_Duration_Trend, Warm_Nights_alpha, Warm_Nights_Trend, Cool_Nights_alpha, Cool_Nights_Trend, Cold_Spell_Duration_alpha, Cold_Spell_Duration_Trend
@@ -190,7 +179,7 @@ DATA-SPECIFIC INFORMATION FOR: Seasonal and Annual Climatic Normals for 5 Physio
 
 2. Number of cases / rows: 75
 
-3. Missing data codes: Not Available
+3. Missing data codes: None
 
 4. Variable list
 	Variable name: Precipitaton (mm) Winter, Precipitaton (mm) Pre-monsoon, Precipitaton (mm) monsoon, Precipitaton (mm) Post-monsoon, Precipitaton (mm) winter, Maximum Temperature (C) Winter,	Maximum Temperature (C) Pre-monsoon, Maximum Temperature (C) monsoon, Maximum Temperature (C)Post-monsoon, Maximum Temperature (C) Annual, Minimum Temperature (C) Winter, Minimum Temperature (C) Pre-monsoon, Minimum Temperature (C) monsoon, Minimum Temperature (C) Post-monsoon, Minimum Temperature (C) Annual
@@ -206,12 +195,13 @@ DATA-SPECIFIC INFORMATION FOR: Seasonal and Annual Climatic Normals for 75 distr
 
 2. Number of cases / rows: 75
 
-3. Missing data codes: Not Available
+3. Missing data codes: None
 
 4. Variable list
 	Variable name: Precipitaton (mm) Winter, Precipitaton (mm) Pre-monsoon, Precipitaton (mm) monsoon, Precipitaton (mm) Post-monsoon, Precipitaton (mm) winter, Maximum Temperature (C) Winter,	Maximum Temperature (C) Pre-monsoon, Maximum Temperature (C) monsoon, Maximum Temperature (C)Post-monsoon, Maximum Temperature (C) Annual, Minimum Temperature (C) Winter, Minimum Temperature (C) Pre-monsoon, Minimum Temperature (C) monsoon, Minimum Temperature (C) Post-monsoon, Minimum Temperature (C) Annual
 
-	Unit of measurement: Level of Significance
-	Range of values: 0 to 1
+	Unit of measurement: 
+		Precipitation : mm
+		Temperature: Celsius
 
 
