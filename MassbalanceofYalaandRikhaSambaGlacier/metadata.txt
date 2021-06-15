@@ -1,6 +1,6 @@
-pdf title: Mass balance of Yala and Rikha Samba Glacier, Nepal from 2000 to 2017
-Authors:Dorothea Stumm,Sharad Prasad Joshi,Tika Ram Gurung,Gunjan Silwal
-Correspondence to: Dorothea Stumm (stummd@gmail.com)
+# pdf title: Mass balance of Yala and Rikha Samba Glacier, Nepal from 2000 to 2017
+# Authors:Dorothea Stumm,Sharad Prasad Joshi,Tika Ram Gurung,Gunjan Silwal
+#Correspondence to: Dorothea Stumm (stummd@gmail.com)
 
 Method of data collection: Tabular data converted to csv
 
