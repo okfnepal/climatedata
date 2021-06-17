@@ -1,0 +1,21 @@
+Rainfall Seasonality - (Standard Deviation), Year, Model, Statistics, ISO3
+0.0114, 2080-2099, bcc_csm1_1_m, Annual Anomaly, NPL
+-1.0E-4, 2080-2099, bcc_csm1_1, Annual Anomaly, NPL
+0.09875, 2080-2099, ccsm4, Annual Anomaly, NPL
+0.04738, 2080-2099, cesm1_cam5, Annual Anomaly, NPL
+-0.0154, 2080-2099, csiro_mk3_6_0, Annual Anomaly, NPL
+0.22291, 2080-2099, gfdl_cm3, Annual Anomaly, NPL
+0.05952, 2080-2099, gfdl_esm2g, Annual Anomaly, NPL
+0.04172, 2080-2099, gfdl_esm2m, Annual Anomaly, NPL
+0.07309, 2080-2099, hadgem2_ao, Annual Anomaly, NPL
+0.0492, 2080-2099, hadgem2_es, Annual Anomaly, NPL
+0.19251, 2080-2099, ipsl_cm5a_lr, Annual Anomaly, NPL
+-0.0097, 2080-2099, ipsl_cm5a_mr, Annual Anomaly, NPL
+-0.0506, 2080-2099, miroc5, Annual Anomaly, NPL
+0.15191, 2080-2099, miroc_esm_chem, Annual Anomaly, NPL
+0.08361, 2080-2099, miroc_esm, Annual Anomaly, NPL
+0.01913, 2080-2099, mri_cgcm3, Annual Anomaly, NPL
+-3.0E-4, 2080-2099, noresm1_m, Annual Anomaly, NPL
+-0.2679, 2080-2099, Ensemble (10th Percentile), Annual Anomaly, NPL
+0.05456, 2080-2099, Ensemble (50th Percentile), Annual Anomaly, NPL
+0.34093, 2080-2099, Ensemble (90th Percentile), Annual Anomaly, NPL

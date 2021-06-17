@@ -1,0 +1,18 @@
+Expected Largest Monthly Rainfall Amount in 25 Years (25-yr Return Level) - (MM), Year, Model, Statistics, ISO3
+156.708, 2080-2099, bcc_csm1_1_m, Annual Anomaly, NPL
+105.529, 2080-2099, bcc_csm1_1, Annual Anomaly, NPL
+473.207, 2080-2099, ccsm4, Annual Anomaly, NPL
+679.257, 2080-2099, cesm1_cam5, Annual Anomaly, NPL
+52.7492, 2080-2099, csiro_mk3_6_0, Annual Anomaly, NPL
+408.22, 2080-2099, hadgem2_ao, Annual Anomaly, NPL
+164.778, 2080-2099, hadgem2_es, Annual Anomaly, NPL
+198.595, 2080-2099, ipsl_cm5a_lr, Annual Anomaly, NPL
+431.53, 2080-2099, ipsl_cm5a_mr, Annual Anomaly, NPL
+542.677, 2080-2099, miroc5, Annual Anomaly, NPL
+254.457, 2080-2099, miroc_esm_chem, Annual Anomaly, NPL
+212.484, 2080-2099, miroc_esm, Annual Anomaly, NPL
+155.82, 2080-2099, mri_cgcm3, Annual Anomaly, NPL
+382.439, 2080-2099, noresm1_m, Annual Anomaly, NPL
+-569.6, 2080-2099, Ensemble (10th Percentile), Annual Anomaly, NPL
+225.574, 2080-2099, Ensemble (50th Percentile), Annual Anomaly, NPL
+2935.08, 2080-2099, Ensemble (90th Percentile), Annual Anomaly, NPL

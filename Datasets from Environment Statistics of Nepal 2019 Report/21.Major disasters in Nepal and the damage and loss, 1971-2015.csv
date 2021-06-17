@@ -1,0 +1,15 @@
+Disaster type,No. of death,No. of persons missing,No. of persons injured,No. of houses damaged or destroyed,No of affected families,No. of incidents
+Epidemic,16564,0,43076,0,512970,3448
+Earthquake,9771,0,29142,982855,890995,175
+Landslide,4832,165,1727,32819,556774,3012
+Flood,4344,6,527,215427,3702942,3720
+Fire,1541,0,1379,83527,256445,7187
+Thunderbolt,1502,129,2444,952,6880,1505
+Cold wave,515,0,83,0,2393,390
+Snow storm,87,7,0,0,0,5
+Avalanche,16,3,7,0,0,2
+Wind storm,0,0,2,0,0,16
+Hailstones,0,0,0,6,2608,17
+Heavy rainfall,0,0,0,4,5,3
+Other*,1092,0,0,15323,0,2892
+Total,40264,310,78387,1330913,5932012,22372

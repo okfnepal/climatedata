@@ -1,22 +1,0 @@
-﻿Region,Station,Date of Establishment,Meterological Station Lat(N),Meterological Station Long(E),Meterological Station Altitude(in masl),Hydrological Station Lat(N),Hydrological Station Long.(E),Hydrological Station Altitude(in masl),Catchment(sq km),River Basin,Glacier Covered(in percentage),Source,Type of hydrological station,Type of meterological station,Remarks
-MAKALU,Tashigaon,"Nov, 1990","27  37' 00""","87  16' 00""",2100,-,-,-,-,-,-,-,Semiautomatic,-,-
-MAKALU,Barun Dovan,29-Mar-00,-,-,-,27  44'00,87  11' 00,2000,240,Barun,-,Lower Barun Glacier,Staff gauge,Raingauge,-
-KHUMBU,Dingboche,"May, 1987","27 53' 20""","86  49' 50""",4355,"27  53' 40""","86  56'40""",4375,135,Imja,27,Imja glacier,Recorder,Semiautomatic,-
-KHUMBU,Pangboche,"May, 1996",-,-,-,-,-,-,-,-,-,khumbu Glacier,-,raingauge,-
-KHUMBU,Imja lake,"April, 2017",27 59' N,86  56 E,5000,-,-,-,-,Imja,-,Imja glacier,RLS(Radar Level Sensor) in lake,AWS,-
-KHUMBU,Sangboche,"Oct, 1994","27 48' 53.8""","86  42' 48""",3832,-,-,-,-,-,-,-,-,AWS,-
-KHUMBU,Gokyo,"Nov, 2005","27 57' 9.4""","86  41' 55""",4800,-,-,-,-,-,-,-,-,AWS,Closed
-KHUMBU,Phanka,"Nov, 2005",-,-,-,"27  54' 53""","86  43' 65""",4450,-,-,-,-,-,RLS,Closed
-KHUMBU,Thukla,2007,-,-,4600,-,-,-,-,-,-,-,-,AWS,Closed
-LANGTANG,Kyangjing,"July, 1987","28 13' 00""","85  37' 00""",3920,"28 12'34""","85  32' 50""",3658,340,Langtang,38,"Langtang, yala , Lirung and khimsung glacier",RLS (Radar Level Sensr),Semiautmatic/ AWS,-
-ANNAPURNA,"Machhapuchre base camp","July, 1987","28  32' 00""","83  57' 00""",3750,-,-,-,-,-,-,-,-,Semiautmatic/ AWS,-
-ANNAPURNA,Bagar,"July, 1987",-,-,-,"28  30'30""","83  54' 19""",3313,148,Modi,33,Annapurna glacier,RLS (Radar Level Sensr),-,-
-KANJIROWA,Hurikot,"May, 1991","29  07' 00""","82  36' 00""",2735,-,-,-,-,-,-,-,-,Semiautomatic,-
-KANJIROWA,Hurikot,"May, 1991",-,-,-,"29  05' 00""","82  33' 00""",2600,725,Sano Bheri,NA,Kanjirowa Glacier,Staff gauge,-,-
-HUMLA,Panchamukhi base   camp,18-Jun-03,-,-,3825,-,-,-,-,-,-,Panchmukhi Glacier,Semiautomatic,-,-
-HUMLA,Daldung,18-Jun-03,-,-,-,"30  11' 00""","81  32' 00""",3500,-,Daldung khola,-,-,Staff gauge,-,-
-TSHO ROLPA,Tsho Rolpa,2000,"27  50' 00""","86  28' 00""",4580,-,-,-,-,-,-,Trakarding glacier,RLS (Radar Level Sensor) in lake,AWS,-
-RWALLING KHOLA BEDING,Rwalling Khola Beding,2000,-,-,-,"27  51' 00""","86  27' 00""",3800,-,Rwalling Khola,-,-,Staff gauge,Semiautmatic,-
-DHARAPANI MANAG,Dharapani Manag,,-,-,-,-,-,-,-,-,-,Thulagi Glacier,-,-,-
-DONA KHOLA,Dona Khola,2000,-,-,-,"28  30' 00""","84  21' 00""",-,-,Dona khola,-,-,staff gauge,Raingauge,out let of Thulagi Glacier lake
-DAFEN LAKE,Dafe lake Thali Jumla,2010 June,"29  21' 30""","82  09' 35""",3800,-,-,-,-,-,-,-,Semiautomatic,-,-

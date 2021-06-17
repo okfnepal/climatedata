@@ -1,0 +1,31 @@
+Range between Wettest and Driest Year  - (MM), Year, Model, Statistics, ISO3
+-54.494, 2060-2079, access1_0, Annual Anomaly, NPL
+145.25, 2060-2079, access1_3, Annual Anomaly, NPL
+-179.05, 2060-2079, bcc_csm1_1_m, Annual Anomaly, NPL
+-1.2041, 2060-2079, bcc_csm1_1, Annual Anomaly, NPL
+184.94, 2060-2079, bnu_esm, Annual Anomaly, NPL
+-103.05, 2060-2079, canesm2, Annual Anomaly, NPL
+-175.17, 2060-2079, ccsm4, Annual Anomaly, NPL
+481.28, 2060-2079, cesm1_bgc, Annual Anomaly, NPL
+-276.9, 2060-2079, cesm1_cam5, Annual Anomaly, NPL
+-10.579, 2060-2079, cnrm_cm5, Annual Anomaly, NPL
+-28.279, 2060-2079, csiro_mk3_6_0, Annual Anomaly, NPL
+345.875, 2060-2079, gfdl_cm3, Annual Anomaly, NPL
+437.065, 2060-2079, gfdl_esm2g, Annual Anomaly, NPL
+351.29, 2060-2079, gfdl_esm2m, Annual Anomaly, NPL
+86.9532, 2060-2079, hadgem2_ao, Annual Anomaly, NPL
+-39.236, 2060-2079, hadgem2_cc, Annual Anomaly, NPL
+-139.24, 2060-2079, inmcm4, Annual Anomaly, NPL
+115.514, 2060-2079, ipsl_cm5a_lr, Annual Anomaly, NPL
+-251.65, 2060-2079, ipsl_cm5a_mr, Annual Anomaly, NPL
+-32.849, 2060-2079, ipsl_cm5b_lr, Annual Anomaly, NPL
+-134.79, 2060-2079, miroc5, Annual Anomaly, NPL
+60.4704, 2060-2079, miroc_esm_chem, Annual Anomaly, NPL
+402.996, 2060-2079, miroc_esm, Annual Anomaly, NPL
+-45.51, 2060-2079, mpi_esm_lr, Annual Anomaly, NPL
+326.511, 2060-2079, mpi_esm_mr, Annual Anomaly, NPL
+116.696, 2060-2079, mri_cgcm3, Annual Anomaly, NPL
+345.446, 2060-2079, noresm1_m, Annual Anomaly, NPL
+-477.06, 2060-2079, Ensemble (10th Percentile), Annual Anomaly, NPL
+67.3188, 2060-2079, Ensemble (50th Percentile), Annual Anomaly, NPL
+1092.37, 2060-2079, Ensemble (90th Percentile), Annual Anomaly, NPL

@@ -1,0 +1,18 @@
+Expected 5-day Cumulative Rainfall Maximum in 10 Years (10-yr Return Level) - (MM), Year, Model, Statistics, ISO3
+26.8318, 2040-2059, bcc_csm1_1_m, Annual Anomaly, NPL
+54.4921, 2040-2059, bcc_csm1_1, Annual Anomaly, NPL
+95.6311, 2040-2059, ccsm4, Annual Anomaly, NPL
+100.958, 2040-2059, cesm1_cam5, Annual Anomaly, NPL
+-1.3497, 2040-2059, csiro_mk3_6_0, Annual Anomaly, NPL
+42.7017, 2040-2059, hadgem2_ao, Annual Anomaly, NPL
+15.3553, 2040-2059, hadgem2_es, Annual Anomaly, NPL
+-6.1771, 2040-2059, ipsl_cm5a_lr, Annual Anomaly, NPL
+45.2087, 2040-2059, ipsl_cm5a_mr, Annual Anomaly, NPL
+92.9185, 2040-2059, miroc5, Annual Anomaly, NPL
+36.1352, 2040-2059, miroc_esm_chem, Annual Anomaly, NPL
+0.92986, 2040-2059, miroc_esm, Annual Anomaly, NPL
+28.3936, 2040-2059, mri_cgcm3, Annual Anomaly, NPL
+68.1126, 2040-2059, noresm1_m, Annual Anomaly, NPL
+-95.635, 2040-2059, Ensemble (10th Percentile), Annual Anomaly, NPL
+18.2314, 2040-2059, Ensemble (50th Percentile), Annual Anomaly, NPL
+520.124, 2040-2059, Ensemble (90th Percentile), Annual Anomaly, NPL

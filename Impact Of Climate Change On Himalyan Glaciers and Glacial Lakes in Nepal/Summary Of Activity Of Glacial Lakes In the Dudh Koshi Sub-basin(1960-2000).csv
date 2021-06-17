@@ -1,0 +1,17 @@
+Lake status,Types of lakes,No
+Disappeared(or less than 50x50 sq.m) lakes,Supraglacial lakes ,199
+Disappeared(or less than 50x50 sq.m) lakes,Erosion lakes,34
+Disappeared(or less than 50x50 sq.m) lakes,Valley lakes,3
+Disappeared(or less than 50x50 sq.m) lakes,End moraine-dammed lakes,2
+Disappeared(or less than 50x50 sq.m) lakes,Lateral moraine dammed  lakes,5
+Disappeared(or less than 50x50 sq.m) lakes,Cirque  ,2
+Converted lakes,from supraglacial to end moraine-dammed,11
+New lakes formed,Supraglacial lakes ,5
+New lakes formed,Erosion lakes,2
+New lakes formed,Valley lakes,2
+New lakes formed,End moraine-dammed lakes,15
+Growing lakes,Supraglacial lakes ,10
+Growing lakes,Valley lakes,2
+Growing lakes,End or lateral moraine-dammed lakes,17
+Growing lakes,Blocked lakes ,2
+Growing lakes,Erosion lakes,3

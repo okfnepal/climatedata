@@ -1,0 +1,40 @@
+# Dates (month/year):January 1981 - December 2019 
+# Climate zone: na (reference Briggs et al: http://www.energycodes.gov)
+# Value for missing model data cannot be computed or out of model availability range: -999 
+# Before January 2018 the precipitation is reported as an accumulation, after it is in average rate.
+
+# "These data were obtained from the NASA Langley Research Center (LaRC) POWER Project funded through the NASA Earth Science/Applied Science Program."
+
+# Parameter(s): 
+	1. PRECTOT: MERRA2 1/2x1/2 Precipitation (mm day-1)
+	2. PS: MERRA2 1/2x1/2 Surface Pressure (kPa)
+	3. QV2M: MERRA2 1/2x1/2 Specific Humidity at 2 Meters (g/kg)
+	4. RH2M: MERRA2 1/2x1/2 Relative Humidity at 2 Meters (%) 
+	5. T2M: MERRA2 1/2x1/2 Temperature at 2 Meters (C) 
+	6. T2MWET: MERRA2 1/2x1/2 Wet Bulb Temperature at 2 Meters (C) 
+	7. T2M_MAX: MERRA2 1/2x1/2 Maximum Temperature at 2 Meters (C)
+	8. T2M_MIN: MERRA2 1/2x1/2 Minimum Temperature at 2 Meters (C)
+	9. T2M_RANGE: MERRA2 1/2x1/2 Temperature Range at 2 Meters (C) 
+	10. TS: MERRA2 1/2x1/2 Earth Skin Temperature (C) 
+	11. WS10M: MERRA2 1/2x1/2 Wind Speed at 10 Meters (m/s) 
+	12. WS10M_MAX: MERRA2 1/2x1/2 Maximum Wind Speed at 10 Meters (m/s)
+	13. WS10M_MIN: MERRA2 1/2x1/2 Minimum Wind Speed at 10 Meters (m/s) 
+	14. WS10M_RANGE: MERRA2 1/2x1/2 Wind Speed Range at 10 Meters (m/s) 
+	15. WS50M: MERRA2 1/2x1/2 Wind Speed at 50 Meters (m/s) 
+	16. WS50M_MAX: MERRA2 1/2x1/2 Maximum Wind Speed at 50 Meters (m/s)  
+	17. WS50M_MIN: MERRA2 1/2x1/2 Minimum Wind Speed at 50 Meters (m/s) 
+	18. WS50M_RANGE: MERRA2 1/2x1/2 Wind Speed Range at 50 Meters (m/s) 
+	
+# Interval: Monthly
+# Statistics: Average
+# Community : SSE - Renewable Energy
+# File Format: CSV
+#License: As a government entity, NASA does not license the use of NASA materials or sign licensing agreements.
+#Terms of use:
+Free to use, share, reproduce and modify on the condition that NASA material may not be used to state or imply the endorsement by NASA or by any NASA employee of a commercial product, service, or activity, or used in any manner that might mislead.
+It is unlawful to falsely claim copyright or other rights in NASA material. 
+NASA content used in a factual manner that does not imply endorsement may be used without needing explicit permission. NASA should be acknowledged as the source of the material.
+
+Note: 13th month in the date represents annual average. Example: 201013 represents annual average for the year 2010
+Note: These data are extracted with respect to meterological stations in nepal and the power data products are currently available at 0.5 x 0.5 degree resolution. Data at a too high a resolution (i.e, less than 0.5 degree or about 50 km), are potentially repetitively requesting the same information.
+Note: Within two to three (2-3) months after real-time, the meteorological data products are replaced with improved climate quality data products.

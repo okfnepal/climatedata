@@ -1,0 +1,32 @@
+Category,Analytical Domain,"Increased Incidence of Vector-borne Disease (HH, %) Yes","Increased Incidence of Vector-borne Disease (HH, %)No"
+Urban/Rural,Urban,12.85,87.15
+Urban/Rural,Rural,20.97,79.03
+Ecological Belt,Mountain,36.43,63.57
+Ecological Belt,Hill,15.31,84.69
+Ecological Belt,Terai,18.79,81.21
+Eco-Development Region,Eastern Mountain,25.29,74.71
+Eco-Development Region,Eastern Hill,13.03,86.97
+Eco-Development Region,Eastern Terai,15.47,84.53
+Eco-Development Region,Central Mountain,13.89,86.11
+Eco-Development Region,Central Hill,19.18,80.82
+Eco-Development Region,Central Terai,19.52,80.48
+Eco-Development Region,Western Mountain,0,100
+Eco-Development Region,Western Hill,3.02,96.98
+Eco-Development Region,Western Terai,19.72,80.28
+Eco-Development Region,Mid-western Mountain,58.75,41.25
+Eco-Development Region,Mid-western Hill,40.49,59.51
+Eco-Development Region,Mid-western Terai,18.16,81.84
+Eco-Development Region,Far-western Mountain,71.51,28.49
+Eco-Development Region,Far-western Hill,15.88,84.12
+Eco-Development Region,Far-western Terai,32.01,67.99
+Valley,Kathmandu Valley,4.32,95.68
+NAPA Combined Vulnerability Index,Very High,22.26,77.74
+NAPA Combined Vulnerability Index,High,30.25,69.75
+NAPA Combined Vulnerability Index,Moderate,10.17,89.83
+NAPA Combined Vulnerability Index,Low,12.48,87.52
+NAPA Combined Vulnerability Index,Very Low,15.16,84.84
+Bio-Climatic Zone,Tropical,17.27,82.73
+Bio-Climatic Zone,Sub-tropical,18.61,81.39
+Bio-Climatic Zone,Temperate,36.1,63.9
+Bio-Climatic Zone,Sub-alpine,0,100
+Country,Nepal,18.59,81.41

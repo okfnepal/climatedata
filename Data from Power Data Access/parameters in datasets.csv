@@ -1,0 +1,26 @@
+-BEGIN HEADER-
+NASA/POWER SRB/FLASHFlux/MERRA2/GEOS 5.12.4 (FP-IT) 0.5 x 0.5 Degree Interannual Averages/Sums 
+Dates (month/day/year): 01/01/1981 through 12/31/2019 
+Climate zone: na (reference Briggs et al: http://www.energycodes.gov) 
+Value for missing model data cannot be computed or out of model availability range: -999 
+Before January 2018 the precipitation is reported as an accumulation  after it is in average rate.
+Parameter(s): 
+TS MERRA2 1/2x1/2 Earth Skin Temperature (C) 
+T2M_MIN MERRA2 1/2x1/2 Minimum Temperature at 2 Meters (C) 
+WS10M MERRA2 1/2x1/2 Wind Speed at 10 Meters (m/s) 
+PRECTOT MERRA2 1/2x1/2 Precipitation (mm day-1) 
+WS10M_MAX MERRA2 1/2x1/2 Maximum Wind Speed at 10 Meters (m/s) 
+WS50M_MAX MERRA2 1/2x1/2 Maximum Wind Speed at 50 Meters (m/s) 
+WS50M_MIN MERRA2 1/2x1/2 Minimum Wind Speed at 50 Meters (m/s) 
+T2M MERRA2 1/2x1/2 Temperature at 2 Meters (C) 
+WS50M_RANGE MERRA2 1/2x1/2 Wind Speed Range at 50 Meters (m/s) 
+WS50M MERRA2 1/2x1/2 Wind Speed at 50 Meters (m/s) 
+QV2M MERRA2 1/2x1/2 Specific Humidity at 2 Meters (g/kg) 
+WS10M_MIN MERRA2 1/2x1/2 Minimum Wind Speed at 10 Meters (m/s) 
+WS10M_RANGE MERRA2 1/2x1/2 Wind Speed Range at 10 Meters (m/s) 
+PS MERRA2 1/2x1/2 Surface Pressure (kPa) 
+T2M_MAX MERRA2 1/2x1/2 Maximum Temperature at 2 Meters (C) 
+T2MWET MERRA2 1/2x1/2 Wet Bulb Temperature at 2 Meters (C) 
+T2M_RANGE MERRA2 1/2x1/2 Temperature Range at 2 Meters (C) 
+RH2M MERRA2 1/2x1/2 Relative Humidity at 2 Meters (%) 
+-END HEADER-
