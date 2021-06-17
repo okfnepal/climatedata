@@ -21,13 +21,13 @@ A repo for the climate change project.
             - metadata.txt
 
 
-### File formats
+> ### File formats
     - 11 files, format csv
     - 2 files, format txt
 
-### License
+>### License
     License:U.S. Government Work. The non-U.S. data cannot be redistributed within or outside of the U.S. for any commercial activities.
-### Authors
+>### Authors
 
     Matthew J. Menne, Imke Durre, Russell S. Vose, Byron E. Gleason, and Tamara G. Houston, 2012: 
     An Overview of the Global Historical Climatology Network-Daily Database. J. Atmos. Oceanic Technol., 29, 897-910.
@@ -48,25 +48,25 @@ A repo for the climate change project.
         - ...
         - metadata.txt
 
-### File formats
+>### File formats
     - 10 files, format csv
     - 1 file, format txt
 
-### Relationship to Other Datasets
+>### Relationship to Other Datasets
     CRU CY is derived directly from the CRU TS dataset, and version
     numbering is matched between the two datasets. Thus, the first official
     version of CRU CY is v3.21, as it is based on CRU TS v3.21. 
     These datasets are version 4.03 hence, related to CRU TS 4.03.
 
 
-### License
+>### License
     Open Data Commons Open Database License (ODbL) v1.0
 
     Any rights in individual contents of the datasets are licensed under the
     Database Contents License under the conditions of Attribution and Share-Alike. 
 
     Attribution: Climatic Research Unit, University of East Anglia
-### Authors
+>### Authors
     Harris, I., Jones, P.D., Osborn, T.J., and Lister, D.H., 2013: Updated
     high-resolution grids of monthly climatic observations. In press, Int.
     J. Climatol., Doi: 10.1002/joc.3711.
@@ -86,18 +86,18 @@ A repo for the climate change project.
         - ...
         - metadata.txt
 
-### File formats
+>### File formats
     - 92 files, format csv
     - 1 file, format txt
 
-### License
+>### License
     As a government entity, NASA does not license the use of NASA materials or sign licensing agreements.
     
     Free to use, share, reproduce and modify on the condition that NASA material may not be used to state or 
     imply the endorsement by NASA or by any NASA employee of a commercial product, service, or activity, or used in any manner that might mislead.
 
 
-### Authors
+>### Authors
     These data were obtained from the NASA Langley Research Center (LaRC) POWER Project funded through the NASA Earth Science/Applied Science Program.
 
 ## Data from NASA Power Access API for 93 Stations in Nepal from 1981 to 2019 Monthly Average
@@ -115,17 +115,69 @@ A repo for the climate change project.
         - ...
         - metadata.txt
 
-### File formats
+>### File formats
     - 93 files, format csv
     - 1 file, format txt
 
-### License
+>### License
     As a government entity, NASA does not license the use of NASA materials or sign licensing agreements.
     
     Free to use, share, reproduce and modify on the condition that NASA material may not be used to state or 
     imply the endorsement by NASA or by any NASA employee of a commercial product, service, or activity, or used in any manner that might mislead.
 
 
-### Authors
-    These data were obtained from the NASA Langley Research Center (LaRC) POWER Project funded through the NASA Earth Science/Applied Science Program.
+>### Authors
+    These data were obtained from the NASA Langley Research Center (LaRC) POWER Project funded through the NASA Earth
+    Science/Applied Science Program.
+## Daily Weather Data obtained from rp5.ru for 17 locations across Nepal
+    Summary: Daily Weather Archinve obtained from rp5.ru website. For each locations there are 29 parameters. The data
+    needs some cleaning to remove parameters columns that contains very high frequency of missing data. Among these 29
+    parameters temperature, pressure and relative hunidity data are conisitent and can be used.
+    No of datasets: 17
+    Name of dataset: 
+        - Daily Weather Data for Bhairawa from 13.02.2009 to 03.06.2021
+        - Daily Weather Data for Biratnagar from 19.01.2010 to 03.06.2021 
+        - Daily Weather Data for Pokhara Airport from 19.01.2010 to 03.06.2021
+        - ...
+    Folder structure:
+    Daily Weather Data obtained from rp5.ru for 17 locations across Nepal/
+        - Daily Weather Data for Bhairawa from 13.02.2009 to 03.06.2021
+        - ...
+        - metadata.txt
 
+>### File formats
+    - 17 files, format csv
+    - 1 file, format txt
+
+>### Authors
+    The forecasts are prepared by the Met Office, the United Kingdom, and available on the website under the contract
+    between the Met Office and Raspisaniye Pogodi Ltd. Information on the actual weather comes from the server of 
+    international data exchange, NOAA, the United States, in SYNOP and METAR formats.
+    
+## Climate Change Scenarios for Nepal
+    Summary: Datasets obtained from report Climate Change Scenarios for Nepal. The dataset contains data on the change
+    for climate indicators in future time periods defined as medium-term and long-term under the scenario projection of
+    RCP4.5 and RCP8.5. 1981-2010 climate data used as reference to generate the climate change scenario data.
+    No of datasets: 20
+    Name of dataset: 
+        - Change in Cold Days (%) for Districts of Nepal from the Reference Period (1981-2010)
+        - Average Precipitation and Mean Temperature of Nepal for Different Seasons During the Reference Period(1981-2010)
+        - Change in Precipitation (%) for Districts of Nepal 
+        - ...
+    Folder structure:
+    Climate Change Scenarios for Nepal/
+        - Change in Cold Days (%) for Districts of Nepal from the Reference Period (1981-2010)
+        - ...
+        - metadata.txt
+
+>### File formats
+    - 20 files, format csv
+    - 1 file, format txt
+>### License
+    Copyright © 2019, Ministry of Forests and Environment, Government of Nepal
+    
+	This Publication may be used for educational and non-profit purposes, provided acknowledgement of the source is
+    accurately made. Use of any part of it for commercial purpose is strictly prohibited.
+
+>### Authors
+    Government of Nepal, Ministry of Forests and Environment
