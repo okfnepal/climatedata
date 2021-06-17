@@ -1,9 +1,0 @@
-RCPs,Models,Medium-term Change in precipitation(%),Long-term Change in precipitation(%),Medium-term Change in temperature(°C),Long-term Change in temperature( °C)
-RCP4.5,bcc-csm1-1_rcp45_r1i1p1,6.3,19.4,0.69,0.96
-RCP4.5,CanESM2_rcp45_r2i1p1,9.1,11.3,1.18,1.49
-RCP4.5,GFDL-ESM2M_rcp45_r1i1p1,-3.2,-0.3,0.62,0.93
-RCP4.5,MIROC-ESM-CHEM_rcp45_r1i1p1,-3.6,0.3,1.18,1.8
-RCP8.5,bcc-csm1-1_rcp85_r1i1p1,6.6,20.2,0.76,1.29
-RCP8.5,CanESM2_rcp85_r5i1p1,11.2,15.9,1.25,2.12
-RCP8.5,GFDL-ESM2M_rcp85_r1i1p1,7.1,6,0.79,1.31
-RCP8.5,MIROC-ESM-CHEM_rcp85_r1i1p1,-0.3,4.9,1.49,2.57
