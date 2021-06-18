@@ -1,34 +1,89 @@
 Readme file for Trend and Forecasting Analysis on Climate Variability: A case of Nepal
-Generated on 2021-06-15
+Generated on 2021-06-18
 
 
-Recommended citation for the dataset: DHM, 2017. Observed Climate Trend Analysis in the Districts and Physiographic Regions of Nepal (1971-2014). Department of Hydrology and Meteorology, Kathmandu
+Recommended citation for the dataset: (No recommended citation, Use sensible citation)
 
 *********************
 PROJECT INFORMATION
 *********************
-1. Title of dataset: OTrend and Forecasting Analysis on Climate Variability: A case of Nepal
+1. Title of dataset: Observed Climate Change Analysis of Nepal (1971 - 2014)
 2. Author information
 
-	Raghu Bir Bista,Phd
+	Raghu Bir Bista, PhD
 	Tribhuvan University, Nepal
+
+3. Data of data collection (single date or date range): 11980 to 2012
+
+
+*************************
+DATA ACCESS INFORMATION
+*************************
+
+1. Licences / restrictions placed on access to the dataset
+	© All copyrights reserved to Department of Hydrology and Meteorology
 	
-3. Data of data collection (single date or date range): 1980 to 2012
 
-------------------------------------------------
-(needs to be edited )
- 
- 2 files
- 
- Descriptive Statistics of Annual Temperature  from 1980 to 2012 across Stations
- 	Columns: N, Range, Min, Max, Mean, Std.Deviation, Variance
- 	N=?, Range=?
- 	
- Descriptive Statistics of Temperature and Rainfall from 1980 to 2012
- 
- 
- --------------------------------------------------
- Source :https://climatenepal.org.np/sites/default/files/doc_resources/MPRA_paper_98788.pdf
- 
- 	
+2. Links to publications that use the data 
+	Reference: https://mpra.ub.uni-muenchen.de/98788/
+	Reference: https://climatenepal.org.np/sites/default/files/doc_resources/MPRA_paper_98788.pdf
 
+
+****************************
+METHODS OF DATA COLLECTION
+****************************
+
+1. Describe the methods for data collection and / or provide links to papers describing data collection methods
+	Paper URL: https://climatenepal.org.np/sites/default/files/doc_resources/MPRA_paper_98788.pdf
+	Time series data collected from Department of Hydrology and Meterology and analysis peromed on them.
+	
+2. Data processing methods 
+
+3. Instrument information
+	Not Available 
+
+4. Quality assurance procedures
+
+5. Analysis methods
+	use of time series model to analyze the trend line of climatic variables including rainfall and temperature in Nepal 
+
+
+************************
+SUMMARY OF DATA FILES
+************************
+
+1. List of data files
+	Filename: Descriptive Statistics of Annual Temperature a from 1980 to 2012 across Stations
+	Short description: Short description: Descriptive Statistics containing N, Range, Min, Max., Mean, Std. Deviation, Variance of annual precipitation across 8 statin in Nepal from year 1980 to 2012 
+
+	Filename: District Descriptive Statistics of Temperature and Rainfall from 1980 to 2012
+	Short description: Minimum, Maximum, Mean and Std. Deviationfor temperature and rainfall across Nepal 
+
+2. Relationships between files
+	None 
+
+
+****************************************
+DATA-SPECIFIC INFORMATION FOR: Descriptive Statistics of Annual Temperature a from 1980 to 2012 across Stations
+****************************************
+1. Number of variables: 8
+
+2. Number of cases / rows: 8
+
+3. Missing data codes: None
+
+4. Variable list
+	Variable name: N, Range, Min, Max., Mean, Std. Deviation, Variance
+
+
+****************************************
+DATA-SPECIFIC INFORMATION FOR: District Descriptive Statistics of Temperature and Rainfall from 1980 to 2012
+****************************************
+1. Number of variables: 2
+
+2. Number of cases / rows: 5
+
+3. Missing data codes: None
+
+4. Variable list
+	Variable name: Mean Temperature(degree Celsius), Mean Precipitation(in mm) 
