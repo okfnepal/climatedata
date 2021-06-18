@@ -207,3 +207,48 @@ A repo for the climate change project.
     
 >### Authors
     Kamal P. Buddhathoki, O.R. Bajracharya & B.K.Pokharel
+    
+>### Report Title: Impact of Climate Change on Himalayan Glaciers and Glacial Lakes.
+    
+    Summary: Datasets obtained from this report contains data on glacier area, volume and type of glacier in Dudh Koshi basin with glacier names. And the surface 
+    area andcomputed volume of Imja glacier lake from the year 1963 to 2008 and observational scoring given to GLOF hazard in Imja Glacier.
+    Name of dataset: 
+        - Activity of Glacial Lakes in Association With Glaciers In The Dudh Koshi Sub-basin(1960-2000)
+		This dataset contains the Lake no/latitude,longitude, type area in 1960s, 2000 and glacial lake distance from glacier. 
+        - Activity of glacial Lakes In the Dudh Koshi Basin 
+		This dataset contains the lake no, glacier location,type and average area in year between year 1960s and 2000.
+        - Average Variation Rates of Glacier Termini in East Nepal and Bhutan In Recent Decades(1963-1993)
+		
+	- Estimated Flood Arrival Time Flood Arrival Time and Discharge from Imja Glacier GLOF
+	- Glacial lakes in the Dudh Koshi Sub-basin
+	- Glacier Area in Langtang and Khumbu 
+	-Potentially Dangerous Glacial Lakes in the Dudh Koshi Sub-basin
+		This dataset contains the lake Id, name, longitude, latitude and length and area in year 1960, 2000/1.It also has remarks column which contains 
+		description about the status observed within those years. 
+	- Retreat Rate of Valley Glaciers in the Dudh Koshi Basin 
+		This dataset contains Glacier no, name, elevation range, mean glacier length in year 1976, 1992, 2000 and average retreat rate in year between 1976to 2000 
+		anb 2000-2007.
+	-Retreat Rate of Valley Glaciers in the Nepal Himalaya
+		This dataset contains the glacier name their retreat rate per year in between certain years.
+	- Snow Cover Area in Langtang and Khumbu
+	- Statistics of Snow Cover in Nepal 
+	- Summary of Activity of Glacial Lakes in the Dudh Koshi Sub-basin(1960-2000) 
+    Folder structure:
+    AImpact of Climate Change On Himalayan Glaciers and Glacial Lakes in Nepal/
+      	- Activity of Glacial Lakes in Association With Glaciers In The Dudh Koshi Sub-basin(1960-2000)
+        - Activity of glacial Lakes In the Dudh Koshi Basin 
+        - Average Variation Rates of Glacier Termini in East Nepal and Bhutan In Recent Decades(1963-1993)
+	- Estimated Flood Arrival Time Flood Arrival Time and Discharge from Imja Glacier GLOF
+	- Glacial lakes in the Dudh Koshi Sub-basin
+	- Glacier Area in Langtang and Khumbu
+	..
+	..	
+>### File formats
+    - 11 files, format csv
+    - 1 file, format txt
+>### License
+    Copyright © 2007, International Centre for Integrated Mountain Development (ICIMOD)
+     All rights reserved
+    
+>### Authors
+    Samjwal Ratna Bajracharya, Pradeep Kumar Mool, Basanta Raj Shrestha
