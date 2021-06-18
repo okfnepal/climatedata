@@ -181,3 +181,29 @@ A repo for the climate change project.
 
 >### Authors
     Government of Nepal, Ministry of Forests and Environment
+    
+    
+  >### Assessment Of Imja Glacier Lake Outburst Flood(GLOF) Risk in Dudh Koshi River Basin Using Remote Sensing Techniques.
+    Government of Nepal, Ministry of Forests and Environment
+    
+    Summary: Datasets obtained from this report contains data on glacier area, volume and type of glacier in Dudh Koshi basin with glacier names. And the surface area and   computed volume of Imja glacier lake from the year 1963 to 2008 and observational scoring given to GLOF hazard in Imja Glacier.
+    Name of dataset: 
+        - Compiled Data On Glacier Lake Area Volume and Mean Depth 
+        - Empirical Scoring of GLOF Hazard
+        - Surface Area And Computed Volume Of Imja Glacier Lake from 1963 to 2008 
+	
+    Folder structure:
+    Assessment of Imja GLOF Risk in Dudh Koshi River Using RST/
+      	- Compiled Data On Glacier Lake Area Volume and Mean Depth 
+        - Empirical Scoring of GLOF Hazard
+        - Surface Area And Computed Volume Of Imja Glacier Lake from 1963 to 2008 
+        - metadata.txt
+	
+>### File formats
+    - 3 files, format csv
+    - 1 file, format txt
+>### License
+    Copyright © 2010, Journal of Hydrology and Meteorology, Government of Nepal
+    
+>### Authors
+    Kamal P. Buddhathoki, O.R. Bajracharya & B.K.Pokharel
