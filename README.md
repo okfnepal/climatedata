@@ -211,7 +211,7 @@ A repo for the climate change project.
 >### Report Title: Impact of Climate Change on Himalayan Glaciers and Glacial Lakes.
     
     Summary: Datasets obtained from this report contains data on glacier area, volume and type of glacier in Dudh Koshi basin with glacier names. And the surface 
-    area andcomputed volume of Imja glacier lake from the year 1963 to 2008 and observational scoring given to GLOF hazard in Imja Glacier.
+    area and computed volume of Imja glacier lake from the year 1963 to 2008 and observational scoring given to GLOF hazard in Imja Glacier.
     Name of dataset: 
         - Activity of Glacial Lakes in Association With Glaciers In The Dudh Koshi Sub-basin(1960-2000)
 		This dataset contains the Lake no/latitude,longitude, type area in 1960s, 2000 and glacial lake distance from glacier. 
