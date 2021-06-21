@@ -252,3 +252,30 @@ A repo for the climate change project.
     
 >### Authors
     Samjwal Ratna Bajracharya, Pradeep Kumar Mool, Basanta Raj Shrestha
+    
+    
+>### Report Title: Glacier Status in Nepal and Decadal Change from 1980 to 2010 Based on Lansat Data.
+    
+    Summary:This report shows the glacial area in the year in year 1980, 1990, and 2000 and glacial area and percentage(%) change in 1980 , 1990,2000 and 2010.
+    It also shows the changes that have occured in between these years in the major basins and sub-basins interms of glacier mean slope and glacier aspect and interms of glacier area class.
+    Folder structure:
+    Glacier Status In Nepal and Decadal Changes From 1980 to 2010/
+      	- Area Elevation Distribution of Glaciers in Nepal In Between 1980-1990 and 1990 to 2000 and 2000 to 2010
+        - Area Elevation Distribution of Glaciers In The Karnali Sub-basins_2010 
+        - Area Elevation Distribution Of Glaciers In The Koshi Sub-basins_2010.csv
+	- Area Elevation Distribution Of Glaciers In The Major Basins Of Nepal_2010.cs
+	..
+	..	
+>### File formats
+    - 28 files, format csv
+    - 1 file, format txt
+>### License
+    Copyright © 2014, International Centre for Integrated Mountain Development (ICIMOD)
+     All rights reserved, Published 2014
+     This publication may be reproduced in whole or in part in any form for educational or non-profit purpose without special permission from the copyright holder,
+     provided   acknowledgement of the source is made. ICIMOD would appreciate receiving a copy of any publication that uses this publication as a source.
+     
+    
+>### Authors
+    Samjwal Ratna Bajracharya, Pradeep Kumar Mool, Basanta Raj Shrestha,Sudan Bikash Maharjan, Finu Shrestha and Om Ratna Bajracharya and Sarju Baidya.
+
