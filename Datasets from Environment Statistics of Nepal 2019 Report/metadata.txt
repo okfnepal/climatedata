@@ -1,0 +1,185 @@
+Readme file for Datasets from Environment Statistics of Nepal 2019 Report
+Generated on 2021-6-18
+
+
+Recommended citation for the dataset: Environment Statistics of Nepal 2019, Government of Nepal, National Planning Commission, Central Bureau of Statistics
+
+*********************
+PROJECT INFORMATION
+*********************
+1. Title of dataset: Environment Statistics of Nepal 2019
+2. Author information
+
+	Principal Investigator
+	Name:Central Beureau of Statistics 
+	Address: Ramshah Path, Thapathali, Kathmandu, Nepal
+	Email:environment@cbs.gov.np
+
+3. Date of data collection (single date or date range): 2021-05-14
+
+4. Funder
+	Name: Governemet of Nepal  
+
+
+*************************
+DATA ACCESS INFORMATION
+*************************
+
+1. Licences / restrictions placed on access to the dataset: These datasets are sourced from different Ministries and departments of Government of Nepal and from different reports published by those organizations. Any data published on public domain by the Government of Nepal is free to use, share and reproduce. For more information visit the website mentioned in the source of each dataset. 
+
+2. Links to publications that use the data 
+	Reference: https://cbs.gov.np/environment-statistics-of-nepal-2019/
+	ISBN: 978-9937-0-5748-6
+
+3. Links to other publicly accessible locations of the data: 
+	URL: https://unstats.un.org/unsd/environment/Compendia/Nepal_Environment%20Statistics%20of%20Nepal_2019.pdf
+	URL: https://climate.mohp.gov.np/downloads/Environment_Statistics_of_Nepal_2019.pdf
+	URL: https://nepalindata.com/resource/environment-statistics-2019/
+
+
+****************************
+METHODS OF DATA COLLECTION
+****************************
+
+
+1. Environment statistics synthesize data originating from various types of sources. Thus, the data used to produce environment statistics are not only compiled by different collection techniques, but also by various institutions. Types of sources include:
+	i. statistical surveys (e.g., censuses or sample surveys of population, housing, agriculture, enterprises, households,employment, and different aspects of environment management)
+	ii. administrative records of government and non-government agencies responsible for natural resources, as well as other ministries and authorities;
+	iii. remote sensing and thematic mapping (e.g., satellite imaging and mapping of land use and land cover, water bodies or forest cover)
+	iv. monitoring systems (e.g., field-monitoring stations for water quality, air pollution or climate).
+	v.scientific research and special projects undertaken to fulfill domestic or international demand.
+
+	For more information look under Environment Statistics and its Development in Nepal in the following report:
+	Paper URL:https://cbs.gov.np/environment-statistics-of-nepal-2019/ 
+
+
+2. Data processing methods
+	Data is compiled and processed with refrence to Framework for Development of Environment Statistics (FDES), given by United Nations Statistics Division (UNSD) developed and published in 1984
+
+3. Instrument information
+	Not Available
+
+4. Quality assurance procedures
+	Not Available
+
+5. Analysis methods
+	Not Available
+
+************************
+SUMMARY OF DATA FILES
+************************
+
+1. List of data files
+	Filename: Average Rainfall by Altitude.csv
+	Short description: This dataset contains tha annual Rainfall (expressed in mm) against altitude of places (expressed in masl - meters above sea level).
+	Source: Department of Hydrology and Meteorology,1994
+
+	Filename: Number of Lakes in Districts by altitude in Nepal.csv
+	Short description: This dataset gives the total number of lakes in each districts at different elevations from the sea level. The elevations are divided into five groups ranging from zero to over 5 thousand meters above sea level.
+	Source : National Lake Conservation Development Committee (National Lake Strategic plan, 2010)
+
+	Filename: Glaciers and Catchments Areas having Meteorological and Hydrological Stations.csv
+	Short description:It contains data about Meteorological and Hydrological stations at different glaciers and catchment area along with their exact location, established date, type and status
+	Source: Snow, Water Quality and Environment Section, DHM, 2017
+	 
+
+	Filename: Area of Land Made Uncultivable Due to Flooding Soil Erosion by Ecological Belt Nepal.csv
+	Short description: It contains data about the land that has been affected by flooding/soil erosion categorized by ecological belt of Nepal i.e Mountain, Hill and Terai.
+	Source: Central Bureau of Statistics (National Sample Census of Agriculture, Nepal 2011/12).
+	
+	Filename: Affected Land Area from Erosion.csv
+	Short description: It contains data about the land affected by different types of degradation. Area expressed in million hectares and percentage.
+	Sources: Ministry of Environment, Science and Technology, 2008.
+	
+	Filename: Type and Color of Soil by  Area of Holdings Nepal.csv
+	Short description: It contains data about soil type and color with area in hectares and percentage of total for each type and color.
+	Source: Central Bureau of Statistics (National Sample Census of Agriculture, Nepal, 2001/02).
+	
+	Filename: Nepal's Climatic Zones.csv
+	Short description: It classifies Nepal's Climatic zones on the basis of Elevation and provides average annual precipitations(in mm) and average annual temperature(in degree Celsius)
+	Source: MoSTE 2014
+	
+	Filename: Monthly Average PM2.5 in 2017 at different stations.csv
+	Short description: This dataset provides data about particulate matter 2.5 at different stations around Nepal for 2017 monthly averages in microgram per cubic meter (μg/m3)
+	Source : Department of Environment
+
+	Filename: Monthly Average PM10  in 2017 at different stations.csv
+	Short description: This dataset provided data about particulate matter 10 (PM 10) at different stations across Nepal for 2017 monthly averages in microgram per cubic meter (μg/m3)
+	Source : Department of Environment
+	
+	Filename: Monthly Average Total Suspended Particulate Matter (TSPM) in 2017 at Different Stations.csv
+	Short description: This dataset provided data about Total Suspended Particulate Matter (TSPM) at different stations across Nepal, monthly interval of 2017 in microgram per cubic meter (μg/m3)
+	Source : Department of Environment
+	
+	Filename: PM10, TSP, SO2, NO2, Co and pb Measurements.csv
+	Short description: This dataset contains data about different air pollutants like (Particulate Matter)PM10, Total Suspended Particulate Matter (TSPM), Nitrogen dioxide(NO2), Carbon monoxide(CO) and 			lead (pb) at different places in Nepal for the year 2000.
+	Note : Data were collected using high volume air sampler.
+	Source: Nepal Health Research Council and Nepal Environmental and Scientific Services (P) Ltd.,(Transport Sector Air Pollution Survey, at Nine Major Urban Cities of Nepal, the World Conservation 		Union, Sept, 2001).
+	
+	Filename: GHG emission by different use sectors in 1991 and 1995.csv
+	Short description: This dataset contains emission and removal of different greenhouse gases like C02, CH4 and N2O by different sectors at different time periods in Nepal.
+	Source : Ministry of science,technology and environment (SNC Report)
+	
+	Filename: Trend of GHG emission from energy sector (in Gg).csv
+	Short description: This dataset contains trend of emission of different greenhouse gases like C02, CH4, N2O and CO2 eq. gases by energy sector for the year 1995 to 2009 in Gigagrams(Gg)
+	Source : Ministry of science,technology and environment (SNC Report)
+	
+	Filename: Sector emission trend and compounded annual growth rate since 1994.csv
+	Short description: This dataset contains information about CO2 equivalent gases emission from different sectors and their compound growth rate for the years 1994,2000,2008 in Gigagrams(Gg)
+	Source : Ministry of science,technology and environment (SNC Report)
+
+	Filename: Direct and Indirect GHG emission and removal by different end-use sectors in 2000.csv
+	Short description: This dataset gives data about green house gases emission and removal by different end use sectors. Emission and Removal of CO2, CH4, N2O and CO2 eq. is given here. Data is for year 2000 and expressed in Gigagrams(Gg)
+	Source : Ministry of science,technology and environment(SNC Report)
+	
+	Filename: Emission reduction accounts.csv
+	Short description: This dataset contains data about Green house gases emission reduction by different renewable energy technologies. Data is for the year 2013 to 2018 expressed in tCO2eq (total Carbon dioxode equivalent)
+	Source: Alternative Energy Promotion center
+	
+	Filename: Air Pollutants scenario of Kathmandu valley, Assessment of seasonal variation.csv
+	Short description: It contains assessment of seasonal variation of different air pollutants like PM2.5, CO and NO2 for kathmandu valley. Data from three stations of kathmandu is used to calculate average, normal, co-variance and standard deviation.
+	Source: Situation analysis of Ambient Air Pollution and Respiratory Health Effects in Kathmandu Valley,2015,NHRC
+	
+	Filename: Carbon dioxide emission by industrial sectors in percentage 1996 to2012.csv
+	Short description: This dataset contains CO2 emission by different sectors listed in National Standard Industrial Classification (NSIC). Data is for the years 1996 to 2012 expressed in tons CO2 emission 
+	Source: Department of Manufacturing Industries in Nepal, Current State and Future Challenges, CBS, 2014
+	
+	Filename: Potentially Dangerous Glacial Lakes in Nepal.csv
+	Short description: It contains data about potentially dangerous glacier lake of Nepal, their altitude(in meters), Area and location(square meters)
+	Source : Ministry of Environment, (NAPA, 2010 )
+	
+	Filename: Loss of Lives, Livestock and Other Effects by Type of Disaster,1983-2017.csv
+	Short description: This dataset describes the no of lives affected by different type of disasters from 1983 to 2017.
+	Source: Department of Water Induced Disaster Prevention & MOHA
+	
+	Filename: Major disasters in Nepal and the damage and loss, 1971-2015.csv
+	Short description: This dataset describes the no of people dead,missing,injured and property damages due to disasters in Nepal for the years 1971 to 2015.
+	Source: MoHA
+		
+	Filename: Human casulties due to major disasters in nepal 1983 to 2017.csv
+	Short description: This dataset gives the number of human casualties due to major disasters in Nepal from 1983 to 2017.
+	Source: MOHA & Department of Water Induced Disaster Prevention
+		
+	Filename: Climate Relavent Budget Allocation in Nepal in arbas.csv
+	Short description: This dataset gives the climate relevant budget allocated by Government of Nepal in different fisca years for the years 2012 to 2019.
+	Source: Ministry of finance
+		
+	Filename: Sectoral share of Climate Budget(in %).csv
+	Short description: This dataset describes how much each sector shares the total climate budget by Government of Nepal in each fiscal year from 2013 to 2018 expressed in percentages.
+	Source : Ministry of Finance
+
+
+
+****************************************
+DATA-SPECIFIC INFORMATION FOR DATASETS
+****************************************
+1. Number of datasets: 24
+
+2. Missing data codes: Varies according to the file. Commonly used are -999, na, N/A, None, Not Available, 0, - 
+
+3. Publisher: Central Bureau of Statistics
+
+4. ISBN: 978-9937-0-5748-6
+
+
+******************************************************************************************

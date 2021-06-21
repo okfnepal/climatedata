@@ -182,6 +182,7 @@ A repo for the climate change project.
 >### Authors
     Government of Nepal, Ministry of Forests and Environment
 
+
 ## Data from Nepal Climate Change and Development Portal
 >## Climate Change Trends and Impacts on Livelihood of People
     Summary: Datasets provides summary on precipitation and temperature trends in Nepal. Summary of precipitation contains summary
@@ -248,3 +249,136 @@ A repo for the climate change project.
 
 >### Author
 	Department of Hydrology and Meterology
+
+    
+    
+  >### Assessment Of Imja Glacier Lake Outburst Flood(GLOF) Risk in Dudh Koshi River Basin Using Remote Sensing Techniques.
+    Government of Nepal, Ministry of Forests and Environment
+    
+    Summary: Datasets obtained from this report contains data on glacier area, volume and type of glacier in Dudh Koshi basin with glacier names. And the surface area and   computed volume of Imja glacier lake from the year 1963 to 2008 and observational scoring given to GLOF hazard in Imja Glacier.
+    Name of dataset: 
+        - Compiled Data On Glacier Lake Area Volume and Mean Depth 
+        - Empirical Scoring of GLOF Hazard
+        - Surface Area And Computed Volume Of Imja Glacier Lake from 1963 to 2008 
+	
+    Folder structure:
+    Assessment of Imja GLOF Risk in Dudh Koshi River Using RST/
+      	- Compiled Data On Glacier Lake Area Volume and Mean Depth 
+        - Empirical Scoring of GLOF Hazard
+        - Surface Area And Computed Volume Of Imja Glacier Lake from 1963 to 2008 
+        - metadata.txt
+	
+>### File formats
+    - 3 files, format csv
+    - 1 file, format txt
+>### License
+    Copyright © 2010, Journal of Hydrology and Meteorology, Government of Nepal
+    
+>### Authors
+    Kamal P. Buddhathoki, O.R. Bajracharya & B.K.Pokharel
+    
+>### Report Title: Impact of Climate Change on Himalayan Glaciers and Glacial Lakes.
+    
+    Summary: Datasets obtained from this report contains data on glacier area, volume and type of glacier in Dudh Koshi basin with glacier names. And the surface 
+    area and computed volume of Imja glacier lake from the year 1963 to 2008 and observational scoring given to GLOF hazard in Imja Glacier.
+    Name of dataset: 
+        - Activity of Glacial Lakes in Association With Glaciers In The Dudh Koshi Sub-basin(1960-2000)
+		This dataset contains the Lake no/latitude,longitude, type area in 1960s, 2000 and glacial lake distance from glacier. 
+        - Activity of glacial Lakes In the Dudh Koshi Basin 
+		This dataset contains the lake no, glacier location,type and average area in year between year 1960s and 2000.
+        - Average Variation Rates of Glacier Termini in East Nepal and Bhutan In Recent Decades(1963-1993)
+		
+	- Estimated Flood Arrival Time Flood Arrival Time and Discharge from Imja Glacier GLOF
+	- Glacial lakes in the Dudh Koshi Sub-basin
+	- Glacier Area in Langtang and Khumbu 
+	-Potentially Dangerous Glacial Lakes in the Dudh Koshi Sub-basin
+		This dataset contains the lake Id, name, longitude, latitude and length and area in year 1960, 2000/1.It also has remarks column which contains 
+		description about the status observed within those years. 
+	- Retreat Rate of Valley Glaciers in the Dudh Koshi Basin 
+		This dataset contains Glacier no, name, elevation range, mean glacier length in year 1976, 1992, 2000 and average retreat rate in year between 1976to 2000 
+		anb 2000-2007.
+	-Retreat Rate of Valley Glaciers in the Nepal Himalaya
+		This dataset contains the glacier name their retreat rate per year in between certain years.
+	- Snow Cover Area in Langtang and Khumbu
+	- Statistics of Snow Cover in Nepal 
+	- Summary of Activity of Glacial Lakes in the Dudh Koshi Sub-basin(1960-2000) 
+    Folder structure:
+    AImpact of Climate Change On Himalayan Glaciers and Glacial Lakes in Nepal/
+      	- Activity of Glacial Lakes in Association With Glaciers In The Dudh Koshi Sub-basin(1960-2000)
+        - Activity of glacial Lakes In the Dudh Koshi Basin 
+        - Average Variation Rates of Glacier Termini in East Nepal and Bhutan In Recent Decades(1963-1993)
+	- Estimated Flood Arrival Time Flood Arrival Time and Discharge from Imja Glacier GLOF
+	- Glacial lakes in the Dudh Koshi Sub-basin
+	- Glacier Area in Langtang and Khumbu
+	..
+	..	
+>### File formats
+    - 11 files, format csv
+    - 1 file, format txt
+>### License
+    Copyright © 2007, International Centre for Integrated Mountain Development (ICIMOD)
+     All rights reserved
+    
+>### Authors
+    Samjwal Ratna Bajracharya, Pradeep Kumar Mool, Basanta Raj Shrestha
+    
+    
+>### Report Title: Glacier Status in Nepal and Decadal Change from 1980 to 2010 Based on Lansat Data.
+    
+    Summary:This report shows the glacial area in the year in year 1980, 1990, and 2000 and glacial area and percentage(%) change in 1980 , 1990,2000 and 2010.
+    It also shows the changes that have occured in between these years in the major basins and sub-basins interms of glacier mean slope and glacier aspect and interms of glacier area class.
+    Folder structure:
+    Glacier Status In Nepal and Decadal Changes From 1980 to 2010/
+      	- Area Elevation Distribution of Glaciers in Nepal In Between 1980-1990 and 1990 to 2000 and 2000 to 2010
+        - Area Elevation Distribution of Glaciers In The Karnali Sub-basins_2010 
+        - Area Elevation Distribution Of Glaciers In The Koshi Sub-basins_2010.csv
+	- Area Elevation Distribution Of Glaciers In The Major Basins Of Nepal_2010.cs
+	..
+	..	
+>### File formats
+    - 28 files, format csv
+    - 1 file, format txt
+>### License
+    Copyright © 2014, International Centre for Integrated Mountain Development (ICIMOD)
+     All rights reserved, Published 2014
+     This publication may be reproduced in whole or in part in any form for educational or non-profit purpose without special permission from the copyright holder,
+     provided   acknowledgement of the source is made. ICIMOD would appreciate receiving a copy of any publication that uses this publication as a source.
+     
+    
+>### Authors
+    Samjwal Ratna Bajracharya, Pradeep Kumar Mool, Basanta Raj Shrestha,Sudan Bikash Maharjan, Finu Shrestha and Om Ratna Bajracharya and Sarju Baidya.
+    
+    
+    
+>### Report Title: Mass Balance of Yala And Rikha Samba Glacier, Nepal From 2000 to 2017
+    
+    Summary:This report shwos the glacier length change and annual mass balance for Yala and Rikha Samba Glacier. The annual mass balance rates of Yala Glacier from 
+    2000 to 2 25012 and from 2011 to 2017 are -0.74 ±0.53 m and -0.74 ±0.28 m w.e. a-1, and for Rikha Samba Glacier from 2011 to 2017 -0.39 ±0.32 m w.e. a-1. The mass loss for 
+    the period 2011 to 2017 for Yala and Rikha Samba Glacier -4.44 ±0.69 m w.e. and -2.34 ±0.79 m w.e., respectively. Comparision of glaciers surface lowering and 
+    in-situ mass balance from various Mass balance(B) measured with the glaciological method, winter balance(BS), ELA, AAR and mass balance gradient for glacier from 
+    2011 to 2017. Mass balance (B) measured with the glaciological method, ELA, AAR and mass balance gradient for Rikha Samba Glacier from 2011 to 2017. We did not 
+    calculate the ELA and AAR for Rikha Samba Glacier for 2012, 2014 and 2015 due to the very few data points.Comparison of glacier surface lowering and in-situ mass 
+    balance measurements from various studies.
+	Folder Structure
+		Mass Balance Of Yala And Rikha Samba Glacier/
+			- Comparision of Glacier Surface Lowering And In-situ Mass Balance From Various Studies
+			- Frontal Variations Of Yala And Rikha Samba Glacier 
+			- Glacier Characteristics And Mass Balance Information Of Yala And Rikha Samba Glacier
+			- Glacier Flow In Meters And Direction Of Yala Glacier At The Stake S3 S4 S6 From 8 May 2012 to 5 May 2014.
+			- Mass Balance Measured With Glaciological Method ELA, AAR and Mass Balance Gradient For Rikha Samba Glacier From 2011 to 2017.
+			- Mass Balance Measured With The Glaciological Method Winter Balance Summer Balance ELA, AAR And Mass Balance From Glacier From 2011 to 2017.
+			
+>### File formats
+    - 6 files, format csv
+    - 1 file, format txt
+>### License
+    Copyright © Authors CC by 4.0 License
+     
+    
+>### Authors
+   Dorothea Stumm, Sharad Prasad Joshi, Tika Ram Gurung, Gunjan Silwal
+   	Correspondence to: Dorothea Stumm(stummd@gmail.com)
+	
+
+
+
