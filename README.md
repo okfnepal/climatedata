@@ -181,6 +181,75 @@ A repo for the climate change project.
 
 >### Authors
     Government of Nepal, Ministry of Forests and Environment
+
+
+## Data from Nepal Climate Change and Development Portal
+>## Climate Change Trends and Impacts on Livelihood of People
+    Summary: Datasets provides summary on precipitation and temperature trends in Nepal. Summary of precipitation contains summary
+    for time periods 1956-2006,1956-1976, 1977-2006. Temperature Trend Summary conatains trends across the elevation range.
+    Name of dataset: 
+        - Summary of Precipitation Trends (mm per yr) in Nepal.csv
+        - Summary of Temperature Trends (°C per year) during 1975‐2006 in Nepal across Elevation Range 
+        
+    Folder structure:
+    Data from Nepal Climate Change and Development Portal/
+    	Climate Change Trends and Impacts on Livelihood of People/
+		- Summary of Precipitation Trends (mm per yr) in Nepal.csv
+        	- Summary of Temperature Trends (°C per year) during 1975‐2006 in Nepal across Elevation Range 
+        	- metadata.txt
+
+>>### File formats
+    - 2 files, format csv
+    - 1 file, format txt
+
+>>### Authors
+    Kevein Parsad Sharma, Jalsrot Vikas Sanstha/Nepal Water Partnership
+
+>## Trend and Forecasting Analysis on Climate Variability: A case of Nepal
+    Summary: Datasets for descriptive statistics of minimum, maximum, mean,standard deviation for temperature and precipitation 
+    across the nepal or some 8 stations.
+    Name of dataset: 
+        - Descriptive Statistics of Annual Temperature a from 1980 to 2012 across Stations
+        - Descriptive Statistics of Temperature and Rainfall from 1980 to 2012 
+        
+    Folder structure:
+    Data from Nepal Climate Change and Development Portal/
+    	Trend and Forecasting Analysis on Climate Variability: A case of Nepal/
+        	- Descriptive Statistics of Annual Temperature a from 1980 to 2012 across Stations
+		- Descriptive Statistics of Temperature and Rainfall from 1980 to 2012 
+        	- metadata.txt
+
+>>### File formats
+    - 2 files, format csv
+    - 1 file, format txt
+
+>>### Authors
+    Raghu Bir Bista, PhD
+    Tribhuvan University, Nepal
+
+## Climate Data from DHM
+    Summary: Datasets for Climate normals, monthly and weather summary for 2014, 2017,2018. 
+    Name of dataset: 
+        - Climate Normal 1980-2010
+        - Merged Monthly Weather Summary for 2014, 2017,2018
+	- Monthly Weather Summary 2014
+	- Monthly Weather Summary 2017-2018
+        
+    Folder structure:
+    Climate Data from DHM/
+    	- Climate Normal 1980-2010
+	- Merged Monthly Weather Summary for 2014, 2017,2018
+	- Monthly Weather Summary 2014
+	- Monthly Weather Summary 2017-2018
+	- metadata.txt
+
+>### File formats
+    - 4 files, format csv
+    - 1 file, format txt
+
+>### Author
+	Department of Hydrology and Meterology
+
     
     
   >### Assessment Of Imja Glacier Lake Outburst Flood(GLOF) Risk in Dudh Koshi River Basin Using Remote Sensing Techniques.
@@ -310,5 +379,6 @@ A repo for the climate change project.
    Dorothea Stumm, Sharad Prasad Joshi, Tika Ram Gurung, Gunjan Silwal
    	Correspondence to: Dorothea Stumm(stummd@gmail.com)
 	
+
 
 
