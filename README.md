@@ -226,5 +226,25 @@ A repo for the climate change project.
     Raghu Bir Bista, PhD
     Tribhuvan University, Nepal
 
+## Climate Data from DHM
+    Summary: Datasets for Climate normals, monthly and weather summary for 2014, 2017,2018. 
+    Name of dataset: 
+        - Climate Normal 1980-2010
+        - Merged Monthly Weather Summary for 2014, 2017,2018
+	- Monthly Weather Summary 2014
+	- Monthly Weather Summary 2017-2018
+        
+    Folder structure:
+    Climate Data from DHM/
+    	- Climate Normal 1980-2010
+	- Merged Monthly Weather Summary for 2014, 2017,2018
+	- Monthly Weather Summary 2014
+	- Monthly Weather Summary 2017-2018
+	- metadata.txt
 
+>### File formats
+    - 4 files, format csv
+    - 1 file, format txt
 
+>### Author
+	Department of Hydrology and Meterology
