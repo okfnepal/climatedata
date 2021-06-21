@@ -1,0 +1,664 @@
+Readme file for Integrated Surface Data - Global Hourly
+Generated on 2021-06-21
+
+
+Recommended citation for the dataset: N/A
+
+*********************
+PROJECT INFORMATION
+*********************
+1. Title of dataset: Integrated Surface Data - Global Hourly
+2. Author information:
+	Data from multiple sources, Land Based Stations of different countries.
+
+3. Data of data collection (single date or date range) : 1973 - 2021
+
+4. Funder
+	Name: NOAA - National Centers for Environmental Information, US Air Force - 14th Weather  Squadron, 151 Patton Avenue, Asheville, NC 28801-5001 USA
+	Project number or identifier: DS3505
+
+
+
+*************************
+DATA ACCESS INFORMATION
+*************************
+
+The data files are derived from surface observational data, and are stored in
+ASCII character format. Data are accessible via NCEI’s Climate Data Online system
+(cdo.NCEI.noaa.gov), FTP (ftp://ftp.NCEI.noaa.gov/pub/data/noaa/), GIS
+services (gis.NCEI.noaa.gov), and by calling NCEI for off-line servicing.
+1. Licences / restrictions placed on access to the dataset:
+
+2. Links to publications that use the data 
+	Reference: https://www.ncei.noaa.gov/access/search/data-search/global-hourly
+	Reference: https://www.ncei.noaa.gov/access/search/index
+
+3. Links to other publicly accessible locations of the data: 
+	URL: https://www1.ncdc.noaa.gov/pub/data/ghcn/daily/
+	URL: https://gis.ncdc.noaa.gov/maps/ncei/summaries/daily
+	URl: https://www.ncdc.noaa.gov/cdo-web/search?datasetid=GHCND
+	
+4. Links to related datasets (for example, datasets from the same project. Provide the DOI in preference to the URL)
+	DOI/URL: https://www.ncei.noaa.gov/access/search/data-search/global-summary-of-the-year
+	DOI/URL: https://www.ncei.noaa.gov/access/search/data-search/global-summary-of-the-month
+	DOI/URL: https://www.ncei.noaa.gov/access/search/data-search/daily-summaries
+
+
+****************************
+METHODS OF DATA COLLECTION
+****************************
+
+1. Describe the methods for data collection and / or provide links to papers describing data collection methods
+	Paper DOI: https://www1.ncdc.noaa.gov/pub/data/noaa/isd-format-document.pdf
+	Additional information on data collection methods: Above file describes the data collection method in detail.
+
+2. Data processing methods
+	Detailed information can be found in:
+	https://www1.ncdc.noaa.gov/pub/data/noaa/isd-format-document.pdf
+
+3. Instrument information
+	N/A 
+
+4. Quality assurance procedures
+	N/A
+
+5. Analysis methods
+	N/A
+
+************************
+SUMMARY OF DATA FILES
+************************
+
+1. List of data files
+	Filename: Bhairawa 1977 t0 2021.csv
+	Short description: Weather information about Bhairawa Station on different parameters from 1977 to 2021
+
+	Filename: Biratnagar 1977 to 2021.csv
+	Short description: Weather information about Biratnagar Station on different parameters from 1977 to 2021
+
+	Filename: Dadeldhura 1978 to 2021
+	Short description: Weather information about Dadeldhura Station on different parameters from 1978 to 2021
+
+	Filename: Dang 2011 to 2021.csv
+	Short description: Weather information about Dang Station on different parameters from 2011 to 2021
+	
+	Filename: Dhangadi Atariya 2011 to 2021.csv
+	Short description: Weather information about Dhangadi Station on different parameters from 2011 to 2021
+	
+	Filename: Dhankuta 1976 to 2021.csv
+	Short description: Weather information about Dhankuta Station on different parameters from 1976 to 2021
+	
+	Filename: Dipayal 2011 to 2021.csv
+	Short description: Weather information about Dipayal Station on different parameters from 2011 to 2021
+	
+	Filename: Jumla 1978 to 2021.csv
+	Short description: Weather information about Jumla Station on different parameters from 1978 to 2021
+	
+	Filename: Nepalgunj Airport 2011 to 2021.csv
+	Short description: Weather information about Nepalgunj Station on different parameters from 2011 to 2021
+	
+	Filename: Okhaldhunga 1976 to 2021.csv
+	Short description: Weather information about Okhaldhunga Station on different parameters from 1976 to 2021
+	
+	Filename: Pokhara 1977 to 2021.csv
+	Short description: Weather information about Pokhara Station on different parameters from 1977 to 2021
+	
+	Filename: Simara 1977 to 2021.csv
+	Short description: Weather information about Simara Station on different parameters from 1977 to 2021
+	
+	Filename: Surkhet 1976 to 2021.csv
+	Short description: Weather information about Surkhet Station on different parameters from 1976 to 2021
+	
+	Filename: Syangboche 1976 to 2021.csv
+	Short description: Weather information about Syangboche Station on different parameters from 1976 to 2021
+	
+	Filename: Taplejung 1978 to 2021.csv
+	Short description: Weather information about Taplejung Station on different parameters from 1978 to 2021
+	
+	Filename: Filename: Tribhuvan Airport Kathmandu 1973 to 2021.csv
+	Short description: Weather information about Tribhuvan Airport Station on different parameters from 1973 to 2021
+	
+
+2. Relationships between files
+	Provide information about any linkages between files or variables within files. 
+
+3. Information about multiple versions of the same file. 
+
+
+****************************************
+DATA-SPECIFIC INFORMATION FOR <FILENAME>  NOTE: This section should be copied and pasted for each file
+****************************************
+1. Number of variables: 46
+
+2. Number of cases / rows: 40520
+
+3. Missing data codes: Dependent upon each column characteristic
+
+4. Variable list
+	Variable name: STATION
+	Variable description: Weather station number as recorded in te Integrated Surface Dataset.
+	Variable coding/values: 11-digit ID field, with the first 2 digits representing the WMO block number (if applicable).
+	Unit of measurement: None
+	Range of values: 000000000000 to 99999999999
+
+NOTE: if you have complex linkages between variables across multiple tables please provide this information 
+in a diagram or table and provide the file name of this diagram or table in this section.	
+
+	Variable name: NAME
+	Variable description: Desciption of station location and Country it is located in. 
+	Variable coding/values: Place name is encoded in Uppercase. Country name is encoded in value after comma.
+	Unit of measurement: None
+	Range of values: None
+		
+	Variable name: LATITUDE
+	Variable description: The latitude coordinate of a GEOPHYSICAL-POINT-OBSERVATION where Southern Hemisphere is negative.
+	Variable coding/values: A general domain comprised of the numeric characters (0-9), a plus sign (+), and a minus sign (-).
+	Unit of measurement: Angular Degrees
+	Range of values: -90 to + 90
+	Missing value : +999
+	
+	Variable name: LONGITUDE
+	Variable description: The longitude coordinate of a GEOPHYSICAL-POINT-OBSERVATION where values west from 000 to 179.99 are signed negative
+	Variable coding/values: A general domain comprised of the numeric characters (0-9), a plus sign (+), and a minus sign (-).
+	Unit of measurement: Angular Degrees
+	Range of values: -179.99 to +180
+	Missing value : +999
+		
+	Variable name: DATE
+	Variable description: The date of a GEOPHYSICAL-POINT-OBSERVATION.
+	Variable coding/values: A general domain comprised of integer values 0-9 in the format YYYYMMDD. YYYY can be any positive integer value; MM is restricted to values 01-12; and DD is restricted to values 01-31.
+	Unit of measurement: date
+	Range of values: 00000101 to 99991231
+	Missing value : None
+	
+	Variable name: ELEVATION
+	Variable description: The elevation of a GEOPHYSICAL-POINT-OBSERVATION relative to Mean Sea Level (MSL).
+	Variable coding/values: A general domain comprised of the numeric characters (0-9), a plus sign (+), and a minus sign (-).
+	Unit of measurement: Meters
+	Range of values: -0400 to +8850
+	Missing value : +9990
+	
+	Variable name: SOURCE
+	Variable description: The flag of a GEOPHYSICAL-POINT-OBSERVATION showing the source or combination of sources used in creating the observation.
+	Variable coding/values: A general domain comprised of values 1-9 and A-N.\
+		All the datasets have source 4 
+		4 = USAF SURFACE HOURLY observation
+	Unit of measurement: None
+	Range of values: 1 to Z
+	Missing value : 9
+	
+	Variable name: REPORT_TYPE
+	Variable description: The code that denotes the type of geophysical surface observation.
+	Variable coding/values: A specific domain comprised of the characters in the ASCII character set.
+		All the datasets have REPORT_TYPE FM-12.
+		FM-12 = SYNOP Report of surface observation form a fixed land station
+	Unit of measurement: None
+	Range of values: None
+	Missing value : 99999
+	
+	
+	Variable name: CALL_SIGN
+	Variable description: The identifier that represents the call letters assigned to a FIXED-WEATHER-STATION.observation.
+	Variable coding/values: A general domain comprised of the characters in the ASCII character set.
+		All the datasets have CALL_SIGN VNKW
+	Unit of measurement: None
+	Range of values: None
+	Missing value : 99999
+	
+	Variable name: QUALITY_CONTROL
+	Variable description: The name of the quality control process applied to a weather observation.
+	Variable coding/values: A general domain comprised of the ASCII character set.
+				V01 = No A or M Quality Control applied
+				V02 = Automated Quality Control
+				V03 = subjected to Quality Control
+	Unit of measurement: None
+	Range of values: None
+	Missing value : None
+	
+	Variable name: AA1,AA2,AA3
+	Variable description: LIQUID-PRECIPITATION occurrence identifier. The identifier that represents an episode of LIQUID-PRECIPITATION
+	Variable coding/values: A specific domain comprised of the characters in the ASCII character set.
+				AA1 - AA4 An indicator of up to 4 repeating fields of the following items:
+					LIQUID-PRECIPITATION period quantity
+					LIQUID-PRECIPITATION depth dimension
+					LIQUID-PRECIPITATION condition code
+					LIQUID-PRECIPITATION quality code
+	Unit of measurement: None
+	Range of values: None
+	Missing value : 9999
+	
+	Variable name: AG1
+	Variable description: The identifier that represents a PRECIPITATION-ESTIMATED-OBSERVATION, from AFCCC.
+	Variable coding/values: A specific domain comprised of the characters in the ASCII character set.
+				AG1 An indicator of the occurrence of the following items:
+					PRECIPITATION-OBSERVATION discrepancy code
+					PRECIPITATION-OBSERVATION estimated water depth dimension
+	Unit of measurement: None
+	Range of values: None
+	Missing value : None
+	
+	Variable name: AJ1
+	Variable description: The identifier that denotes the start of a SNOW-DEPTH data section.
+	Variable coding/values: A specific domain comprised of the characters in the ASCII character set.
+				AJ1 An indicator of the occurrence of the following items:
+					SNOW-DEPTH dimension
+					SNOW-DEPTH condition code
+					SNOW-DEPTH quality code
+					SNOW-DEPTH equivalent water depth dimension
+					SNOW-DEPTH equivalent water condition code
+					SNOW-DEPTH equivalent water condition quality code
+	Unit of measurement: None
+	Range of values: None
+	Missing value : None
+	
+	
+	Variable name: AW1, AW2
+	Variable description: PRESENT-WEATHER-OBSERVATION automated occurrence identifier. The identifier that signifies the reporting of present weather.
+	Variable coding/values: A specific domain comprised of the ASCII character
+				AW1 First automated weather report
+				AW2 Second automated weather report
+				AW3 Third automated weather report
+				AW4 Fourth automated weather report
+				PRESENT-WEATHER-OBSERVATION automated atmospheric condition code
+				PRESENT-WEATHER-OBSERVATION quality automated atmospheric condition code
+	Unit of measurement: None
+	Range of values: None
+	Missing value : None
+	
+	Variable name: AY1, AY2
+	Variable description: PAST-WEATHER-OBSERVATION manual occurrence identifier. The identifier that signifies the reporting of past weather.
+	Variable coding/values: A specific domain comprised of the characters in the ASCII character set.
+			AY1 - AY2 An indicator of up to 2 repeating fields of the following item:
+				PAST-WEATHER-OBSERVATION manual atmospheric condition code
+				PAST-WEATHER-OBSERVATION quality manual atmospheric condition code
+				PAST-WEATHER-OBSERVATION period quantity
+				PAST-WEATHER-OBSERVATION period quality code
+	Unit of measurement: None
+	Range of values: None
+	Missing value : None
+	
+	Variable name: AZ1, AZ2
+	Variable description: PAST-WEATHER-OBSERVATION automated occurrence identifier. The identifier that signifies the reporting of present weather
+	Variable coding/values: A specific domain comprised of the characters in the ASCII character set.
+			AZ1- AZ2 An indicator of the following item: (this may occur 0 - 2 times)
+				PAST-WEATHER-OBSERVATION automated atmospheric condition code
+				PAST-WEATHER-OBSERVATION quality automated atmospheric condition code
+				PAST-WEATHER-OBSERVATION period quantity
+				PAST-WEATHER-OBSERVATION period quality code
+	Unit of measurement: None
+	Range of values: None
+	Missing value : None
+	
+	Variable name: DEW
+	Variable description: AIR-TEMPERATURE-OBSERVATION dew point temperature. The temperature to which a given parcel of air must be cooled at constant pressure and water vapor content in order for saturation to occur.
+	Variable coding/values: A general domain comprised of the numeric characters (0-9), a plus sign (+), and a minus sign (-).
+	Unit of measurement: Degrees Celsius
+	Range of values: -982 to +0368
+	Missing value : 9999
+	Scaling factor: 10
+
+	Variable name: ED1,EOD
+	Variable description: RUNWAY-VISUAL-RANGE-OBSERVATION identifier. The identifier that indicates the occurrence of a runway visibility report.
+	Variable coding/values: A specific domain comprised of the ASCII characters.
+			ED1 An indicator of the following items:
+				RUNWAY-VISUAL-RANGE-OBSERVATION direction angle
+				RUNWAY-VISUAL-RANGE-OBSERVATION runway designator code
+				RUNWAY-VISUAL-RANGE-OBSERVATION visibility dimension
+				RUNWAY-VISUAL-RANGE-OBSERVATION quality code
+	Unit of measurement: None
+	Range of values: None
+	Missing value : None
+	
+	Variable name: GA1, GA2, GA3, GA4, GA5
+	Variable description: SKY-COVER-LAYER identifier. The identifier that represents a SKY-COVER-LAYER.
+	Variable coding/values: A specific domain comprised of the characters in the ASCII character set.
+			GA1-GA6 An indicator of up to 6 repeating fields of the following items:
+				SKY-COVER-LAYER coverage code
+				SKY-COVER-LAYER coverage quality code
+				SKY-COVER-LAYER base height dimension
+				SKY-COVER-LAYER base height quality code
+				SKY-COVER-LAYER cloud type code
+				SKY-COVER-LAYER cloud type quality code
+	Unit of measurement: None
+	Range of values: None
+	Missing value : None
+	
+	
+	Variable name: GE1
+	Variable description: SKY-CONDITION-OBSERVATION identifier. An indicator that denotes the start of a SKY-CONDITION-OBSERVATION data group.
+	Variable coding/values:A specific domain comprised of the characters in the ASCII character set.
+			GE1: An indicator of the occurrence of the following data items:
+				SKY-CONDITION-OBSERVATION convective cloud attribute
+				SKY-CONDITION-OBSERVATION vertical datum attribute
+				SKY-CONDITION-OBSERVATION base height upper range attribute
+				SKY-CONDITION-OBSERVATION base height lower range attribute
+	Unit of measurement: None
+	Range of values: None
+	Missing value : None
+	
+	Variable name: GF1
+	Variable description: SKY-CONDITION-OBSERVATION identifier. An indicator that denotes the start of a SKY-CONDITION-OBSERVATION data group.
+	Variable coding/values:A specific domain comprised of the characters in the ASCII character set.
+			GF1: An indicator of the occurrence of the following data items:
+				SKY-CONDITION-OBSERVATION total coverage code
+				SKY-CONDITION-OBSERVATION total opaque coverage code
+				SKY-CONDITION-OBSERVATION quality total coverage code
+				SKY-CONDITION-OBSERVATION total lowest cloud cover code
+				SKY-CONDITION-OBSERVATION quality total lowest cloud cover code
+				SKY-CONDITION-OBSERVATION low cloud genus code
+				SKY-CONDITION-OBSERVATION quality low cloud genus code
+				SKY-CONDITION-OBSERVATION lowest cloud base height dimension
+				SKY-CONDITION-OBSERVATION lowest cloud base height quality code
+				SKY-CONDITION-OBSERVATION mid cloud genus code
+				SKY-CONDITION-OBSERVATION quality mid cloud genus code
+				SKY-CONDITION-OBSERVATION high cloud genus code
+				SKY-CONDITION-OBSERVATION quality high cloud genus code
+	Unit of measurement: None
+	Range of values: None
+	Missing value : None
+	
+	Variable name: IA1
+	Variable description: GROUND-SURFACE-OBSERVATION identifier. The identifier that denotes the availability of a GROUND-SURFACE-OBSERVATION.
+	Variable coding/values: A specific domain comprised of the characters in the ASCII character set.
+			IA1: An indicator of the occurrence of the following data item:
+				GROUND-SURFACE-OBSERVATION code
+				GROUND-SURFACE-OBSERVATION quality code
+	Unit of measurement: None
+	Range of values: None
+	Missing value : None
+	
+	Variable name: IA1
+	Variable description: GROUND-SURFACE-OBSERVATION minimum-temperature identifier. The identifier that denotes the availability of GROUND-SURFACE-OBSERVATION minimum temperature data.
+	Variable coding/values: A specific domain comprised of the characters in the ASCII character set.
+			IA2: An indicator of the occurrence of the following data item:
+				GROUND-SURFACE-OBSERVATION minimum-temperature period quantity
+				GROUND-SURFACE-OBSERVATION minimum temperature
+				GROUND-SURFACE-OBSERVATION minimum temperature quality code
+	Unit of measurement: None
+	Range of values: None
+	Missing value : None
+	
+	
+	Variable name: KA1 - KA4
+	Variable description: EXTREME-AIR-TEMPERATURE identifier. The identifier that denotes the start of an EXTREME-AIR-TEMPERATURE data section.
+	Variable coding/values: A specific domain comprised of the characters in the ASCII character set.
+		KA1-KA4 An indicator of up to 4 repeating fields of the following items:
+			EXTREME-AIR-TEMPERATURE period quantity
+			EXTREME-AIR-TEMPERATURE code
+			EXTREME-AIR-TEMPERATURE air temperature
+			EXTREME-AIR-TEMPERATURE temperature quality code
+	Unit of measurement: None
+	Range of values: None
+	Missing value : None
+
+
+	Variable name: MA1
+	Variable description: EATMOSPHERIC-PRESSURE-OBSERVATION identifier. The identifier that denotes the start of an ATMOSPHERIC-PRESSURE OBSERVATION data section
+	Variable coding/values: A specific domain comprised of the characters in the ASCII character set.
+		MA1 An indicator of the occurrence of the following items:
+			ATMOSPHERIC-PRESSURE-OBSERVATION altimeter setting rate
+			ATMOSPHERIC-PRESSURE-OBSERVATION altimeter quality code
+			ATMOSPHERIC-PRESSURE-OBSERVATION station pressure rate
+			ATMOSPHERIC-PRESSURE-OBSERVATION station pressure quality code
+	Unit of measurement: None
+	Range of values: None
+	Missing value : None
+
+
+	Variable name: MA1
+	Variable description: ATMOSPHERIC-PRESSURE-CHANGE identifier. The identifier that denotes the start of an ATMOSPHERIC-PRESSURE-CHANGE data section.
+	Variable coding/values: A specific domain comprised of the characters in the ASCII character set.
+		Domain Value ID: Domain Value Definition Text
+		MD1 An indicator of the occurrence of the following items:
+			ATMOSPHERIC-PRESSURE-CHANGE tendency code
+			ATMOSPHERIC-PRESSURE-CHANGE quality tendency code
+			ATMOSPHERIC-PRESSURE-CHANGE three hour quantity
+			ATMOSPHERIC-PRESSURE-CHANGE quality three hour code
+			ATMOSPHERIC-PRESSURE-CHANGE twenty four hour quantity
+			ATMOSPHERIC-PRESSURE-CHANGE quality twenty four hour code
+	Unit of measurement: None
+	Range of values: None
+	Missing value : None
+	
+	Variable name: ME1
+	Variable description: GEOPOTENTIAL-HEIGHT-ISOBARIC-LEVEL identifier The identifier that denotes the availability of GEOPOTENTIAL-HEIGHT-ISOBARIC-LEVEL data.
+	Variable coding/values: A specific domain comprised of the characters in the ASCII character set.
+		ME1: An indicator of the occurrence of the following data items:
+			GEOPOTENTIAL-HEIGHT-ISOBARIC-LEVEL code
+			GEOPOTENTIAL-HEIGHT-ISOBARIC-LEVEL height dimension
+			GEOPOTENTIAL-HEIGHT-ISOBARIC-LEVEL height dimension quality code
+	Unit of measurement: None
+	Range of values: None
+	Missing value : None
+
+	Variable name: MW1, MW2, MW3
+	Variable description: PRESENT-WEATHER-OBSERVATION manual occurrence identifier. The identifier that signifies the reporting of present weather.
+	Variable coding/values: A specific domain comprised of the ASCII characters.
+			MW1 = first weather reported
+			MW2 = second weather reported
+			MW3 = third weather reported
+			MW4 = fourth weather reported
+			MW5 = fifth weather reported
+			MW6 = sixth weather reported
+			MW7 = seventh weather reported
+			An indicator of up to 7 repeating fields of the following items:
+			PRESENT-WEATHER-OBSERVATION manual atmospheric condition code.
+			PRESENT-WEATHER-OBSERVATION quality manual atmospheric condition code
+	Unit of measurement: None
+	Range of values: None
+	Missing value : None
+	
+	Variable name: OC1
+	Variable description: WIND-GUST-OBSERVATION identifier. The identifier that denotes the start of a WIND-GUST-OBSERVATION data section.
+	Variable coding/values: A specific domain comprised of the characters in the ASCII character set.
+		OC1: An indicator of the occurrence of the following item:
+			WIND-GUST-OBSERVATION speed rate
+			WIND-GUST-OBSERVATION quality code
+	Unit of measurement: None
+	Range of values: None
+	Missing value : None
+	
+	Variable name: REM
+	Variable description: GEOPHYSICAL-POINT-OBSERVATION remarks identifier. The identifier that denotes the beginning of the remarks data section.
+	Variable coding/values: A specific domain comprised of the ASCII character set.
+		REM = Remarks Data Section
+	Unit of measurement: None
+	Range of values: None
+	Missing value : None
+	
+	Variable name: SA1
+	Variable description: SEA-SURFACE-TEMPERATURE-OBSERVATION identifier. The identifier that denotes the start of a SEA-SURFACE-TEMPERATURE OBSERVATION temperature data section.
+	Variable coding/values: A specific domain comprised of the characters in the ASCII character.
+		SA1: An indicator of the occurrence of the following item:
+			SEA-SURFACE-TEMPERATURE-OBSERVATION temperature
+			SEA-SURFACE-TEMPERATURE-OBSERVATION temperature quality code
+	Unit of measurement: None
+	Range of values: None
+	Missing value : None
+	
+	
+	Variable name: SLP
+	Variable description: ATMOSPHERIC-PRESSURE-OBSERVATION (STP/SLP) occurrence identifier. The identifier that denotes the start of an ATMOSPHERIC-PRESSURE-OBSERVATION data section.
+	Variable coding/values: A specific domain comprised of the characters in the ASCII character set.
+		MF1 An indicator of the following items:
+			ATMOSPHERIC-PRESSURE-OBSERVATION (STP/SLP) average station pressure for the day (derived)
+			ATMOSPHERIC-PRESSURE-OBSERVATION (STP/SLP) average station pressure quality code
+			ATMOSPHERIC-PRESSURE-OBSERVATION (STP/SLP) average sea level pressure for the day (derived)
+			ATMOSPHERIC-PRESSURE-OBSERVATION (STP/SLP) average sea level pressure quality code
+	Unit of measurement: None
+	Range of values: None
+	Missing value : None
+	
+	
+	Variable name: TMP
+	Variable description: Temperature
+	Variable coding/values: Dry bulb temperature in fahrenheit
+	Unit of measurement: Fahrenheit
+	Range of values: None
+	Missing value : 999
+	
+	
+	Variable name: UA1
+	Variable description: WAVE-MEASUREMENT identifier. The identifier that represents the availability of a WAVE-MEASUREMENT.
+	Variable coding/values: A specific domain comprised of the characters in the ASCII character set.
+		UA1: An indicator of the occurrence of the following data items:
+			WAVE-MEASUREMENT method code
+			WAVE-MEASUREMENT wave period quantity
+			WAVE-MEASUREMENT wave height dimension
+			WAVE-MEASUREMENT quality code
+			WAVE-MEASUREMENT sea state code
+			WAVE-MEASUREMENT sea state code quality code
+	Unit of measurement: None
+	Range of values: None
+	Missing value : None
+	
+	Variable name: VIS
+	Variable description: VISIBILITY-OBSERVATION quality variability code. The code that denotes a quality status of a reported VISIBILITY OBSERVATION variability code.
+	Variable coding/values: A specific domain comprised of the characters in the ASCII character set.
+		0 = Passed gross limits check
+		1 = Passed all quality control checks
+		2 = Suspect
+		3 = Erroneous
+		4 = Passed gross limits check, data originate from an NCEI data source
+		5 = Passed all quality control checks, data originate from an NCEI data source
+		6 = Suspect, data originate from an NCEI data source
+		7 = Erroneous, data originate from an NCEI data source
+		9 = Passed gross limits check if element is present
+	Unit of measurement: None
+	Range of values: None
+	Missing value : None
+	
+	Variable name: WG1
+	Variable description: WATER-SURFACE-ICE-HISTORICAL-OBSERVATION identifier.The identifier that denotes the availability of a WATER-SURFACE-ICE-HISTORICAL-OBSERVATION.
+	Variable coding/values: A specific domain comprised of the characters in the ASCII character set.
+		WG1: An indicator of the occurrence of the following data item:
+			OCEAN-ICE-OBSERVATION edge bearing code
+			WATER-SURFACE-ICE-HISTORICAL-OBSERVATION edge distance dimension
+			WATER-SURFACE-ICE-HISTORICAL-OBSERVATION edge orientation code
+			WATER-SURFACE-ICE-HISTORICAL-OBSERVATION formation type code
+			WATER-SURFACE-ICE-HISTORICAL-OBSERVATION navigation effect code
+			WATER-SURFACE-ICE-HISTORICAL-OBSERVATION quality code
+	Unit of measurement: None
+	Range of values: None
+	Missing value : None
+	
+	Variable name: WND
+	Variable description: Wind direction and speed
+	Variable coding/values: Wind direction and speed from ASOS
+	Unit of measurement: None
+	Range of values: None
+	Missing value : Nonw
+	
+
+******************************************************************************************
+ADDITIONAL INFORMATION
+******************************************************************************************
+
+FULL DOCUMENTATION: https://www1.ncdc.noaa.gov/pub/data/cdo/documentation/GHCND_documentation.pdf
+
+# Start Date:1900, but the date will vary greatly by station.
+# Stop Date: Present
+# Coverage:
+	Southernmost Latitude: 9000S
+	Northernmost Latitude: 9000N
+	Westernmost Longitude: 18000W
+	Easternmost Longitude: 18000E
+# Location: Global
+#Keywords:
+	Temperature
+		Dew Point
+		Wind Speed
+		Wind Gust
+		Wind Direction
+		Ceiling
+		Sky Cover
+		Cloud Layer Data
+		Visibility
+		Southernmost Latitude: 9000S
+		Northernmost Latitude: 9000N
+		Westernmost Longitude: 18000W
+		Easternmost Longitude: 18000E
+		Present Weather
+		Past Weather
+		Sea Level Pressure
+		Altimeter Setting
+		Station Pressure
+		3-hour Pressure Change
+		Precipitation Amount
+		Snowfall
+		Snow Depth
+		Maximum Temperature
+		Minimum Temperature
+		US Air Force
+		Clouds
+		Surface
+# How to Order Data:
+	Order from:
+	National Centers for Environmental Information
+	Federal Building
+	151 Patton Avenue
+	Asheville, NC 28801-5001
+	phone: (828) 271-4800
+	email: NCEI.orders@noaa.gov
+	
+# Archiving Data Centers:
+	Air Force Combat Climatology Center (AFCCC)
+	Federal Building
+	151 Patton Avenue
+	Asheville, NC 28801-5001
+	
+# Technical Contact:
+National Centers for Environmental Information
+	Climate Access Branch
+	Federal Building
+	151 Patton Avenue
+	Asheville, NC 28801-5001
+	phone: (828) 271-4800
+	email: ncei.orders@noaa.gov
+# Known Uncorrected Problems:
+	Minimal number of random errors, decode errors, and reporting errors
+	(by station)--less than .1% of observations affected overall.
+	Most errors corrected/eliminated by quality control software.
+# Quality Statement:
+	Data have undergone extensive automated quality control, and additional
+	manual quality control for US Air Force stations, US Navy stations, and
+	US National Weather Service stations.
+
+# Revision Date: N/A
+# Source Data Sets:
+	AFCCC USAF SURFACE HOURLY Surface Hourly, NCEI DS3280 Surface Hourly,
+	NCEI DS3240
+	Hourly Precipitation. AFCCC USAF SURFACE HOURLY includes over 100
+	source datasets, while NCEI DS3280 includes several original input
+	sources; so over 100 original input sources are included in the current
+	ISD archive.
+	Beginning in 2006, additional data sources are being added, and will be
+	documented here as they become available online.
+# Essential Companion Data Sets: N/A
+# Derived Data Sets: Global summary of day for 1929-present
+# References: N/A
+# Summary: The Integrated Surface Data (ISD) is composed of worldwide surface
+	weather observations from over 20,000 stations, collected and stored
+	from sources such as the Automated Weather Network (AWN), the Global
+	Telecommunications System (GTS), the Automated Surface Observing System
+	(ASOS), and data keyed from paper forms. Most digital observations are
+	decoded either at operational centers and forwarded to the Federal
+	Climate Complex (FCC) in Asheville, NC, or decoded at the FCC. NOAA’s
+	National Centers for Enviornmental Information (NCEI) and the US Air
+	Force’s 14th Weather Squadron (14WS) make up the FCC in Asheville, NC.
+	Each agency is responsible for data ingest, quality control, and
+	customer support for surface climatological data. All data are now
+	stored in a single ASCII format. The dataset is used in climatological
+	applications by numerous DOD and civilian customers.
+	
+	ISD (formerly known as ISH) refers to the digital dataset and format in
+	which hourly, synoptic (3-hourly), daily, monthly, and various other
+	weather/climate observations are stored. The format conforms to Federal
+	Information Processing Standards (FIPS). The dataset includes data
+	originating from various codes such as synoptic, airways, METAR
+	(Meteorological Routine Weather Report), and SMARS (Supplementary
+	Marine Reporting Station), as well as observations from automatic
+	weather stations. The data are sorted by station, year-month-day-hour-
+	minute, report type, and data source flag. This document provides
+	complete documentation for the dataset and its format.
+
