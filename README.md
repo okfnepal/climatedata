@@ -278,4 +278,37 @@ A repo for the climate change project.
     
 >### Authors
     Samjwal Ratna Bajracharya, Pradeep Kumar Mool, Basanta Raj Shrestha,Sudan Bikash Maharjan, Finu Shrestha and Om Ratna Bajracharya and Sarju Baidya.
+    
+    
+    
+>### Report Title: Mass Balance of Yala And Rikha Samba Glacier, Nepal From 2000 to 2017
+    
+    Summary:This report shwos the glacier length change and annual mass balance for Yala and Rikha Samba Glacier. The annual mass balance rates of Yala Glacier from 
+    2000 to 2 25012 and from 2011 to 2017 are -0.74 ±0.53 m and -0.74 ±0.28 m w.e. a-1, and for Rikha Samba Glacier from 2011 to 2017 -0.39 ±0.32 m w.e. a-1. The mass loss for 
+    the period 2011 to 2017 for Yala and Rikha Samba Glacier -4.44 ±0.69 m w.e. and -2.34 ±0.79 m w.e., respectively. Comparision of glaciers surface lowering and 
+    in-situ mass balance from various Mass balance(B) measured with the glaciological method, winter balance(BS), ELA, AAR and mass balance gradient for glacier from 
+    2011 to 2017. Mass balance (B) measured with the glaciological method, ELA, AAR and mass balance gradient for Rikha Samba Glacier from 2011 to 2017. We did not 
+    calculate the ELA and AAR for Rikha Samba Glacier for 2012, 2014 and 2015 due to the very few data points.Comparison of glacier surface lowering and in-situ mass 
+    balance measurements from various studies.
+	Folder Structure
+		Mass Balance Of Yala And Rikha Samba Glacier/
+			- Comparision of Glacier Surface Lowering And In-situ Mass Balance From Various Studies
+			- Frontal Variations Of Yala And Rikha Samba Glacier 
+			- Glacier Characteristics And Mass Balance Information Of Yala And Rikha Samba Glacier
+			- Glacier Flow In Meters And Direction Of Yala Glacier At The Stake S3 S4 S6 From 8 May 2012 to 5 May 2014.
+			- Mass Balance Measured With Glaciological Method ELA, AAR and Mass Balance Gradient For Rikha Samba Glacier From 2011 to 2017.
+			- Mass Balance Measured With The Glaciological Method Winter Balance Summer Balance ELA, AAR And Mass Balance From Glacier From 2011 to 2017.
+			
+>### File formats
+    - 6 files, format csv
+    - 1 file, format txt
+>### License
+    Copyright © Authors CC by 4.0 License
+     
+    
+>### Authors
+   Dorothea Stumm, Sharad Prasad Joshi, Tika Ram Gurung, Gunjan Silwal
+   	Correspondence to: Dorothea Stumm(stummd@gmail.com)
+	
+
 
