@@ -1,0 +1,200 @@
+Readme file Climate Data obtained from DHM
+Generated on 2021-06-21
+
+
+*********************
+PROJECT INFORMATION
+*********************
+1. Title of dataset: Climate Data obtained from DHM
+2. Author information
+	Published by:
+		Department of Hydrology and Meterology
+		Government of Nepal
+		Ministry of Energy, Water Resources and Irrigation
+	
+3. Data of data collection (single date or date range): 2014, 2017, 2018 for weather summary, 1980-2010 as reference for climate normal.
+
+
+*************************
+DATA ACCESS INFORMATION
+*************************
+
+1. Licences / restrictions placed on access to the dataset
+	©Government of Nepal, Ministry of Population and Environment, Department of Hydrology and Meteorology
+	
+	This Publication may be used for educational and non-profit purposes, provided acknowledgement of the source is accurately made. Use of any part of it for commercial purpose is strictly prohibited.
+
+2. Links to publications for the files from which data were extracted, obtained
+	Url for DHM: https://dhm.gov.np/
+	  Note: DHM timely discloses hydrology and meterology data in above link, so can be as primary source of data for related field and explore for new datasets published
+	  
+	Reference for Climate Normal 1980-2010: http://dhm.gov.np/uploads/climatic/669695357CLIMATE%20NORMAL%20PUBLICATION%20FORMAT.pdf 
+	Reference for Monthly Weather Summary 2014: http://dhm.gov.np/uploads/getforecast/1001026204Annual%20weather%20report%202014_PICS_.pdf
+	Reference for Monthly Weather Summary 2017, 2018: http://dhm.gov.np/weather/
+
+
+****************************
+METHODS OF DATA COLLECTION
+****************************
+
+1. Describe the methods for data collection and / or provide links to papers describing data collection methods
+	Data Source URL: http://dhm.gov.np/weather/
+	Data Source URL: http://dhm.gov.np/climate/			
+	Additional information on data collection methods: Data is published by DHM in their website data portal and were collected
+	
+2. Data processing methods 
+	Data were obtained from the meterological and hydrological stations situated in different locations of Nepal.
+
+3. Instrument information
+	Not Available 
+
+4. Quality assurance procedures
+	Not Available.(research further needed to find out their quality assurance procedure)
+
+5. Analysis methods
+	- 
+
+
+************************
+SUMMARY OF DATA FILES
+************************
+
+1. List of data files
+	Filename: Climate Normal 1980-2010
+	Short description: Climate Normals on indicators like Mean Temperature, Maximum Temperature, Minimum Temperature and Precipitation
+
+	Filename: Merged Monthly Weather Summary for 2014, 2017,2018
+	Short description: Merged data for weather summary for 2014, 2017, 2018. Dataset tracks total precipitation, no of days where precipitation were over the specified level, for temperature the 
+	average, departure from the average and highest value on those average. The average is for mean, max and min temperatures. These data are for different stations and is on monthly basis.	
+
+	Filename: Monthly Weather Summary 2014
+	Short description: Merged data for weather summary for 2014. Dataset tracks total precipitation, no of days where precipitation were over the specified level, for temperature the 
+	average, departure from the average and highest value on those average. The average is for mean, max and min temperatures. These data are for different stations and is on monthly basis.
+	
+	Filename: Monthly Weather Summary 2017-2018
+	Short description: Merged data for weather summary for 2017 and 2018. Dataset tracks total precipitation, no of days where precipitation were over the specified level, for temperature the 
+	average, departure from the average and highest value on those average. The average is for mean, max and min temperatures. These data are for different stations and is on monthly basis.
+	Note: The dataset is not available for all months.
+
+2. Relationships between files
+	Merged Monthly Weather Summary for 2014, 2017,2018 is the merged dataset of two datasets, Monthly Weather Summary 2014 and Monthly Weather Summary 2017-2018 respectively.	
+
+
+****************************************
+DATA-SPECIFIC INFORMATION FOR: Climate Normal 1980-2010
+****************************************
+1. Number of variables: 3
+
+2. Number of cases / (from third columns): 21 stations
+
+3. Missing data codes: None
+
+4. Variable list
+	Mean Temperature, Maximum Temperature, Mean Temperature, Precipitation
+	
+	Unit of measurement: 
+		Precipitation : mm
+		Temperature: Celsius
+
+****************************************
+DATA-SPECIFIC INFORMATION FOR: Merged Monthly Weather Summary for 2014, 2017,2018
+****************************************
+1. Number of variables: 20
+
+2. Number of cases / number of weather stations in this case: 80
+
+3. Missing data codes: 'M' indicates missing data and '-' for unavaiblity of climate normal for the data 
+
+4. Variable list
+	Total Precipitation(mm)
+	% Of Normal Precipitation
+	No. Of Rainy Days (≥1.0mm)
+	No. Of Rainy Days (≥10.0mm)
+	No .Of Rainy Days (≥25.0mm)
+	No .Of Rainy Days (≥50.0mm)
+	24 Hours Extreme Rainfall And Date
+	Average Max Temperature(°C)
+	Departure From The Normal Temperature(°C)
+	Highest Max Temperature(°C)
+	Average Min Temperature(°C)
+	Departure From The Normal Min Temperature
+	Lowest Min Temperature(°C) And Date
+	Monthly Mean Temperature(°C)
+	Departure From The Normal Mean Temperature
+        No. Of Days With Minimum Temperature <0(°C)
+        No. Of Days With Maximum Temperature > 30(°C)
+        No. Of Days With Minimum Temperature >30(°C)
+        No. Of Days With Maximum Temperature <0(°C)
+        
+        Unit of measurement: 
+		Precipitation : mm
+		Temperature: Celsius
+
+****************************************
+DATA-SPECIFIC INFORMATION FOR: Monthly Weather Summary 2014
+****************************************
+1. Number of variables: 20
+
+2. Number of cases / number of stations(in column): 73
+
+3. Missing data codes: 'M' indicates missing data and '-' for unavaiblity of climate normal for the data 
+
+4. Variable list
+	Total Precipitation(mm)
+	% Of Normal Precipitation
+	No. Of Rainy Days (≥1.0mm)
+	No. Of Rainy Days (≥10.0mm)
+	No .Of Rainy Days (≥25.0mm)
+	No .Of Rainy Days (≥50.0mm)
+	24 Hours Extreme Rainfall And Date
+	Average Max Temperature(°C)
+	Departure From The Normal Temperature(°C)
+	Highest Max Temperature(°C)
+	Average Min Temperature(°C)
+	Departure From The Normal Min Temperature
+	Lowest Min Temperature(°C) And Date
+	Monthly Mean Temperature(°C)
+	Departure From The Normal Mean Temperature
+        No. Of Days With Minimum Temperature <0(°C)
+        No. Of Days With Maximum Temperature > 30(°C)
+        No. Of Days With Minimum Temperature >30(°C)
+        No. Of Days With Maximum Temperature <0(°C)
+        
+        Unit of measurement: 
+		Precipitation : mm
+		Temperature: Celsius
+
+****************************************
+DATA-SPECIFIC INFORMATION FOR: Monthly Weather Summary 2017-2018
+****************************************
+1. Number of variables: 20
+
+2. Number of cases / number of stations(in column): 38
+
+3. Missing data codes: 'M' indicates missing data and '-' for unavaiblity of climate normal for the data 
+
+4. Variable list
+	Total Precipitation(mm)
+	% Of Normal Precipitation
+	No. Of Rainy Days (≥1.0mm)
+	No. Of Rainy Days (≥10.0mm)
+	No .Of Rainy Days (≥25.0mm)
+	No .Of Rainy Days (≥50.0mm)
+	24 Hours Extreme Rainfall And Date
+	Average Max Temperature(°C)
+	Departure From The Normal Temperature(°C)
+	Highest Max Temperature(°C)
+	Average Min Temperature(°C)
+	Departure From The Normal Min Temperature
+	Lowest Min Temperature(°C) And Date
+	Monthly Mean Temperature(°C)
+	Departure From The Normal Mean Temperature
+        No. Of Days With Minimum Temperature <0(°C)
+        No. Of Days With Maximum Temperature > 30(°C)
+        No. Of Days With Minimum Temperature >30(°C)
+        No. Of Days With Maximum Temperature <0(°C)
+        
+        Unit of measurement: 
+		Precipitation : mm
+		Temperature: Celsius	
+
