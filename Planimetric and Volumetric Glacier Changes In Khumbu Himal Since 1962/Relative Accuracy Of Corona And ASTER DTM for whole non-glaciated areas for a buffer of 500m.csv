@@ -1,0 +1,4 @@
+Outpts,Without trend(m),First-order trend(m),Second-order trend(m),Buffer without trend(m),"Buffer first-order trend(min,max)(m)"
+Mean,–13.9,2.9,11.3,–9.3,"0.7 (–3.9, 5.2)"
+Standard deviation,51.4,48.3,46.9,18.9,"9.6 (8.6, 10.0)"
+RMSz,53.2,48.4,48.2,n.c.,n.c.
