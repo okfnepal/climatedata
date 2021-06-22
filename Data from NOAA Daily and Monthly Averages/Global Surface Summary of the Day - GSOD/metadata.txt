@@ -1,7 +1,6 @@
 Readme file for Integrated Surface Data - Global Hourly
 Generated on 2021-06-21
 
-
 Recommended citation for the dataset: N/A
 
 *********************

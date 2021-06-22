@@ -1,0 +1,881 @@
+Readme file for Data from Climate Research unit Version 4.03 for Nepal from 1901 to 2018
+Generated on 2021-06-22
+
+Recommended citation for the dataset: Harris, I., Jones, P.D., Osborn, T.J., and Lister, D.H., 2013: Updated high-resolution grids of monthly climatic observations. In press, Int. J. Climatol., 
+Doi: 10.1002/joc.3711.
+
+
+*********************
+PROJECT INFORMATION
+*********************
+1. Title of dataset: Data from Climate Research unit Version 4.03 for Nepal from 1901 to 2018
+2. Author information
+
+	Principal Investigator
+	Name: University of East Anglia Climatic Research Unit (CRU) - author
+	Address:University of East Anglia, School of Environmental Sciences , Faculty of Science, Norwich Research Park , Norwich , NR4 7TJ , United Kingdom 
+	Phone:  +44 (0) 1603 592542
+
+	Co-Investigator
+	Name: Harris, Ian C ( author ) 
+	Address:N/A
+	Email: N/A
+
+	Co-Investigator
+	Name: Jones, Philip D. ( author ) 
+	Address:N/A
+	Email: N/A
+
+3. Data of data collection (single date or date range): 1901 - 2018
+
+4. Publisher and Distributor:
+	Name: Centre for Environmental Data Analysis (CEDA) - custodian 
+	Address:  Rutherford Appleton Laboratory , Harwell , Oxon , OX11 0QX , United Kingdom 
+	Phone: 01235446432
+	
+	Name: Centre for Environmental Data Analysis (CEDA) - distributor 
+	Address:  Rutherford Appleton Laboratory , Harwell , Oxon , OX11 0QX , United Kingdom 
+	Phone: 01235446432
+	
+	Name: Centre for Environmental Data Analysis (CEDA) - point_of_contact 
+	Address:  Rutherford Appleton Laboratory , Harwell , Oxon , OX11 0QX , United Kingdom 
+	Phone: 01235446432
+	
+	Name:  Harris, Ian C ( point_of_contact ) 
+	Address:  N/A
+	Phone: N/A
+	
+	Name: Centre for Environmental Data Analysis (CEDA) - publisher 
+	Address:  Rutherford Appleton Laboratory , Harwell , Oxon , OX11 0QX , United Kingdom 
+	Phone: 01235446432
+
+
+
+*************************
+DATA ACCESS INFORMATION
+*************************
+
+1. Licences / restrictions placed on access to the dataset
+
+    Access to these data is available to any registered CEDA user. Please Login or Register for an account to gain access. 
+    
+    Use of these data is covered by the following licence: 
+    http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/. 
+    When using these data you must cite them correctly using the citation given on the CEDA Data Catalogue record.
+    
+    
+    These datasets are also made available under the Open Database License. Any rights in individual contents of the datasets are licensed under the Database Contents License under the conditions of Attribution and Share-Alike. 
+    
+    Attribution: Climatic Research Unit, University of East Anglia
+
+2. Links to publications that use the data 
+	Reference: Harris, I., Jones, P.D., Osborn, T.J., and Lister, D.H., 2013: Updated high-resolution grids of monthly climatic observations. In press, Int. J. Climatol.
+	DOI: 10.1002/joc.3711.
+
+3. Links to other publicly accessible locations of the data: 
+	URL: https://catalogue.ceda.ac.uk/uuid/d6768285fdc8408bbb9b02bb0f317774
+	URL: https://data.ceda.ac.uk/badc/cru/data/cru_cy/cru_cy_4.03/
+	URL: https://crudata.uea.ac.uk/cru/data/hrg/
+
+4. Links to related datasets
+	CRU CY is derived directly from the CRU TS dataset, and version numbering is matched between the two datasets. Thus, the first official version of CRU CY is v3.21, as it is based on CRU TS v3.21.
+
+	DOI/URL: https://crudata.uea.ac.uk/cru/data/hrg/v4announcement.htm
+	DOI/URL: https://catalogue.ceda.ac.uk/uuid/10d3e3640f004c578403419aac167d82
+
+
+****************************
+METHODS OF DATA COLLECTION
+****************************
+
+1. Describe the methods for data collection and / or provide links to papers describing data collection methods
+	Paper DOI: https://doi.org/10.1038/s41597-020-0453-3
+
+	Additional information on data collection methods: CRU TSv4 (current version 4.03 running to the end of 2018) is provided via the Centre for Environmental Data Analysis (CEDA), and also at the Climatic Research Unit (CRU) website, in NetCDF and ASCII text formats. An interactive Google Earth for the mean temperature and precipitation gridded and station data, as well as country-level averages (called CRU CY v4.03), are available from the CRU website. 
+
+2. Data processing methods
+	Spatial averages are calculated using area-weighted means. CRU CY4.03 is derived directly from the CRU time series (TS) 4.03 dataset. CRU CY version 4.03 spans the period 1901-2018 for 292 countries.
+	
+3. Instrument information
+	N/A 
+
+4. Quality assurance procedures
+ 	CRU CY data are quality controlled by the Climatic Research Unit (CRU) at the University of East Anglia. Details are given in the paper Harris et al. 2014 and the release notes, links to both can be found in the documentation.
+
+5. Analysis methods
+	N/A
+
+
+************************
+SUMMARY OF DATA FILES
+************************
+
+1. List of data files
+	Filename: Cloud Cover Percentage for Nepal from 1901 to 2018.csv
+
+	Filename: Diurnal Temperature Range in Degrees for Nepal from 1901 to 2018.csv
+
+	Filename: Ground Frost Frequency Days for Nepal from 1901 to 2018.csv
+	
+	Filename: Maximum Temperature in Degrees for Nepal from 1901 to 2018.csv
+
+	Filename: Mean Temperature in Degrees for Nepal from 1901 to 2018.csv 
+
+	Filename: Minimum Temperature in Degrees for Nepal from 1901 to 2018.csv
+
+	Filename: Potential Evapotranspiration in mm per day for Nepal from 1901 to 2018.csv
+
+	Filename: Precipitation in mm per month for Nepal from 1901 to 2018.csv
+	
+	Filename: Rain Days for Nepal from 1901 to 2018.csv
+	
+	Filename: Vapour Pressure in hPa for Nepal from 1901 to 2018.csv
+
+2. Relationships between files
+	CRU CY is derived directly from the CRU TS dataset, and version numbering is matched between the two datasets. Thus, the first official version of CRU CY is v3.21, as it is based on CRU TS v3.21.
+
+3. Information about multiple versions of the same file. 
+    The Climatic Research Unit (CRU) CY data are derived directly from the CRU TS data, and version numbering is matched between the two datasets. The CRU CY data are produced by the CRU unit at the University of East Anglia and passed to the Centre for Environmental Data Analysis  (CEDA) for long term archival and distribution. Previous releases of CRU CY include:
+
+    CRU CY 4.03 data were passed to CEDA for archival and distribution by CRU in May 2019.
+
+    CRU CY 4.02 data were passed to CEDA for archival and distribution by CRU in November 2018.
+
+    CRU CY 4.01 data were passed to CEDA for archival and distribution by CRU in September 2017.
+
+    CRU CY 4.00 data were passed to CEDA for archival and distribution by CRU in March 2017.
+
+    CRU CY 3.24.01 data files supplied to CEDA for long term archival by CRU in January 2017.
+
+    The CRU CY 3.24 data were withdrawn by CRU and CEDA in January 2017 due to known issues with the data.
+
+    CRU CY 3.24 data files supplied to CEDA for long term archival by CRU in October 2016.
+
+	
+****************************************
+DATA-SPECIFIC INFORMATION FOR Cloud Cover Percentage for Nepal from 1901 to 2018.csv
+****************************************
+1. Number of variables: 17
+
+2. Number of cases / rows: 119
+
+3. Missing data codes: None
+
+4. Variable list
+	Variable name: YEAR
+	Variable description: The year for which monthly means are given
+	Variable coding/values: Integer including 0-9 numbers.
+	Unit of measurement: None
+	Range of values: 1901 to 2018
+	Missing value: -999.0
+	Format: (i5,17f8.1)		
+	Linkage to variables in other tables or datasets: None
+	
+	Variable name: JAN - DEC
+	Variable description: 12 columns representing 12 months of a year and giving monthly means
+	Variable coding/values: A general domain comprised of the numeric characters (0-9), a dot sign (.)
+	Unit of measurement: Percentage of Cloud cover
+	Range of values: 0 to 100
+	Missing value: -999.0
+	Format: (i5,17f8.1)	
+	Linkage to variables in other tables or datasets: None
+	
+	Variable name: MAM (March-April-May)
+	Variable description: Column representing Spring seasonal mean
+	Variable coding/values: A general domain comprised of the numeric characters (0-9), a dot sign (.)
+	Unit of measurement: Percentage of Cloud cover
+	Range of values: 0 to 100
+	Missing value: -999.0
+	Format: (i5,17f8.1)	
+	Linkage to variables in other tables or datasets: None
+	
+	Variable name: JJA(June-July-August), 
+	Variable description: Column representing Summer seasonal mean
+	Variable coding/values: A general domain comprised of the numeric characters (0-9), a dot sign (.)
+	Unit of measurement: Percentage of Cloud cover
+	Range of values: 0 to 100
+	Missing value: -999.0
+	Format: (i5,17f8.1)	
+	Linkage to variables in other tables or datasets: None
+	
+	Variable name: SON(September-October-November)
+	Variable description: Column representing Autumn seasonal mean
+	Variable coding/values: A general domain comprised of the numeric characters (0-9), a dot sign (.)
+	Unit of measurement: Percentage of Cloud cover
+	Range of values: 0 to 100
+	Missing value: -999.0
+	Format: (i5,17f8.1)	
+	Linkage to variables in other tables or datasets: None
+	
+	Variable name: DJF(December-January-February)
+	Variable description: Column representing Autumn seasonal mean
+	Variable coding/values: A general domain comprised of the numeric characters (0-9), a dot sign (.)
+	Unit of measurement: Percentage of Cloud cover
+	Range of values: 0 to 100
+	Missing value: -999.0
+	Format: (i5,17f8.1)	
+	Linkage to variables in other tables or datasets: None
+	
+	Variable name: ANN
+	Variable description: Column representing Annual mean
+	Variable coding/values: A general domain comprised of the numeric characters (0-9), a dot sign (.)
+	Unit of measurement: Percentage of Cloud cover
+	Range of values: 0 to 100
+	Missing value: -999.0
+	Format: (i5,17f8.1)	
+	Linkage to variables in other tables or datasets: None
+	
+****************************************
+DATA-SPECIFIC INFORMATION FOR Diurnal Temperature Range in Degrees for Nepal from 1901 to 2018.csv
+****************************************
+1. Number of variables: 17
+
+2. Number of cases / rows: 119
+
+3. Missing data codes: None
+
+4. Variable list
+	Variable name: YEAR
+	Variable description: The year for which monthly means are given
+	Variable coding/values: Integer including 0-9 numbers.
+	Unit of measurement: date
+	Range of values: 1901 to 2018
+	Missing value: -999.0
+	Format: (i5,17f8.1)	
+	Linkage to variables in other tables or datasets: None
+	
+	Variable name: JAN - DEC
+	Variable description: 12 columns representing 12 months of a year and giving monthly means
+	Variable coding/values: A general domain comprised of the numeric characters (0-9), a dot sign (.)
+	Unit of measurement: degrees Celsius 
+	Range of values: 0 to 100
+	Missing value: -999.0
+	Format: (i5,17f8.1)	
+	Linkage to variables in other tables or datasets: None
+	
+	Variable name: MAM (March-April-May)
+	Variable description: Column representing Spring seasonal mean
+	Variable coding/values: A general domain comprised of the numeric characters (0-9), a dot sign (.)
+	Unit of measurement: degrees Celsius 
+	Range of values: 0 to 100
+	Missing value: -999.0
+	Format: (i5,17f8
+	Linkage to variables in other tables or datasets: None
+	
+	Variable name: JJA(June-July-August), 
+	Variable description: Column representing Summer seasonal mean
+	Variable coding/values: A general domain comprised of the numeric characters (0-9), a dot sign (.)
+	Unit of measurement: degrees Celsius 
+	Range of values: 0 to 100
+	Missing value: -999.0
+	Format: (i5,17f8.1)	
+	Linkage to variables in other tables or datasets: None
+	
+	Variable name: SON(September-October-November)
+	Variable description: Column representing Autumn seasonal mean
+	Variable coding/values: A general domain comprised of the numeric characters (0-9), a dot sign (.)
+	Unit of measurement: degrees Celsius 
+	Range of values: 0 to 100
+	Missing value: -999.0
+	Format: (i5,17f8.1)	
+	Linkage to variables in other tables or datasets: None
+	
+	Variable name: DJF(December-January-February)
+	Variable description: Column representing Autumn seasonal mean
+	Variable coding/values: A general domain comprised of the numeric characters (0-9), a dot sign (.)
+	Unit of measurement: degrees Celsius 
+	Range of values: 0 to 100
+	Missing value: -999.0
+	Format: (i5,17f8.1)	
+	Linkage to variables in other tables or datasets: None
+	
+	Variable name: ANN
+	Variable description: Column representing Annual mean
+	Variable coding/values: A general domain comprised of the numeric characters (0-9), a dot sign (.)
+	Unit of measurement: degrees Celsius
+	Range of values: 0 to 100
+	Missing value: -999.0
+	Format: (i5,17f8.1)	
+	Linkage to variables in other tables or datasets: None
+	
+	
+****************************************
+DATA-SPECIFIC INFORMATION FOR Ground Frost Frequency Days for Nepal from 1901 to 2018.csv
+****************************************
+1. Number of variables: 17
+
+2. Number of cases / rows: 119
+
+3. Missing data codes: None
+
+4. Variable list
+	Variable name: YEAR
+	Variable description: The year for which monthly means are given
+	Variable coding/values: Integer including 0-9 numbers.
+	Unit of measurement: days 
+	Missing value: -999.0
+	Format: (i5,17f8.1)	
+	Linkage to variables in other tables or datasets: None
+	
+	Variable name: JAN - DEC
+	Variable description: 12 columns representing 12 months of a year and giving monthly means
+	Variable coding/values: Uppercase Character from A to Z
+	Unit of measurement: days
+	Missing value: -999.0
+	Format: (i5,17f8.1)	
+	Linkage to variables in other tables or datasets: None
+	
+	Variable name: MAM (March-April-May)
+	Variable description: Column representing Spring seasonal mean
+	Variable coding/values: A general domain comprised of the numeric characters (0-9), a dot sign (.)
+	Unit of measurement: days
+	Missing value: -999.0
+	Format: (i5,17f8
+	Linkage to variables in other tables or datasets: None
+	
+	Variable name: JJA(June-July-August), 
+	Variable description: Column representing Summer seasonal mean
+	Variable coding/values: A general domain comprised of the numeric characters (0-9), a dot sign (.)
+	Unit of measurement: days
+	Missing value: -999.0
+	Format: (i5,17f8.1)	
+	Linkage to variables in other tables or datasets: None
+	
+	Variable name: SON(September-October-November)
+	Variable description: Column representing Autumn seasonal mean
+	Variable coding/values: A general domain comprised of the numeric characters (0-9), a dot sign (.)
+	Unit of measurement: days
+	Missing value: -999.0
+	Format: (i5,17f8.1)	
+	Linkage to variables in other tables or datasets: None
+	
+	Variable name: DJF(December-January-February)
+	Variable description: Column representing Autumn seasonal mean
+	Variable coding/values: A general domain comprised of the numeric characters (0-9), a dot sign (.)
+	Unit of measurement: days
+	Missing value: -999.0
+	Format: (i5,17f8.1)	
+	Linkage to variables in other tables or datasets: None
+	
+	Variable name: ANN
+	Variable description: Column representing Annual mean
+	Variable coding/values: A general domain comprised of the numeric characters (0-9), a dot sign (.)
+	Unit of measurement: days
+	Missing value: -999.0
+	Format: (i5,17f8.1)	
+	Linkage to variables in other tables or datasets: None
+	
+****************************************
+DATA-SPECIFIC INFORMATION FOR Maximum Temperature in Degrees for Nepal from 1901 to 2018.csv
+****************************************
+1. Number of variables: 17
+
+2. Number of cases / rows: 119
+
+3. Missing data codes: None
+
+4. Variable list
+	Variable name: YEAR
+	Variable description: The year for which monthly means are given
+	Variable coding/values: Integer including 0-9 numbers.
+	Unit of measurement: date
+	Range of values: 1901 to 2018
+	Missing value: -999.0
+	Format: (i5,17f8.1)	
+	Linkage to variables in other tables or datasets: None
+	
+	Variable name: JAN - DEC
+	Variable description: 12 columns representing 12 months of a year and giving monthly means
+	Variable coding/values: A general domain comprised of the numeric characters (0-9), a dot sign (.)
+	Unit of measurement: degrees Celsius 
+	Range of values: 0 to 100
+	Missing value: -999.0
+	Format: (i5,17f8.1)	
+	Linkage to variables in other tables or datasets: None
+	
+	Variable name: MAM (March-April-May)
+	Variable description: Column representing Spring seasonal mean
+	Variable coding/values: A general domain comprised of the numeric characters (0-9), a dot sign (.)
+	Unit of measurement: degrees Celsius 
+	Range of values: 0 to 100
+	Missing value: -999.0
+	Format: (i5,17f8
+	Linkage to variables in other tables or datasets: None
+	
+	Variable name: JJA(June-July-August), 
+	Variable description: Column representing Summer seasonal mean
+	Variable coding/values: A general domain comprised of the numeric characters (0-9), a dot sign (.)
+	Unit of measurement: degrees Celsius 
+	Range of values: 0 to 100
+	Missing value: -999.0
+	Format: (i5,17f8.1)	
+	Linkage to variables in other tables or datasets: None
+	
+	Variable name: SON(September-October-November)
+	Variable description: Column representing Autumn seasonal mean
+	Variable coding/values: A general domain comprised of the numeric characters (0-9), a dot sign (.)
+	Unit of measurement: degrees Celsius 
+	Range of values: 0 to 100
+	Missing value: -999.0
+	Format: (i5,17f8.1)	
+	Linkage to variables in other tables or datasets: None
+	
+	Variable name: DJF(December-January-February)
+	Variable description: Column representing Autumn seasonal mean
+	Variable coding/values: A general domain comprised of the numeric characters (0-9), a dot sign (.)
+	Unit of measurement: degrees Celsius 
+	Range of values: 0 to 100
+	Missing value: -999.0
+	Format: (i5,17f8.1)	
+	Linkage to variables in other tables or datasets: None
+	
+	Variable name: ANN
+	Variable description: Column representing Annual mean
+	Variable coding/values: A general domain comprised of the numeric characters (0-9), a dot sign (.)
+	Unit of measurement: degrees Celsius
+	Range of values: 0 to 100
+	Missing value: -999.0
+	Format: (i5,17f8.1)	
+	Linkage to variables in other tables or datasets: None
+	
+****************************************
+DATA-SPECIFIC INFORMATION FOR Mean Temperature in Degrees for Nepal from 1901 to 2018.csv
+****************************************
+1. Number of variables: 17
+
+2. Number of cases / rows: 119
+
+3. Missing data codes: None
+
+4. Variable list
+	Variable name: YEAR
+	Variable description: The year for which monthly means are given
+	Variable coding/values: Integer including 0-9 numbers.
+	Unit of measurement: date
+	Range of values: 1901 to 2018
+	Missing value: -999.0
+	Format: (i5,17f8.1)	
+	Linkage to variables in other tables or datasets: None
+	
+	Variable name: JAN - DEC
+	Variable description: 12 columns representing 12 months of a year and giving monthly means
+	Variable coding/values: A general domain comprised of the numeric characters (0-9), a dot sign (.)
+	Unit of measurement: degrees Celsius 
+	Range of values: 0 to 100
+	Missing value: -999.0
+	Format: (i5,17f8.1)	
+	Linkage to variables in other tables or datasets: None
+	
+	Variable name: MAM (March-April-May)
+	Variable description: Column representing Spring seasonal mean
+	Variable coding/values: A general domain comprised of the numeric characters (0-9), a dot sign (.)
+	Unit of measurement: degrees Celsius 
+	Range of values: 0 to 100
+	Missing value: -999.0
+	Format: (i5,17f8
+	Linkage to variables in other tables or datasets: None
+	
+	Variable name: JJA(June-July-August), 
+	Variable description: Column representing Summer seasonal mean
+	Variable coding/values: A general domain comprised of the numeric characters (0-9), a dot sign (.)
+	Unit of measurement: degrees Celsius 
+	Range of values: 0 to 100
+	Missing value: -999.0
+	Format: (i5,17f8.1)	
+	Linkage to variables in other tables or datasets: None
+	
+	Variable name: SON(September-October-November)
+	Variable description: Column representing Autumn seasonal mean
+	Variable coding/values: A general domain comprised of the numeric characters (0-9), a dot sign (.)
+	Unit of measurement: degrees Celsius 
+	Range of values: 0 to 100
+	Missing value: -999.0
+	Format: (i5,17f8.1)	
+	Linkage to variables in other tables or datasets: None
+	
+	Variable name: DJF(December-January-February)
+	Variable description: Column representing Autumn seasonal mean
+	Variable coding/values: A general domain comprised of the numeric characters (0-9), a dot sign (.)
+	Unit of measurement: degrees Celsius 
+	Range of values: 0 to 100
+	Missing value: -999.0
+	Format: (i5,17f8.1)	
+	Linkage to variables in other tables or datasets: None
+	
+	Variable name: ANN
+	Variable description: Column representing Annual mean
+	Variable coding/values: A general domain comprised of the numeric characters (0-9), a dot sign (.)
+	Unit of measurement: degrees Celsius
+	Range of values: 0 to 100
+	Missing value: -999.0
+	Format: (i5,17f8.1)	
+	Linkage to variables in other tables or datasets: None
+	
+****************************************
+DATA-SPECIFIC INFORMATION FOR Minimum Temperature in Degrees for Nepal from 1901 to 2018.csv
+****************************************
+1. Number of variables: 17
+
+2. Number of cases / rows: 119
+
+3. Missing data codes: -999.0
+
+4. Variable list
+	Variable name: YEAR
+	Variable description: The year for which monthly means are given
+	Variable coding/values: Integer including 0-9 numbers.
+	Unit of measurement: date
+	Range of values: 1901 to 2018
+	Missing value: -999.0
+	Format: (i5,17f8.1)	
+	Linkage to variables in other tables or datasets: None
+	
+	Variable name: JAN - DEC
+	Variable description: 12 columns representing 12 months of a year and giving monthly means
+	Variable coding/values: A general domain comprised of the numeric characters (0-9), a dot sign (.)
+	Unit of measurement: degrees Celsius 
+	Range of values: 0 to 100
+	Missing value: -999.0
+	Format: (i5,17f8.1)	
+	Linkage to variables in other tables or datasets: None
+	
+	Variable name: MAM (March-April-May)
+	Variable description: Column representing Spring seasonal mean
+	Variable coding/values: A general domain comprised of the numeric characters (0-9), a dot sign (.)
+	Unit of measurement: degrees Celsius 
+	Range of values: 0 to 100
+	Missing value: -999.0
+	Format: (i5,17f8
+	Linkage to variables in other tables or datasets: None
+	
+	Variable name: JJA(June-July-August), 
+	Variable description: Column representing Summer seasonal mean
+	Variable coding/values: A general domain comprised of the numeric characters (0-9), a dot sign (.)
+	Unit of measurement: degrees Celsius 
+	Range of values: 0 to 100
+	Missing value: -999.0
+	Format: (i5,17f8.1)	
+	Linkage to variables in other tables or datasets: None
+	
+	Variable name: SON(September-October-November)
+	Variable description: Column representing Autumn seasonal mean
+	Variable coding/values: A general domain comprised of the numeric characters (0-9), a dot sign (.)
+	Unit of measurement: degrees Celsius 
+	Range of values: 0 to 100
+	Missing value: -999.0
+	Format: (i5,17f8.1)	
+	Linkage to variables in other tables or datasets: None
+	
+	Variable name: DJF(December-January-February)
+	Variable description: Column representing Autumn seasonal mean
+	Variable coding/values: A general domain comprised of the numeric characters (0-9), a dot sign (.)
+	Unit of measurement: degrees Celsius 
+	Range of values: 0 to 100
+	Missing value: -999.0
+	Format: (i5,17f8.1)	
+	Linkage to variables in other tables or datasets: None
+	
+	Variable name: ANN
+	Variable description: Column representing Annual mean
+	Variable coding/values: A general domain comprised of the numeric characters (0-9), a dot sign (.)
+	Unit of measurement: degrees Celsius
+	Range of values: 0 to 100
+	Missing value: -999.0
+	Format: (i5,17f8.1)	
+	Linkage to variables in other tables or datasets: None
+	
+****************************************
+DATA-SPECIFIC INFORMATION FOR Potential Evapotranspiration in mm per day for Nepal from 1901 to 2018.csv
+****************************************
+1. Number of variables: 17
+
+2. Number of cases / rows: 119
+
+3. Missing data codes: -999.0
+
+4. Variable list
+	Variable name: YEAR
+	Variable description: The year for which monthly means are given
+	Variable coding/values: Integer including 0-9 numbers.
+	Unit of measurement: mm/day 
+	Missing value: -999.0
+	Format: (i5,17f8.1)	
+	Linkage to variables in other tables or datasets: None
+	
+	Variable name: JAN - DEC
+	Variable description: 12 columns representing 12 months of a year and giving monthly means
+	Variable coding/values: Uppercase Character from A to Z
+	Unit of measurement: mm/day 
+	Missing value: -999.0
+	Format: (i5,17f8.1)	
+	Linkage to variables in other tables or datasets: None
+	
+	Variable name: MAM (March-April-May)
+	Variable description: Column representing Spring seasonal mean
+	Variable coding/values: A general domain comprised of the numeric characters (0-9), a dot sign (.)
+	Unit of measurement: mm/day 
+	Missing value: -999.0
+	Format: (i5,17f8
+	Linkage to variables in other tables or datasets: None
+	
+	Variable name: JJA(June-July-August), 
+	Variable description: Column representing Summer seasonal mean
+	Variable coding/values: A general domain comprised of the numeric characters (0-9), a dot sign (.)
+	Unit of measurement: mm/day 
+	Missing value: -999.0
+	Format: (i5,17f8.1)	
+	Linkage to variables in other tables or datasets: None
+	
+	Variable name: SON(September-October-November)
+	Variable description: Column representing Autumn seasonal mean
+	Variable coding/values: A general domain comprised of the numeric characters (0-9), a dot sign (.)
+	Unit of measurement: mm/day 
+	Missing value: -999.0
+	Format: (i5,17f8.1)	
+	Linkage to variables in other tables or datasets: None
+	
+	Variable name: DJF(December-January-February)
+	Variable description: Column representing Autumn seasonal mean
+	Variable coding/values: A general domain comprised of the numeric characters (0-9), a dot sign (.)
+	Unit of measurement: mm/day 
+	Missing value: -999.0
+	Format: (i5,17f8.1)	
+	Linkage to variables in other tables or datasets: None
+	
+	Variable name: ANN
+	Variable description: Column representing Annual mean
+	Variable coding/values: A general domain comprised of the numeric characters (0-9), a dot sign (.)
+	Unit of measurement: mm/day 
+	Missing value: -999.0
+	Format: (i5,17f8.1)	
+	Linkage to variables in other tables or datasets: None
+	
+****************************************
+DATA-SPECIFIC INFORMATION FOR Precipitation in mm per month for Nepal from 1901 to 2018.csv
+****************************************
+1. Number of variables: 17
+
+2. Number of cases / rows: 119
+
+3. Missing data codes: -999.0
+
+4. Variable list
+	Variable name: YEAR
+	Variable description: The year for which monthly means are given
+	Variable coding/values: Integer including 0-9 numbers.
+	Unit of measurement: mm/month
+	Missing value: -999.0
+	Format: (i5,17f8.1)	
+	Linkage to variables in other tables or datasets: None
+	
+	Variable name: JAN - DEC
+	Variable description: 12 columns representing 12 months of a year and giving monthly means
+	Variable coding/values: Uppercase Character from A to Z
+	Unit of measurement: mm/month 
+	Missing value: -999.0
+	Format: (i5,17f8.1)	
+	Linkage to variables in other tables or datasets: None
+	
+	Variable name: MAM (March-April-May)
+	Variable description: Column representing Spring seasonal mean
+	Variable coding/values: A general domain comprised of the numeric characters (0-9), a dot sign (.)
+	Unit of measurement: mm/month 
+	Missing value: -999.0
+	Format: (i5,17f8
+	Linkage to variables in other tables or datasets: None
+	
+	Variable name: JJA(June-July-August), 
+	Variable description: Column representing Summer seasonal mean
+	Variable coding/values: A general domain comprised of the numeric characters (0-9), a dot sign (.)
+	Unit of measurement: mm/month 
+	Missing value: -999.0
+	Format: (i5,17f8.1)	
+	Linkage to variables in other tables or datasets: None
+	
+	Variable name: SON(September-October-November)
+	Variable description: Column representing Autumn seasonal mean
+	Variable coding/values: A general domain comprised of the numeric characters (0-9), a dot sign (.)
+	Unit of measurement: mm/month 
+	Missing value: -999.0
+	Format: (i5,17f8.1)	
+	Linkage to variables in other tables or datasets: None
+	
+	Variable name: DJF(December-January-February)
+	Variable description: Column representing Autumn seasonal mean
+	Variable coding/values: A general domain comprised of the numeric characters (0-9), a dot sign (.)
+	Unit of measurement: mm/month 
+	Missing value: -999.0
+	Format: (i5,17f8.1)	
+	Linkage to variables in other tables or datasets: None
+	
+	Variable name: ANN
+	Variable description: Column representing Annual mean
+	Variable coding/values: A general domain comprised of the numeric characters (0-9), a dot sign (.)
+	Unit of measurement: mm/month 
+	Missing value: -999.0
+	Format: (i5,17f8.1)	
+	Linkage to variables in other tables or datasets: None
+	
+****************************************
+DATA-SPECIFIC INFORMATION FOR Rain Days for Nepal from 1901 to 2018.csv
+****************************************
+1. Number of variables: 17
+
+2. Number of cases / rows: 119
+
+3. Missing data codes: -999.0
+
+4. Variable list
+	Variable name: YEAR
+	Variable description: The year for which monthly means are given
+	Variable coding/values: Integer including 0-9 numbers.
+	Unit of measurement: days 
+	Missing value: -999.0
+	Format: (i5,17f8.1)	
+	Linkage to variables in other tables or datasets: None
+	
+	Variable name: JAN - DEC
+	Variable description: 12 columns representing 12 months of a year and giving monthly means
+	Variable coding/values: Uppercase Character from A to Z
+	Unit of measurement: days
+	Missing value: -999.0
+	Format: (i5,17f8.1)	
+	Linkage to variables in other tables or datasets: None
+	
+	Variable name: MAM (March-April-May)
+	Variable description: Column representing Spring seasonal mean
+	Variable coding/values: A general domain comprised of the numeric characters (0-9), a dot sign (.)
+	Unit of measurement: days
+	Missing value: -999.0
+	Format: (i5,17f8
+	Linkage to variables in other tables or datasets: None
+	
+	Variable name: JJA(June-July-August), 
+	Variable description: Column representing Summer seasonal mean
+	Variable coding/values: A general domain comprised of the numeric characters (0-9), a dot sign (.)
+	Unit of measurement: days
+	Missing value: -999.0
+	Format: (i5,17f8.1)	
+	Linkage to variables in other tables or datasets: None
+	
+	Variable name: SON(September-October-November)
+	Variable description: Column representing Autumn seasonal mean
+	Variable coding/values: A general domain comprised of the numeric characters (0-9), a dot sign (.)
+	Unit of measurement: days
+	Missing value: -999.0
+	Format: (i5,17f8.1)	
+	Linkage to variables in other tables or datasets: None
+	
+	Variable name: DJF(December-January-February)
+	Variable description: Column representing Autumn seasonal mean
+	Variable coding/values: A general domain comprised of the numeric characters (0-9), a dot sign (.)
+	Unit of measurement: days
+	Missing value: -999.0
+	Format: (i5,17f8.1)	
+	Linkage to variables in other tables or datasets: None
+	
+	Variable name: ANN
+	Variable description: Column representing Annual mean
+	Variable coding/values: A general domain comprised of the numeric characters (0-9), a dot sign (.)
+	Unit of measurement: days
+	Missing value: -999.0
+	Format: (i5,17f8.1)	
+	Linkage to variables in other tables or datasets: None
+	
+	
+	****************************************
+DATA-SPECIFIC INFORMATION FOR Vapour Pressure in hPa for Nepal from 1901 to 2018.csv
+****************************************
+1. Number of variables: 17
+
+2. Number of cases / rows: 119
+
+3. Missing data codes: -999.0
+
+4. Variable list
+	Variable name: YEAR
+	Variable description: The year for which monthly means are given
+	Variable coding/values: Integer including 0-9 numbers.
+	Unit of measurement: hPa  
+	Missing value: -999.0
+	Format: (i5,17f8.1)	
+	Linkage to variables in other tables or datasets: None
+	
+	Variable name: JAN - DEC
+	Variable description: 12 columns representing 12 months of a year and giving monthly means
+	Variable coding/values: Uppercase Character from A to Z
+	Unit of measurement: hPa 
+	Missing value: -999.0
+	Format: (i5,17f8.1)	
+	Linkage to variables in other tables or datasets: None
+	
+	Variable name: MAM (March-April-May)
+	Variable description: Column representing Spring seasonal mean
+	Variable coding/values: A general domain comprised of the numeric characters (0-9), a dot sign (.)
+	Unit of measurement: hPa 
+	Missing value: -999.0
+	Format: (i5,17f8
+	Linkage to variables in other tables or datasets: None
+	
+	Variable name: JJA(June-July-August), 
+	Variable description: Column representing Summer seasonal mean
+	Variable coding/values: A general domain comprised of the numeric characters (0-9), a dot sign (.)
+	Unit of measurement: hPa 
+	Missing value: -999.0
+	Format: (i5,17f8.1)	
+	Linkage to variables in other tables or datasets: None
+	
+	Variable name: SON(September-October-November)
+	Variable description: Column representing Autumn seasonal mean
+	Variable coding/values: A general domain comprised of the numeric characters (0-9), a dot sign (.)
+	Unit of measurement: hPa 
+	Missing value: -999.0
+	Format: (i5,17f8.1)	
+	Linkage to variables in other tables or datasets: None
+	
+	Variable name: DJF(December-January-February)
+	Variable description: Column representing Autumn seasonal mean
+	Variable coding/values: A general domain comprised of the numeric characters (0-9), a dot sign (.)
+	Unit of measurement: hPa 
+	Missing value: -999.0
+	Format: (i5,17f8.1)	
+	Linkage to variables in other tables or datasets: None
+	
+	Variable name: ANN
+	Variable description: Column representing Annual mean
+	Variable coding/values: A general domain comprised of the numeric characters (0-9), a dot sign (.)
+	Unit of measurement: hPa 
+	Missing value: -999.0
+	Format: (i5,17f8.1)	
+	Linkage to variables in other tables or datasets: None
+******************************************************************************************
+ADDITIONAL INFORMATION
+
+Separator: tab
+Country :Nepal
+
+
+Notes on usage:
+
+To understand this dataset, it is important to understand the
+construction and limitations of the underlying dataset, CRU TS. It is
+therefore recommended that all users read the relevant paper:
+
+Harris, I., Jones, P.D., Osborn, T.J., and Lister, D.H., 2013: Updated
+high-resolution grids of monthly climatic observations. In press, Int.
+J. Climatol., Doi: 10.1002/joc.3711.
+
+In brief: the CRU TS dataset prioritises completeness, and has no
+missing data over land. Where observations are unavailable, the 1961-90
+monthly climatic mean is used as a substitute. In data sparse regions
+of the world, this can lead to repeated values, and this can show up in
+derived products such as CRU CY.
+
+Unlike the previous TYN CY dataset, CRU CY consists solely of country
+averages.
+
+Finally, note that the 'DJF' (winter) value for the last year will
+be missing; this is because the season straddles two years, and cannot
+be calculated without the January and February values.
+
+******************************************************************************************

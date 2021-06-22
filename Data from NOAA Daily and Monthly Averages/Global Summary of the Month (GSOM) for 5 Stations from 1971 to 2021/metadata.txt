@@ -1,13 +1,13 @@
 Readme file for Monthly Averages for 5 stations for 1971 to 2021 
 Generated on 2021-06-21
 
-Recommended citation for the dataset: 
+Recommended citation for the dataset: N/A
 
 *********************
 PROJECT INFORMATION
 *********************
-1. Title of dataset: 
-2. Author information
+1. Title of dataset: Monthly Averages for 5 stations for 1971 to 2021 
+2. Author information:
 
 	Principal Investigator
 	Name:Jay Lawrimore, Chief,DSB, NOAA/NCEI
@@ -17,9 +17,7 @@ PROJECT INFORMATION
 3. Data of data collection (single date or date range): 1971 t0 2021
 
 4. Funder
-	Name: 
-	Project number or identifier: 
-
+	Name: Name: NOAA - National Centers for Environmental Information, US Air Force - 14th Weather  Squadron, 151 Patton Avenue, Asheville, NC 28801-5001 USA
 
 
 *************************
