@@ -379,6 +379,76 @@ A repo for the climate change project.
    Dorothea Stumm, Sharad Prasad Joshi, Tika Ram Gurung, Gunjan Silwal
    	Correspondence to: Dorothea Stumm(stummd@gmail.com)
 	
+	
+	
+	
+>### Report Title: Climate Change Health Profile_2015
+    
+    Summary:This dataset shows the set of typical results know as “Preliminary Analysis” coming from the disaster database, containing effects of many types of 
+    disasters occurred in the different region of Nepal.
+	Folder Structure
+	Climate Change Health Profile_2015(Deslventar)/
+		-Composition Of Disasters 
+		-Spatial Distribution 
+		-Temporal Behaviour 1971 to 2013.
+			
+>### File formats
+    - 3 files, format csv
+    - 1 file, format txt
+>### License
+    Copyright © 2013 Deslventar 
+     
+    
+>### Authors
+      UNDRR, Sendai Framework For Disaster Reduction
 
+>### Report Title: National Climate Change Impact Health Survey 2016
+    
+    Summary:TThis dataset contains the increase, decrease and change in temperature and precipitation on basis of analytical domain such as urban, rural, mountain,
+    hill etc for winter, summer and monsoon. It also contains information on households view on emergence of new disease in crops, livestock, and increase in the 
+    incidence of types of disease, water borne disease, vector borne disease etc.
+    Folder structure:
+   	Climate Change Health Profile_2015/
+			- Change In Climate Induced Disasters In Last 25 Years
+			- Change in Moonsoon Precipitaion 
+			- Change in Summer Temperature
+			- Emergence of New Disease In Crops in Last 25 years
+			...
+			...			
+>### File formats
+    - 18 files, format csv
+    - 1 file, format txt
+>### License
+     Copyright © 2016, Central Bureau of Statistics
+     
+>### Authors
+   Central Bureau of Statistics
+    
+    
+>### Report Title: Mass And Energy Balance Estimation Of Yala Glacier in Langtang Valley(2011-2017)
+    
+Summary:The dataset contains the mass and energy balance estimation of Yala Glacier in Langtang valley that was observed for six years. A physically-based surface
+energy balance model is used to simulate summer mass and energy balance of the Yala Glacier for the 2012–2014 period. Cumulative mass balance of the Yala Glacier for
+the 2011–2017 period was negative at −4.88 m w.e. The mean annual glacier-wide mass balance was −0.81 ± 0.27 m w.e. with a standard deviation of ±0.48 m w.e. The 
+modelled mass balance values agreed well with observations. Modelling showed that net radiation was the primary energy source for the melting of the glacier followed
+by sensible heat and heat conduction fluxes. Sensitivity of mass balance to changes in temperature, precipitation, relative humidity, surface albedo and snow density
+were examined. Mass balance was found to be most sensitive to changes in temperature and precipitation.
+    Folder structure:
+   	Mass And Energy Balance Estimation Of Yala Glacier in Langtang Valley(2011-2017)/
+			- Annual Glacier Wide Ba Winter And Summer Ba ELA AAR for Yala Glacier.
+			- Observed and Calculated Mass Balances For The Summer 2010_2013_2014. 
+			- Observed And Modelled point Mass Balance For The Summer of 2013 and 2014
+			- Result of Sensitivity Analysis Of Model for 2 May 2014_15Nov2014			
+>### File formats
+    - 4 files, format csv
+    - 1 file, format txt
+>### License
+     Copyright cc © 2018 by Authors 
+     Licensee MDPI, Basel, Switzerland.
+     This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) 
+     license(http://creativecommons.org/licenses/by/4.0/)
 
-
+     
+>### Authors
+   Anushilan Acharya,Rijan Bhakta Kayastha
+    
