@@ -451,4 +451,36 @@ were examined. Mass balance was found to be most sensitive to changes in tempera
      
 >### Authors
    Anushilan Acharya,Rijan Bhakta Kayastha
+   
+   
+>### Report Title: Planimetric and volumetric glacier changes in the Khumbu Himal,
+Nepal, since 1962 using Corona, Landsat TM and ASTER data
+    
+Summary:Multitemporal space imagery from 1962 (Corona KH-4), 1992 (Landsat TM), 2001 and
+2005 (Terra ASTER) was used to investigate the glacier changes in the Khumbu Himal, Nepal. The ice
+coverage in the investigation area decreased by about 5% between 1962 and 2005, with the highest
+retreat rates occurring between 1992 and 2001. The debris coverage increased concomitantly with the
+decrease in total glacier area. The clean-ice area decreased by >10%. Digital terrain model (DTM)
+generation from the early Corona KH-4 stereo data in this high-relief terrain is time-consuming, and the
+results still contain some elevation errors. However, these are minor in the snow-free areas with gentle
+slopes. Thus comparison of the surfaces of the debris-covered glacier tongues based on the Corona DTM
+and an ASTER DTM is feasible and shows the downwasting of the debris-covered glaciers. The highest
+downwasting rates, more than 20m (>0.5ma–1), can be found near the transition zone between the
+active and the stagnant glacier parts of the debris-covered glacier tongues. The downwasting is lower,
+but still evident, in the active ice areas and at the snout with thick debris cover. All investigated debriscovered
+glaciers in the study area show similar behaviour. The estimated volume loss for the investigated
+debris-covered glacier tongues is 0.19km3.
+    Folder structure:
+   	Planimetirc and Volumetric Glacier Changes in Khumbu Himal Since 1962/
+			
+			
+>### File formats
+    - 3 files, format csv
+    - 1 file, format txt
+>### License
+  	Copyright © 10 Jun 2021 Journal of Glaciology.Use of this report is subject to the Cambridge Core terms of use.
+
+     
+>### Authors
+  Tobias Bolch, Manfred Buchroithner, Tino Pieczonka, Andre Kunert.
     
