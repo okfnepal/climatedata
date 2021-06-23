@@ -597,7 +597,7 @@ DATA-SPECIFIC INFORMATION FOR Potential Evapotranspiration in mm per day for Nep
 	Variable name: YEAR
 	Variable description: The year for which monthly means are given
 	Variable coding/values: Integer including 0-9 numbers.
-	Unit of measurement: mm/day 
+	Unit of measurement: date
 	Missing value: -999.0
 	Format: (i5,17f8.1)	
 	Linkage to variables in other tables or datasets: None
@@ -663,7 +663,7 @@ DATA-SPECIFIC INFORMATION FOR Precipitation in mm per month for Nepal from 1901 
 	Variable name: YEAR
 	Variable description: The year for which monthly means are given
 	Variable coding/values: Integer including 0-9 numbers.
-	Unit of measurement: mm/month
+	Unit of measurement: date
 	Missing value: -999.0
 	Format: (i5,17f8.1)	
 	Linkage to variables in other tables or datasets: None
@@ -729,7 +729,7 @@ DATA-SPECIFIC INFORMATION FOR Rain Days for Nepal from 1901 to 2018.csv
 	Variable name: YEAR
 	Variable description: The year for which monthly means are given
 	Variable coding/values: Integer including 0-9 numbers.
-	Unit of measurement: days 
+	Unit of measurement: date 
 	Missing value: -999.0
 	Format: (i5,17f8.1)	
 	Linkage to variables in other tables or datasets: None
@@ -796,7 +796,7 @@ DATA-SPECIFIC INFORMATION FOR Vapour Pressure in hPa for Nepal from 1901 to 2018
 	Variable name: YEAR
 	Variable description: The year for which monthly means are given
 	Variable coding/values: Integer including 0-9 numbers.
-	Unit of measurement: hPa  
+	Unit of measurement: date  
 	Missing value: -999.0
 	Format: (i5,17f8.1)	
 	Linkage to variables in other tables or datasets: None
