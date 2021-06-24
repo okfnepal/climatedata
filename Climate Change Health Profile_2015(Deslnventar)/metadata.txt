@@ -2,11 +2,20 @@ This dataset shows the country profile of Nepal and disaster database.
 
 Dataset summary:
   Composition of Disasters:
-    THis databset contains various natural disasters such Accident, Avalance , epidemic, pollution and their effects such as: DataCards, deaths, injured, missing etc.
+    #THis databset contains various natural disasters such Accident, Avalance , epidemic, pollution and their effects such as: DataCards, deaths, injured, missing etc.
+    #Missing data:210
   Spatial Distribution
-    This dataset contains the the impacts of natural disaster in the 5 development regions in Nepal.
+    #This dataset contains the the impacts of natural disaster in the 5 development regions in Nepal.
+    #Missing data:None
   Temporal Behaviour 
-    This dataset contains the nu of deaths, injured, missing, house destroyed, damaged and the no of them relocated, evacated, Losses in between year 1971 to 2013.
-    
+    #This dataset contains the nu of deaths, injured, missing, house destroyed, damaged and the no of them relocated, evacated, Losses in between year 1971 to 2013.
+    #Missing data:110   
  Flood, earthquake and Fire were the top 3 causes of highest housing damages.
  Landslide, flood and epidemic were highest cause of mortality in between the year 1971 to 2013.
+ 
+ 
+ Data Source: Densinventar protal.
+ 
+ 
+
+
