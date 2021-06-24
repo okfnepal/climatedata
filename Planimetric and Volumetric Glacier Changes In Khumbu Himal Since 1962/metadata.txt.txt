@@ -16,4 +16,13 @@ active and the stagnant glacier parts of the debris-covered glacier tongues. The
 but still evident, in the active ice areas and at the snout with thick debris cover. All investigated debriscovered
 glaciers in the study area show similar behaviour. The estimated volume loss for the investigated
 debris-covered glacier tongues is 0.19km3.
-	
+
+#Dataset summary.
+    -Calculated Downwasting And Volume Loss Of The Investigated Cover Glacier Toungues.
+	    This dataset contains the mean height difference of glacier surroudings(m), average downwasting (m) ,average downwasting rate(m a-1 ) and volume loss(m3) for   
+        khumbu,   Nuptse,Lhotse Nup, Lhotse and sum/ average.
+    -Change In The Total Ice Cover The CI And DC Ice Areas in Khumbe 1962 to 2005
+	    This dataset contains the total area, Clean Ice, Debris of Ice extend, total area, CI,DC of change rate and change % of different year 1962, 1992, 2001 and 
+        2005 with different sensor.
+    -Relative Accuracy of Corona And ASTER DTM for whole non-glaciated areas for a  buffer of 500m
+	    This dataset contains the mean, standard deviation and TMSz without trend(m), first-order trend(m), second-order trend(m).
