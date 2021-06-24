@@ -24,6 +24,16 @@
   It is located south east of Chokarma Tsho and northeast of Ambulapcha Tsho.
   
   
-  Surface Area and computed volume of Imja Glacier Lake. This file shows the area in km2, m2 and volume in m3 of Imja Glacier Lake for years 1653,1975 1978,1984,1986,1991,1992,1996,
-  1997,1999,2001,2004,2008.The surface area, volume is increasing every year which reflects how rapidly glaciers are melting.
+  Surface Area and computed volume of Imja Glacier Lake. This file shows the area in km2, m2 and volume in m3 of Imja Glacier Lake for years 1653,
+  1975 1978,1984,1986,1991,1992,1996, 1997,1999,2001,2004,2008.The surface area, volume is increasing every year which reflects how rapidly glaciers are melting.
+  
+  Dataset description:
+  -Compiled Data On Glacier Lake Area Volume And Mean Depth.
+	  This dataset has glacial lakes and their area(m2), volume(m3), mean depth(m) and the type of glacial lake it is.
+  -Empirical Scoring of GLOF Hazards.
+	  This dataset contains the information on Imja Glacier lakes and the scoring of GLOF hazards such as volume, calving, super and englacier channel, hazard score.
+  -Surface Area and Computed Volume Of Imja Glacier Lake_1963to2008
+	  This dataset contains the surface area in km2 and m2, volume in m3 of Imja glacial lake in year in between 1963 to 2008.
+
+  
   
