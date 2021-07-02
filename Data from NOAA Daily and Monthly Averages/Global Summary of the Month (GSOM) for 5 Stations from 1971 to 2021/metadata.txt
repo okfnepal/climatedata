@@ -1,0 +1,395 @@
+Readme file for Monthly Averages for 5 stations for 1971 to 2021 
+Generated on 2021-06-21
+
+Recommended citation for the dataset: N/A
+
+*********************
+PROJECT INFORMATION
+*********************
+1. Title of dataset: Monthly Averages for 5 stations for 1971 to 2021 
+2. Author information:
+
+	Principal Investigator
+	Name:Jay Lawrimore, Chief,DSB, NOAA/NCEI
+	Address: N/A
+	Email: N/A
+
+3. Data of data collection (single date or date range): 1971 t0 2021
+
+4. Funder
+	Name: Name: NOAA - National Centers for Environmental Information, US Air Force - 14th Weather  Squadron, 151 Patton Avenue, Asheville, NC 28801-5001 USA
+
+
+*************************
+DATA ACCESS INFORMATION
+*************************
+
+1. Licences / restrictions placed on access to the dataset
+
+2. Links to publications that use the data 
+	Reference: https://www.ncei.noaa.gov/access/search/data-search/global-summary-of-the-month
+
+3. Links to other publicly accessible locations of the data: 
+	URL: https://gis.ncdc.noaa.gov/maps/ncei/
+	URL: https://www.ncdc.noaa.gov/cdo-web/search
+ 
+
+4. Links to related datasets (for example, datasets from the same project. Provide the DOI in preference to the URL)
+	DOI/URL: https://www.ncei.noaa.gov/access/search/data-search/global-summary-of-the-year
+	DOI/URL: https://www.ncei.noaa.gov/access/search/data-search/daily-summaries
+
+5. Links to third party or secondary data used in the project (for example, existing datasets, third-party datasets)
+	DOI/URL: ftp://ftp.ncdc.noaa.gov/pub/data/ghcn/daily/.
+
+
+****************************
+METHODS OF DATA COLLECTION
+****************************
+
+
+1. Describe the methods for data collection and / or provide links to papers describing data collection methods
+	Paper DOI: 10.1175/2010JAMC2375.1.
+	Paper DOI: 10.1175/JTECH-D-11-00103.1.
+
+2. Data processing methods
+	The Global Summary of the Month dataset (GSOM) consists of 48 climatological
+	variables computed from Summary of the Day observations of the Global Historical
+	Climatology Network-Daily dataset (Menne et al. 2012). Of these, 46 are monthly and
+	annual summary variables and two are season-to-date variables.
+
+3. Instrument information
+	N/A 
+
+4. Quality assurance procedures
+	Quality control (QC) is performed at the summary of the day level through the GHCN-
+	Daily QC processes as described below. Additional quality assurance is performed
+	following computation of the monthly and annual summaries through the use of a
+	validation process involving independent calculations and cross-comparisons to ensure
+	computational accuracy.
+
+5. Analysis methods
+	N/A 
+
+
+************************
+SUMMARY OF DATA FILES
+************************
+
+1. List of data files
+	Filename: Monthly Averages for 5 stations for 1971 to 2021 
+	Short description: Monthly weather average for 5 stations namely Kathmandu Airport, LADANIA, Dhankuta, Madhwapur Sr with varying temporal coverage
+
+2. Relationships between files
+	Computed from Summary of the Day observations of the Global Historical Climatology Network-Daily dataset (Menne et al. 2012).
+
+3. Information about multiple versions of the same file. 
+	Version 1.0.0 - Initial submission - 02/01/2016
+	Version 1.0.0.1 - Updated to reflect changes to element namesby DSD/DAB (Brian May and Rich Baldwin).The number of elements was reduced from 55 to 48 because the day of occurrence is now included as an attribute instead of a separate element. Also removed the 3-second wind elements because such an element is not computed.- 05/05/2016
+	Version 1.0.1 - Updated to reflect change of elements DP01, DP10, DP1X. These are now number of days with precipitation >= 0.01”, 0.10”, 1.0” respectively.- 3/27/2017
+
+
+****************************************
+DATA-SPECIFIC INFORMATION FOR Monthly Averages for 5 stations for 1971 to 2021 
+****************************************
+1. Number of variables: 42
+
+2. Number of cases / rows: 1645
+
+3. Missing data codes: Dependent upon each column characteristic
+
+4. Variable list
+	Variable name: TMAX
+	Variable description: Monthly Mean Maximum Temperature – Average of daily maximum temperature;computed to hundredths degree Celsius. Values are set to missing if more than 5 daily values are missing or flagged or if more than 3 daily values in a row (consecutive) in a given month are missing or flagged. The Annual temperature is the average of the monthly temperatures.
+	Variable coding/values:  
+	Unit of measurement: degree celsius
+	Range of values: N/A
+	Linkage to variables in other tables or datasets: N/A
+
+NOTE: if you have complex linkages between variables across multiple tables please provide this information 
+in a diagram or table and provide the file name of this diagram or table in this section.	
+
+	Variable name: TMIN
+	Variable description: Monthly Mean Minimum Temperature – Average of daily minimum temperature; computed to hundredths degree Celsius. Values are set to missing if more than 5 daily values are missing or flagged or if more than 3 daily values in a row (consecutive) in a given month are missing or flagged. The Annual temperature is the average of the monthly temperatures.
+	Variable coding/values: None
+	Unit of measurement: degree celsius
+	Range of values: N/A
+	Linkage to variables in other tables or datasets: N/A
+	
+	Variable name: TAVG
+	Variable description: Average Monthly Temperature - computed by adding the unrounded monthly mean TMAX (average of the daily maximum temperatures) and TMIN temps (average of the daily minimum temperatures) and dividing by 2; then round to hundredths degree Celsius. Values are set to missing if either the monthly mean TMAX or TMIN temperature is missing.
+	Variable coding/values: None
+	Unit of measurement: degree celsius
+	Range of values: N/A
+	Linkage to variables in other tables or datasets: N/A
+	
+	Variable name: EMXT
+	Variable description: Extreme maximum temperature for the month (year) is the highest daily maximum temperature value for specified month (year). In tenths of degree Celsius. (Day of the EMXT value for current month (year) is included as an attribute of this element. This attribute may be missing while EMXT has a valid value, if the extreme occurred during a multi-day period.)
+	Variable coding/values: None
+	Unit of measurement: degree celsius
+	Range of values: N/A
+	Linkage to variables in other tables or datasets: N/A
+	
+	Variable name: EMNT
+	Variable description:Extreme minimum temperature for the month (year) is the lowest daily minimum temperature value for specified month (year). In tenths of degree Celsius. (Day of the EMNT value for specified month (year) is included as an attribute of this element. This attribute may be missing while EMNT has a valid value, if the extreme occurred during a multi-day period.)
+	Variable coding/values: None
+	Unit of measurement: degree celsius
+	Range of values: N/A
+	Linkage to variables in other tables or datasets: N/A
+
+	Variable name: DX90
+	Variable description:Number of days with maximum temperature >= 32.2°C/90°F.
+	Variable coding/values: None
+	Unit of measurement: degree celsius
+	Range of values: N/A
+	Linkage to variables in other tables or datasets: N/A
+	
+	Variable name: DX70
+	Variable description:Number of days with maximum temperature >= 21.1°C/70°F.
+	Variable coding/values: None
+	Unit of measurement: degree celsius
+	Range of values: N/A
+	Linkage to variables in other tables or datasets: N/A
+	
+	Variable name: DX32
+	Variable description:Number of days with maximum temperature <= 0°C/32°F.
+	Variable coding/values: None
+	Unit of measurement: degree celsius
+	Range of values: N/A
+	Linkage to variables in other tables or datasets: N/A
+	
+	Variable name: DT32
+	Variable description:Number of days with minimum temperature <= 0°C/32°F.
+	Variable coding/values: None
+	Unit of measurement: degree celsius
+	Range of values: N/A
+	Linkage to variables in other tables or datasets: N/A
+	
+	Variable name: DT00
+	Variable description:Number of days with minimum temperature <= -17.8°C/0°F.
+	Variable coding/values: None
+	Unit of measurement: degree celsius
+	Range of values: N/A
+	Linkage to variables in other tables or datasets: N/A
+
+	Variable name: HTDD
+	Variable description:Heating Degree Days - computed when daily average temperature is less than 18.3°C/65°F. HDD = 18.3° – mean daily temperature to tenths degree Celsius. Each day is summed to produce a monthly total.
+	
+	Each monthly degree day total is summed to produce a yearly total. This is a July through June Annual total for Northern Hemisphere stations (Year is for the ending month; June); January-December for Southern Hemisphere stations.
+	Variable coding/values: None
+	Unit of measurement: degree celsius
+	Range of values: N/A
+	Linkage to variables in other tables or datasets: N/A
+	
+	Variable name: CLDD
+	Variable description:Cooling Degree Days - computed when daily average temperature is above 18.3°C/65°F. CDD = mean daily temperature -18.3° to tenths degree Celsius. Each day is summed to produce a monthly total.
+	Each monthly degree day total is summed to produce a yearly total.
+	Variable coding/values: None
+	Unit of measurement: degree celsius
+	Range of values: N/A
+	Linkage to variables in other tables or datasets: N/A
+	
+	Variable name: PRCP
+	Variable description:Total Monthly (Annual) precipitation. Precipitation totals are based on daily or multi-day (if daily is missing) precipitation report, in millimeters to tenths.
+	Variable coding/values: None
+	Unit of measurement: mm
+	Range of values: N/A
+	Linkage to variables in other tables or datasets: N/A
+
+	Variable name: EMXP
+	Variable description:Highest daily total of precipitation in the month (year) in tenths of millimeters (Non- Accumulation). The day that EMXP occurred for the month (year) is included as an attribute of this element.
+	Variable coding/values: None
+	Unit of measurement: mm
+	Range of values: N/A
+	Linkage to variables in other tables or datasets: N/A
+	
+	Variable name: DP01
+	Variable description:Number of days with >= 0.01 inch/0.254 millimeter in the month (year). (Non- Accumulation) Note: values originally recorded in inches as 0.01” are stored as 0.3 millimeters in GHCN-Daily; technically this test is for values greater than or equal to 0.3 mm.
+	Variable coding/values: None
+	Unit of measurement: mm
+	Range of values: N/A
+	Linkage to variables in other tables or datasets: N/A
+	
+	Variable name: DP10
+	Variable description:Number of days with >= 0.1 inch/2.54 millimeter in the month (year). (Non- Accumulation) Note: values originally recorded in inches as 0.10” are stored as 2.5 millimeters in GHCN-Daily; technically this test is for values greater than or equal to 2.5 mm.
+	Variable coding/values: None
+	Unit of measurement: mm
+	Range of values: N/A
+	Linkage to variables in other tables or datasets: N/A
+	
+	Variable name: DP1X
+	Variable description:Number of days with >= 1.0 inch (25.4mm) precipitation in the month (year). (Non-Accumulation)
+	Variable coding/values: None
+	Unit of measurement: mm
+	Range of values: N/A
+	Linkage to variables in other tables or datasets: N/A
+	
+	Variable name: SNOW
+	Variable description:Total Monthly (Annual) Snowfall in millimeters.
+	Variable coding/values: None
+	Unit of measurement: mm
+	Range of values: N/A
+	Linkage to variables in other tables or datasets: N/A
+	
+	Variable name: EMSN
+	Variable description:Highest daily snowfall in the month (year) in millimeters. The day EMSN occurred for the month (year) is included as an attribute of this element.
+	Variable coding/values: None
+	Unit of measurement: mm
+	Range of values: N/A
+	Linkage to variables in other tables or datasets: N/A
+	
+	Variable name: DSNW
+	Variable description:Number of days with snowfall >= 1 inch (25 mm). Snowfall is provided in mm in GHCN- D so 25 mm is used instead of 25.4 mm.
+	Variable coding/values: None
+	Unit of measurement: mm
+	Range of values: N/A
+	Linkage to variables in other tables or datasets: N/A
+	
+	Variable name: DSND
+	Variable description:Number of days with snow depth >= 1 inch (25 mm). Snow depth is provided in mm in GHCN-D so 25 mm is used instead of 25.4 mm.
+	Variable coding/values: None
+	Unit of measurement: mm
+	Range of values: N/A
+	Linkage to variables in other tables or datasets: N/A
+	
+	Variable name: EMSD
+	Variable description:Highest daily Snow Depth in the month (year) in millimeters. The day EMSD occurred for the month (year) is included as an attribute of this element.
+	Variable coding/values: None
+	Unit of measurement: mm
+	Range of values: N/A
+	Linkage to variables in other tables or datasets: N/A\
+	
+	Variable name: EVAP
+	Variable description:Total Monthly Evaporation to tenths of millimeters. Precipitation missing/flagged criteria is used.
+	Variable coding/values: None
+	Unit of measurement: mm
+	Range of values: N/A
+	Linkage to variables in other tables or datasets: N/A
+	
+	Variable name: MNPN
+	Variable description:Monthly (Annual) mean minimum temperature of evaporation pan water in hundredths degree Celsius.
+	Variable coding/values: None
+	Unit of measurement: degree Celsius
+	Range of values: N/A
+	Linkage to variables in other tables or datasets: N/A
+	
+	Variable name: MXPN
+	Variable description:Monthly (Annual) mean maximum temperature of evaporation pan water in hundredths degree Celsius.
+	Variable coding/values: None
+	Unit of measurement: degree Celsius
+	Range of values: N/A
+	Linkage to variables in other tables or datasets: N/A
+	
+	Variable name: WDMV
+	Variable description:Total monthly (annual) wind movement over evaporation pan in kilometers. Precipitation missing/flagged criteria is used.
+	Variable coding/values: None
+	Unit of measurement: kilometers
+	Range of values: N/A
+	Linkage to variables in other tables or datasets: N/A
+	
+	Variable name: TSUN
+	Variable description:Daily total sunshine (minutes). This element contains historical data only, except for four (4) stations in the U.S. that continue to measure total sunshine (Miami, FL; Buffalo, NY; Pocatello, ID; Grand Rapids, MI).
+	Variable coding/values: None
+	Unit of measurement: minutes
+	Range of values: N/A
+	Linkage to variables in other tables or datasets: N/A
+	
+	Variable name: PSUN
+	Variable description:Average of the daily percent of possible sunshine. Daily percentages are reported, not
+computed. For monthly percent of possible, the daily values are averaged using. Temperature missing and flagged criteria (no more than 5 missing days in the month, no more than 3 in a row missing).
+	Variable coding/values: None
+	Unit of measurement: minutes
+	Range of values: N/A
+	Linkage to variables in other tables or datasets: N/A
+	
+	Variable name: AWND
+	Variable description: Monthly (Annual) average wind speed. Average the Daily AWND values in GHCN-D to get monthly and annual averages. (tenths of meters per second).
+	Variable coding/values: None
+	Unit of measurement: tenths of meters per second
+	Range of values: N/A
+	Linkage to variables in other tables or datasets: N/A
+
+	Variable name: WDFM
+	Variable description: Wind Direction for Maximum Wind Speed – Fastest Mile.
+	Variable coding/values: None
+	Unit of measurement: tenths of meters per second
+	Range of values: N/A
+	Linkage to variables in other tables or datasets: N/A
+	
+	Variable name: WSF2
+	Variable description: Maximum Wind Speed - Fastest 2-minute. Maximum wind speed for the month (year) reported as Fastest 2-minute.
+	Variable coding/values: None
+	Unit of measurement: tenths of meters per second
+	Range of values: N/A
+	Linkage to variables in other tables or datasets: N/A
+	
+	Variable name: WDF2
+	Variable description: Wind Direction for Maximum Wind Speed – Fastest 2-minute wind.
+	Variable coding/values: None
+	Unit of measurement: None
+	Range of values: N/A
+	Linkage to variables in other tables or datasets: N/A
+	
+	Variable name: WSF1
+	Variable description: Maximum Wind Speed – Fastest 1-minute. Maximum wind speed for the month (year) reported as Fastest 1-minute.
+	Variable coding/values: None
+	Unit of measurement: tenths of meters per second
+	Range of values: N/A
+	Linkage to variables in other tables or datasets: N/A
+	
+	Variable name: WDF1
+	Variable description: Wind Direction for Maximum Wind Speed – Fastest 1-minute wind.
+	Variable coding/values: None
+	Unit of measurement: None
+	Range of values: N/A
+	Linkage to variables in other tables or datasets: N/A
+
+	Variable name: WSFG
+	Variable description: Peak Wind Gust Speed – FG. Maximum wind gust speed for the month (year). Note: It is permissible to have a wind gust speed without a direction. Gust speeds are sometimes measured without a report of direction.
+	Variable coding/values: None
+	Unit of measurement: tenths of meters per second
+	Range of values: N/A
+	Linkage to variables in other tables or datasets: N/A
+	
+	Variable name: WDFG
+	Variable description: Wind Direction for Peak Wind Gust Speed.
+	Variable coding/values: None
+	Unit of measurement: None
+	Range of values: N/A
+	Linkage to variables in other tables or datasets: N/A
+
+	Variable name: WSF5
+	Variable description: Peak Wind Gust Speed – Fastest 5-second wind. Maximum wind gust speed for the month (year) reported as Fastest 5-second wind.
+	Variable coding/values: None
+	Unit of measurement: None
+	Range of values: N/A
+	Linkage to variables in other tables or datasets: N/A
+	
+	Variable name: WDF5
+	Variable description: Wind Direction for Peak 5-second Wind Gust Speed.
+	Variable coding/values: None
+	Unit of measurement: None
+	Range of values: N/A
+	Linkage to variables in other tables or datasets: N/A
+	
+	Variable name: HDSD
+	Variable description: Heating Degree Day (This is a season-to-date element.) A running total of monthly HDD through the end of the most recent month. Each month of HTDD is summed to produce a season-to-date total. Season starts in July for Northern Hemisphere stations (Year is for the ending month); starts in January for Southern Hemisphere stations
+	Variable coding/values: None
+	Unit of measurement: None
+	Range of values: N/A
+	Linkage to variables in other tables or datasets: N/A
+	
+	Variable name: CDSD
+	Variable description: Cooling Degree Day (This is a season-to-date element.) A running total of monthly CDD through the end of the most recent month. Each month of CLDD is summed to produce a season-to-date total. Season starts in January for Northern Hemisphere stations; starts in July for Southern Hemisphere stations (Year is for the ending month).
+	Variable coding/values: None
+	Unit of measurement: None
+	Range of values: N/A
+	Linkage to variables in other tables or datasets: N/A
+	
+******************************************************************************************
+ADDITIONAL INFORMATION
+******************************************************************************************
+
+FULL DOCUMENTATION: https://www1.ncdc.noaa.gov/pub/data/cdo/documentation/gsom-gsoy_documentation.pdf
+
+******************************************************************************************
+

@@ -1,0 +1,21 @@
+Range between Wettest and Driest Year  - (MM), Year, Model, Statistics, ISO3
+-225.13, 2020-2039, bcc_csm1_1_m, Annual Anomaly, NPL
+-128.89, 2020-2039, bcc_csm1_1, Annual Anomaly, NPL
+-246.83, 2020-2039, ccsm4, Annual Anomaly, NPL
+-276.22, 2020-2039, cesm1_cam5, Annual Anomaly, NPL
+-133.87, 2020-2039, csiro_mk3_6_0, Annual Anomaly, NPL
+320.457, 2020-2039, gfdl_cm3, Annual Anomaly, NPL
+438.538, 2020-2039, gfdl_esm2g, Annual Anomaly, NPL
+722.422, 2020-2039, gfdl_esm2m, Annual Anomaly, NPL
+351.734, 2020-2039, hadgem2_ao, Annual Anomaly, NPL
+31.1488, 2020-2039, hadgem2_es, Annual Anomaly, NPL
+-5.8864, 2020-2039, ipsl_cm5a_lr, Annual Anomaly, NPL
+134.929, 2020-2039, ipsl_cm5a_mr, Annual Anomaly, NPL
+-189.37, 2020-2039, miroc5, Annual Anomaly, NPL
+-118.04, 2020-2039, miroc_esm_chem, Annual Anomaly, NPL
+45.2276, 2020-2039, miroc_esm, Annual Anomaly, NPL
+140.27, 2020-2039, mri_cgcm3, Annual Anomaly, NPL
+410.853, 2020-2039, noresm1_m, Annual Anomaly, NPL
+-456.42, 2020-2039, Ensemble (10th Percentile), Annual Anomaly, NPL
+120.758, 2020-2039, Ensemble (50th Percentile), Annual Anomaly, NPL
+1404.36, 2020-2039, Ensemble (90th Percentile), Annual Anomaly, NPL

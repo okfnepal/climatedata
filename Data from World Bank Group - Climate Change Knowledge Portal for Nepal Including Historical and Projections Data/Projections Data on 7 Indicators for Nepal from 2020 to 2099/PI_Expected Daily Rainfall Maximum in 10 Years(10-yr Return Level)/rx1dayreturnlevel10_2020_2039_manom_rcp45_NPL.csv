@@ -1,0 +1,28 @@
+Expected Daily Rainfall Maximum in 10 Years (10-yr Return Level) - (MM), Year, Model, Statistics, ISO3
+8.39305, 2020-2039, access1_0, Annual Anomaly, NPL
+7.78537, 2020-2039, access1_3, Annual Anomaly, NPL
+-4.3675, 2020-2039, bcc_csm1_1_m, Annual Anomaly, NPL
+13.4879, 2020-2039, bcc_csm1_1, Annual Anomaly, NPL
+8.23329, 2020-2039, bnu_esm, Annual Anomaly, NPL
+13.1386, 2020-2039, canesm2, Annual Anomaly, NPL
+28.1416, 2020-2039, ccsm4, Annual Anomaly, NPL
+3.64978, 2020-2039, cesm1_bgc, Annual Anomaly, NPL
+12.3532, 2020-2039, cesm1_cam5, Annual Anomaly, NPL
+-6.9876, 2020-2039, cnrm_cm5, Annual Anomaly, NPL
+-2.527, 2020-2039, csiro_mk3_6_0, Annual Anomaly, NPL
+4.88119, 2020-2039, hadgem2_ao, Annual Anomaly, NPL
+4.89008, 2020-2039, hadgem2_cc, Annual Anomaly, NPL
+3.53461, 2020-2039, inmcm4, Annual Anomaly, NPL
+-2.9719, 2020-2039, ipsl_cm5a_lr, Annual Anomaly, NPL
+11.4517, 2020-2039, ipsl_cm5a_mr, Annual Anomaly, NPL
+-6.3124, 2020-2039, ipsl_cm5b_lr, Annual Anomaly, NPL
+13.5234, 2020-2039, miroc5, Annual Anomaly, NPL
+8.85064, 2020-2039, miroc_esm_chem, Annual Anomaly, NPL
+2.801, 2020-2039, miroc_esm, Annual Anomaly, NPL
+13.6524, 2020-2039, mpi_esm_lr, Annual Anomaly, NPL
+5.34704, 2020-2039, mpi_esm_mr, Annual Anomaly, NPL
+12.7771, 2020-2039, mri_cgcm3, Annual Anomaly, NPL
+21.5771, 2020-2039, noresm1_m, Annual Anomaly, NPL
+-39.767, 2020-2039, Ensemble (10th Percentile), Annual Anomaly, NPL
+3.53158, 2020-2039, Ensemble (50th Percentile), Annual Anomaly, NPL
+132.563, 2020-2039, Ensemble (90th Percentile), Annual Anomaly, NPL

@@ -1,0 +1,14 @@
+# Report title: Impact of Climate Change On Himalayan Glaciers and Glacial Lakes Case Studies on GLOF and Associated Hazards in Nepal and Bhutan.
+#Authors: Samjwal Ratna Bajracharya Pradeep Kumar Mool and Basanta Raj Shrestha 
+# Copyright 2017
+# Published by: International Centre For Integrated Mountain Development
+# Reproduction :
+            This publication may be reproduced in whole or in part and in any form for educational or non-profit purpose special persmission form the copyright holder, 
+            provided acknowledgement of the source is made.No use of this publication may be made for resale or for the use for any other commercial purpose whatsoever
+            without prior permission in writing from ICIMOD.
+
+Retreat rate of some glaciers in the Nepal Himalaya. This file shows the retreat rate fo AXO10, Khumbu, Imja glacier, Trakarding glacier and seven unnamed clean type glaciers in Khumbu region from year 1978 to 200.
+Retreat rates of some valley glaciers in the Dudh Koshi sub-basin,Nepal. The file contains the mean length in year, total retreat in the year betweel 1960 to 2001 and 1976 to 2001 and 1992 to 2001 and finally average retreate rate between 160 to 2001.
+Glacial lakes in the Dudh Khoshi sub-basin, the file contains types of glacial lakes and their no, % change in year 1960 adn 2000.
+Activity of glacial lakes in association with glaciers in the Dudh Koshi sub-basin. The file contains area of those glaciers in year 2000 and 1960 adn their distance to glacier.
+Potentially dangerous glacial lakes in the Dudh Koshi sub-basin. This file contains lake id, thir latitude, longitude, altitude.Their are in 1960 and in 2000 and remarks about their status.

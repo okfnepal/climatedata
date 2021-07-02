@@ -1,0 +1,28 @@
+Growing Season Length - (Days), Year, Model, Statistics, ISO3
+12.0698, 2040-2059, access1_0, Annual Anomaly, NPL
+12.4022, 2040-2059, access1_3, Annual Anomaly, NPL
+15.3441, 2040-2059, bcc_csm1_1_m, Annual Anomaly, NPL
+10.0722, 2040-2059, bcc_csm1_1, Annual Anomaly, NPL
+13.0921, 2040-2059, bnu_esm, Annual Anomaly, NPL
+14.5577, 2040-2059, canesm2, Annual Anomaly, NPL
+10.0609, 2040-2059, ccsm4, Annual Anomaly, NPL
+8.10128, 2040-2059, cesm1_bgc, Annual Anomaly, NPL
+13.5352, 2040-2059, cesm1_cam5, Annual Anomaly, NPL
+11.4651, 2040-2059, cnrm_cm5, Annual Anomaly, NPL
+13.7124, 2040-2059, csiro_mk3_6_0, Annual Anomaly, NPL
+25.2283, 2040-2059, gfdl_cm3, Annual Anomaly, NPL
+11.0582, 2040-2059, gfdl_esm2g, Annual Anomaly, NPL
+8.59904, 2040-2059, gfdl_esm2m, Annual Anomaly, NPL
+-1.4694, 2040-2059, inmcm4, Annual Anomaly, NPL
+18.6195, 2040-2059, ipsl_cm5a_lr, Annual Anomaly, NPL
+19.1845, 2040-2059, ipsl_cm5a_mr, Annual Anomaly, NPL
+8.08046, 2040-2059, ipsl_cm5b_lr, Annual Anomaly, NPL
+17.7634, 2040-2059, miroc5, Annual Anomaly, NPL
+19.3562, 2040-2059, miroc_esm_chem, Annual Anomaly, NPL
+14.9116, 2040-2059, miroc_esm, Annual Anomaly, NPL
+17.1671, 2040-2059, mpi_esm_lr, Annual Anomaly, NPL
+14.6075, 2040-2059, mpi_esm_mr, Annual Anomaly, NPL
+10.6703, 2040-2059, mri_cgcm3, Annual Anomaly, NPL
+10.5453, 2040-2059, noresm1_m, Annual Anomaly, NPL
+1.83064, 2040-2059, Ensemble (10th Percentile), Annual Anomaly, NPL
+13.5769, 2040-2059, Ensemble (50th Percentile), Annual Anomaly, NPL

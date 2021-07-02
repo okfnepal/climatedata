@@ -1,0 +1,39 @@
+#Tilte:Assessment of Imja Glacier Lake outburst Flood(GLOF) Risk in Dudh Koshi River Basin using Remote Sensing Techniques
+#Authors: Kamal P.Buddhathoki, O.R.Bajracharya & B.K Pokharel
+#Date: December 2010
+#Published by Department of Hydrology and Meteorology
+  #Address: Babarmnahal, GPO Box 406, Kathmandu,Nepal
+  
+  
+  Summary of report
+  The process of fast glacial retreat and expansion of glacial lakes could be the wake of recent global warming and leading climatic changes.
+  Glacila lakes that are dammed with unconsolidated weak natural moraines pose potential risk of their catastrophic failure, causing a huge flash flood in the downstream areas commonly
+  known as Glacier Lake Outburst Flood(FLOF).
+  This study focuses on the use of remote sensing technology and other methods applied in Imja glacier lake for potential risk assessment.Imja lake is the one of head source of Dudh Koshi
+  river, with many glacier lakes in Dudh Koshi river basin.Imja glacier is a bigger one and other are found to be a considerable size.
+  In Nepal many GLOF events have occured periodically but most of them were not recorded.The first mitigation program against GLOF in Nepal was undertaken in Tsho Rolpa, the 
+  largest glacier lake in Nepal.
+  Study of glacier lakes is very imperative for the planning and implementation of any socioeconomic and water resources development project. GLOF causes and have caused damange to human live 
+  and infrastructures.
+  Debris deposited by flood, landslide and temporary damming due to flood can cause the major to the people living hinderances downstream.
+  A sudden burst of Imja lake will cause extensive damange along the entire length of the Imja Khola/Dudh Koshi valleys down to the confluence with Sun Koshi, an overall distance of about 
+  90km.
+  A study showed that a minimum estimated outburst flood from Imja Glacier Lake would affect significant changes on the 
+  Imja Lake is located in Solukhumbu district, Sagarmantha Zone, Eastern Development Region of Nepal at aerial distances of about 163 km from Kathmandu and about 6 km south of Mount 
+  Everest. The lake is an intra-glacier lake in the Imja glacier and its two major tributary glaciers are Lhotse Shar glacier flowing from northeast and Ambulapcha glacier from south.
+  It is located south east of Chokarma Tsho and northeast of Ambulapcha Tsho.
+  
+  
+  Surface Area and computed volume of Imja Glacier Lake. This file shows the area in km2, m2 and volume in m3 of Imja Glacier Lake for years 1653,
+  1975 1978,1984,1986,1991,1992,1996, 1997,1999,2001,2004,2008.The surface area, volume is increasing every year which reflects how rapidly glaciers are melting.
+  
+  Dataset description:
+  -Compiled Data On Glacier Lake Area Volume And Mean Depth.
+	  This dataset has glacial lakes and their area(m2), volume(m3), mean depth(m) and the type of glacial lake it is.
+  -Empirical Scoring of GLOF Hazards.
+	  This dataset contains the information on Imja Glacier lakes and the scoring of GLOF hazards such as volume, calving, super and englacier channel, hazard score.
+  -Surface Area and Computed Volume Of Imja Glacier Lake_1963to2008
+	  This dataset contains the surface area in km2 and m2, volume in m3 of Imja glacial lake in year in between 1963 to 2008.
+
+  
+  

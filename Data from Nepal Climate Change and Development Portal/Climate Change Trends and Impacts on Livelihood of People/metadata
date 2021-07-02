@@ -1,0 +1,90 @@
+Readme file for Climate Change Trends and Impacts on Livelihood of People
+Generated on 2021-06-18
+
+
+Recommended citation for the dataset: (citation recommendation not provided, use sensible citation)
+
+
+*********************
+PROJECT INFORMATION
+*********************
+1. Title of dataset: Climate Change Trends and Impacts on Livelihood of People
+2. Author information
+	- Kevein Parsad Sharma
+
+	  Jalsrot Vikas Sanstha/Nepal Water Partnership	  
+3. Report published date: December 2009
+	
+
+*************************
+DATA ACCESS INFORMATION
+*************************
+1. Licences / restrictions placed on access to the dataset
+	Liscensing not mentioned in the report
+	
+2. Links to publications that use the data 
+	Reference: https://climatenepal.org.np/resources/climate-change-trends-and-impacts-livelihood-people
+
+
+****************************
+METHODS OF DATA COLLECTION
+****************************
+1. Describe the methods for data collection and / or provide links to papers describing data collection methods
+	Contains data obtained from meterological station across Nepal.
+	Paper URL: https://climatenepal.org.np/resources/climate-change-trends-and-impacts-livelihood-people
+	
+2. Data processing methods 
+	Not Mentioned
+
+3. Instrument information
+	Not Available 
+
+4. Quality assurance procedures
+	
+
+5. Analysis methods
+	Trend Analysis for temperature and precipitations were done. 
+
+
+
+************************
+SUMMARY OF DATA FILES
+************************
+1. List of data files
+
+	Filename: Summary of Precipitation Trends (mm per yr) in Nepal
+	Short description: Summary of precipitation trends for time periods 1956-2006,1956-1976, 1977-2006
+
+	Filename: Summary of Temperature Trends (°C per year) during 1975‐2006 in Nepal across Elevation Range
+	Short description: Summary of temperature trends for elevation range 72-200m, 200-1000m, 1000-2000m, 
+	greater than 2000m	
+
+2. Relationships between files
+	None 
+
+
+****************************************
+DATA-SPECIFIC INFORMATION FOR: Summary of Precipitation Trends (mm per yr) in Nepal
+****************************************
+1. Number of variables: 7
+
+2. Number of cases / rows: 9
+
+3. Missing data codes: None
+
+4. Variable list
+	Variable name: Frequency(categorical),Mean, Minimum, Maximum, Significant Number Increase, Significant Number Decrease
+
+	
+****************************************
+DATA-SPECIFIC INFORMATION FOR: Summary of Temperature Trends (°C per year) during 1975‐2006 in Nepal across Elevation Range
+****************************************
+1. Number of variables: 6
+
+2. Number of cases / rows: 25
+
+3. Missing data codes: None
+
+4. Variable list
+	Variable name: Average Temperature, Average Minumum Temperature, Average Maximum Temperature, Average Trend, Maximum Value, Minimum Value
+

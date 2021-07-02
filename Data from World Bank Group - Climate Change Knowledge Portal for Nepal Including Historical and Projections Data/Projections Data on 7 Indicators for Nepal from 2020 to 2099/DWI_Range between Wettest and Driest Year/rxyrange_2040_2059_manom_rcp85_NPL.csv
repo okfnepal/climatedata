@@ -1,0 +1,36 @@
+Range between Wettest and Driest Year  - (MM), Year, Model, Statistics, ISO3
+-38.22, 2040-2059, access1_0, Annual Anomaly, NPL
+40.3411, 2040-2059, access1_3, Annual Anomaly, NPL
+-60.888, 2040-2059, bcc_csm1_1_m, Annual Anomaly, NPL
+331.117, 2040-2059, bcc_csm1_1, Annual Anomaly, NPL
+371.398, 2040-2059, bnu_esm, Annual Anomaly, NPL
+-371.85, 2040-2059, canesm2, Annual Anomaly, NPL
+-258.45, 2040-2059, ccsm4, Annual Anomaly, NPL
+586.251, 2040-2059, cesm1_bgc, Annual Anomaly, NPL
+-730.89, 2040-2059, cesm1_cam5, Annual Anomaly, NPL
+1.57262, 2040-2059, cmcc_cesm, Annual Anomaly, NPL
+197.338, 2040-2059, cmcc_cm, Annual Anomaly, NPL
+-164.37, 2040-2059, cmcc_cms, Annual Anomaly, NPL
+-44.397, 2040-2059, cnrm_cm5, Annual Anomaly, NPL
+83.647, 2040-2059, csiro_mk3_6_0, Annual Anomaly, NPL
+140.134, 2040-2059, gfdl_cm3, Annual Anomaly, NPL
+699.223, 2040-2059, gfdl_esm2g, Annual Anomaly, NPL
+440.177, 2040-2059, gfdl_esm2m, Annual Anomaly, NPL
+247.126, 2040-2059, hadgem2_ao, Annual Anomaly, NPL
+-107.09, 2040-2059, hadgem2_cc, Annual Anomaly, NPL
+203.003, 2040-2059, hadgem2_es, Annual Anomaly, NPL
+-159.09, 2040-2059, inmcm4, Annual Anomaly, NPL
+-151.7, 2040-2059, ipsl_cm5a_lr, Annual Anomaly, NPL
+141.88, 2040-2059, ipsl_cm5a_mr, Annual Anomaly, NPL
+-17.87, 2040-2059, ipsl_cm5b_lr, Annual Anomaly, NPL
+-375.25, 2040-2059, miroc5, Annual Anomaly, NPL
+58.1427, 2040-2059, miroc_esm_chem, Annual Anomaly, NPL
+17.1577, 2040-2059, miroc_esm, Annual Anomaly, NPL
+-81.755, 2040-2059, mpi_esm_lr, Annual Anomaly, NPL
+-344.01, 2040-2059, mpi_esm_mr, Annual Anomaly, NPL
+31.981, 2040-2059, mri_cgcm3, Annual Anomaly, NPL
+106.38, 2040-2059, mri_esm1, Annual Anomaly, NPL
+455.313, 2040-2059, noresm1_m, Annual Anomaly, NPL
+-452.91, 2040-2059, Ensemble (10th Percentile), Annual Anomaly, NPL
+61.7913, 2040-2059, Ensemble (50th Percentile), Annual Anomaly, NPL
+1201.69, 2040-2059, Ensemble (90th Percentile), Annual Anomaly, NPL

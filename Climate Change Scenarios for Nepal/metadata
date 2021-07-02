@@ -1,0 +1,151 @@
+Readme file for Climate Change Scenarios for Nepal
+Generated on 2021-06-17
+
+
+Recommended citation for the dataset: MoFE, 2019. Climate change scenarios for Nepal for National Adaptation Plan (NAP). Ministry of Forests and Environment,
+Kathmandu
+
+*********************
+PROJECT INFORMATION
+*********************
+1. Title of dataset: Climate Change Scenarios for Nepal
+2. Author information
+
+	Contributors
+		- Department of Hydrology and Meteorology
+		- International Center for Integrated Mountain Development, 
+		- National Adaptation Plan Expert Team, 
+		- Practical Action, 
+		- FutureWater
+		
+	Technical Analysis
+		- Santosh Nepal
+		- Saurav Pradhananga
+		- Arthur Lutz
+		- Archana Shrestha
+		- Arun B Shrestha
+			
+	Editing
+		- Doris Canter Visscher
+		- Nagraj Adve
+	
+	Proof Reading
+		- Asha Kaji Thaku
+	
+	
+3. Date for Data Collection: 
+	This is the scenario projection so contains future date range
+	Reference of data used by the project: 1981-2010
+	Time period for future projection developed by the project: 2016-2045, 2036-2065
+
+4. Funder
+	Published by:
+		Government of Nepal, Ministry of Forests and Environment
+	
+	Supported by:
+		Himalayan Adaptation, Water, and Resilience (HI-AWARE) Research supported by UK’s DFID and Canada’s IDRC through the Collaborative Adaptation Research Initiative in Africa and Asia (CARIAA).
+		Support to Rural Livelihoods and Climate Change Adaptation in the Himalayas (Himalica), the European Union, and International Centre for Integrated Mountain Development (ICIMOD) 
+
+*************************
+DATA ACCESS INFORMATION
+*************************
+
+1. Licences / restrictions placed on access to the dataset
+	Copyright © 2019, Ministry of Forests and Environment, Government of Nepal
+	This Publication may be used for educational and non-profit purposes, provided acknowledgement of the source is accurately made. Use of any part of it for commercial purpose is strictly prohibited.
+
+2. Links to publicly accessible locations of the data: 
+	URL: http://www.mofe.gov.np/downloadfile/MOFE_2019_Climate%20change%20scenarios%20for%20Nepal_NAP_1562647620.pdf
+
+****************************
+METHODS OF DATA COLLECTION
+****************************
+
+1. Describe the methods for data collection and / or provide links to papers describing data collection methods
+	Paper URL: http://mofe.gov.np/downloadfile/MOFE_2019_Climate%20change%20scenarios%20for%20Nepal_NAP_1562647620.pdf
+	
+2. Data processing methods 
+	Details can be found under methodology in the full report.
+
+3. Instrument information
+	Not Available 
+
+4. Quality assurance procedures
+
+
+5. Analysis methods
+	 
+
+
+************************
+SUMMARY OF DATA FILES
+************************
+
+1. List of data files
+	Filename: Average Precipitation and Mean Temperature of Nepal for Different Seasons During the Reference Period(1981-2010)
+	Short description: Precipitation Average in mm and %, Temperature in degree Celsius for Winter, Pre-moonsoon, Monsoon and Post-monsoon. 
+	
+	Filename: Change in Cold Days (%) for Districts of Nepal from the Reference Period (1981-2010)
+	Short description: Change in Mean Annual Cold Days in  for RCP4.5 and RCP8.5 Scenarios for 77 districts of Nepal expressed in %. The future data hinted the likely decrease of Cold Days in each 
+	scenarios.
+
+	Filename: Change in Cold Nights (%) for Districts of Nepal from the Reference Period (1981-2010)
+	Short description: Change in Cold Nights expressed in % for RCP4.5 and RCP8.5 Scenarios for 77 districts of Nepal on annual basis. The future data hinted the likely decrease of Cold Nights in each 
+	scenarios.
+
+	Filename: Change in Cold Spell Duration Index (CSDI) (%) for Districts of Nepal from the Reference Period (1981-2010)
+	Short description: Change in Cold Speel Duration Index expressed in % for RCP4.5 and RCP8.5 Scenarios for 77 districts of Nepal on annual basis. The future data hinted the likely decrease of Cold
+	Spell Duration in each scenarios.
+	
+	Filename: Change in Consecutive Dry Days (CDD) (%) for districts of Nepal from the reference period (1981-2010)
+	Short description: In the medium-term and long-term period, CDD is likely to increase in the whole of Nepal for RCP4.5, whereas it may slightly decrease for RCP8.5. 
+	
+	Filename: Change in Consecutive Wet Days (CWD) (%) for Districts of Nepal from the Reference Period (1981-2010)
+	Short description: In the medium-term and long-term period, CWD is likely to decrease in the whole of Nepal for RCP4.5, whereas it may slightly increase for RCP8.5.
+	
+	Filename: Change in Extreme Wet Days (P99) (%) for Districts of Nepal from the Reference Period (1981-2010)
+	Short description: Proected data in expressed in change percentage in annual extreme wet days where the precipitation is greater than 99th percentile. The projection data provides alerting
+	information as increase in extreme wet days implies more occurance of flash floods and other water induced hazards like landslide. The dataset implies in both medium and long term for scenarios 4.5
+	and 8.5 extreme wet days is likely to increasae.
+	
+	Filename :Change in No. of Rainy Days (%) for Districts of Nepal from the Reference Period (1981-2010)
+	Short description: In the future periods, the number of rainy days is likely to decrease all over Nepal. The dataset provides data in change in annual rainy days expressed in percentage for 77 
+	districts of Nepal.
+	
+	Filename: Change in Temperature (°C) for Districts of Nepal from the Reference period (1981-2010)
+	Short description: Dataset for the future projection under of temperature scenario rcp4.5 and rcp8.5 in medium and long term. The temperature change is positive under both medium and long-term 
+	scenarios
+	
+	Filename:Change in Very Wet Days (P95) (%) for Districts of Nepal from the Reference Period (1981-2010)
+	Short description: Change in annual very wet days when the precipitation is over 95th percentile. Provided data for 77 districts. Data for medium-term and long-term under rcp4.5 and rcp8.5 scenarios
+	
+	Filename: Change in Warm Days (%) for Districts of Nepal from the Reference Period (1981-2010)
+	Short description:  Dataste about percentage change in warm days when the maximum temperature is higher than the 90th percentile of the reference maximum temperature for the medium-term and long-
+	term periods of RCP4.5 and RCP8.5 across 77 districts in Nepal.
+	
+	Filename: Change in Warm Nights (%) for Districts of Nepal from the Reference Period (1981-2010)
+	Short Description: Dataset for percentage change in warm nights when the minimum temperature ishigher than the 90th percentile of the reference minimum temperature for the medium-term and the 
+	longterm periods of RCP4.5 and RCP8.5 across 77 districts in Nepal
+	
+	Filename: Change in Warm Spell Duration Index (WSDI) (%) for Districts of Nepal from the Reference Period (1981-2010)
+	Short Description: Dataset for percentage change in warm spell duration index (WSDI) for RCP4.5 and RCP8.5 scenarios when the daily maximum temperature is higher than the 90th percentile of the 
+	maximum temperature of the reference period for at least six consecutive days across 77 districts in Nepal.
+	
+	Filename: Multi-Model Ensemble Mean of Change in Temperature(°C) in the Medium-Term and the Long-Term Period for Different Seasons
+	Short description: Dataset for change in average annual precipitation and mean temperature for winter, pre-monsoon, monsoon and post-monsoon
+	
+	Filename: Multi-model Ensemble Mean of Change in Temperature(°C) in the Medium-Term and the Long-term period for Different Regions of Nepal
+	Short description: Dataset for change in average annual mean temperature for different physiographic zones by name High Mountain, Middle Mountain, Hill, Siwalik and Terai
+	
+	Filename: Multi-Model Ensemble Mean of Change in Precipitation(mm) in the Medium-Term and the Long-Term Period for Different Regions of Nepal
+	Short description: Dataset for change in average annual precipitation for different physiographic zones by name High Mountain, Middle Mountain, Hill, Siwalik and Terai
+	
+	Filename: Multi-model Ensemble Mean of Change in Precipitation and Temperature in the Medium-Term and the Long-Term for the whole Nepal
+	Short description: Dataset for percantage change in average annual precipitation and temperature and mean temperature for whole Nepal.
+	
+		 
+	
+
+2. Relationships between files
+	None 
+

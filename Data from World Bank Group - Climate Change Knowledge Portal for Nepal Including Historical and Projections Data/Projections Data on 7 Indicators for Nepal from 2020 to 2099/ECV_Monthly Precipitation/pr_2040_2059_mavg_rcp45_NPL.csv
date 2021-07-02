@@ -1,0 +1,229 @@
+Monthly Precipitation - (MM), Year, Model, Statistics, Country, ISO3
+43.95128, 2040-2059, bcc_csm1_1, Jan Average, Nepal, NPL
+41.722397, 2040-2059, bcc_csm1_1, Feb Average, Nepal, NPL
+23.642145, 2040-2059, bcc_csm1_1, Mar Average, Nepal, NPL
+17.957249, 2040-2059, bcc_csm1_1, Apr Average, Nepal, NPL
+20.203594, 2040-2059, bcc_csm1_1, May Average, Nepal, NPL
+56.82917, 2040-2059, bcc_csm1_1, Jun Average, Nepal, NPL
+273.2728, 2040-2059, bcc_csm1_1, Jul Average, Nepal, NPL
+210.81332, 2040-2059, bcc_csm1_1, Aug Average, Nepal, NPL
+88.5137, 2040-2059, bcc_csm1_1, Sep Average, Nepal, NPL
+61.790142, 2040-2059, bcc_csm1_1, Oct Average, Nepal, NPL
+84.00994, 2040-2059, bcc_csm1_1, Nov Average, Nepal, NPL
+92.20896, 2040-2059, bcc_csm1_1, Dec Average, Nepal, NPL
+55.497353, 2040-2059, bcc_csm1_1_m, Jan Average, Nepal, NPL
+60.01301, 2040-2059, bcc_csm1_1_m, Feb Average, Nepal, NPL
+30.291084, 2040-2059, bcc_csm1_1_m, Mar Average, Nepal, NPL
+16.473738, 2040-2059, bcc_csm1_1_m, Apr Average, Nepal, NPL
+34.19923, 2040-2059, bcc_csm1_1_m, May Average, Nepal, NPL
+119.42187, 2040-2059, bcc_csm1_1_m, Jun Average, Nepal, NPL
+236.24261, 2040-2059, bcc_csm1_1_m, Jul Average, Nepal, NPL
+231.55045, 2040-2059, bcc_csm1_1_m, Aug Average, Nepal, NPL
+141.84563, 2040-2059, bcc_csm1_1_m, Sep Average, Nepal, NPL
+72.2341, 2040-2059, bcc_csm1_1_m, Oct Average, Nepal, NPL
+50.423466, 2040-2059, bcc_csm1_1_m, Nov Average, Nepal, NPL
+47.267265, 2040-2059, bcc_csm1_1_m, Dec Average, Nepal, NPL
+42.51204, 2040-2059, ccsm4, Jan Average, Nepal, NPL
+30.114056, 2040-2059, ccsm4, Feb Average, Nepal, NPL
+30.619576, 2040-2059, ccsm4, Mar Average, Nepal, NPL
+30.40358, 2040-2059, ccsm4, Apr Average, Nepal, NPL
+59.487823, 2040-2059, ccsm4, May Average, Nepal, NPL
+294.76837, 2040-2059, ccsm4, Jun Average, Nepal, NPL
+613.47516, 2040-2059, ccsm4, Jul Average, Nepal, NPL
+511.79028, 2040-2059, ccsm4, Aug Average, Nepal, NPL
+315.75, 2040-2059, ccsm4, Sep Average, Nepal, NPL
+116.78055, 2040-2059, ccsm4, Oct Average, Nepal, NPL
+39.449944, 2040-2059, ccsm4, Nov Average, Nepal, NPL
+40.728535, 2040-2059, ccsm4, Dec Average, Nepal, NPL
+26.404408, 2040-2059, cesm1_cam5, Jan Average, Nepal, NPL
+14.992576, 2040-2059, cesm1_cam5, Feb Average, Nepal, NPL
+15.531766, 2040-2059, cesm1_cam5, Mar Average, Nepal, NPL
+36.44956, 2040-2059, cesm1_cam5, Apr Average, Nepal, NPL
+153.90396, 2040-2059, cesm1_cam5, May Average, Nepal, NPL
+383.38452, 2040-2059, cesm1_cam5, Jun Average, Nepal, NPL
+711.45105, 2040-2059, cesm1_cam5, Jul Average, Nepal, NPL
+588.68787, 2040-2059, cesm1_cam5, Aug Average, Nepal, NPL
+318.8247, 2040-2059, cesm1_cam5, Sep Average, Nepal, NPL
+113.1933, 2040-2059, cesm1_cam5, Oct Average, Nepal, NPL
+22.73056, 2040-2059, cesm1_cam5, Nov Average, Nepal, NPL
+22.848663, 2040-2059, cesm1_cam5, Dec Average, Nepal, NPL
+9.789462, 2040-2059, csiro_mk3_6_0, Jan Average, Nepal, NPL
+11.03012, 2040-2059, csiro_mk3_6_0, Feb Average, Nepal, NPL
+14.2267065, 2040-2059, csiro_mk3_6_0, Mar Average, Nepal, NPL
+7.2021837, 2040-2059, csiro_mk3_6_0, Apr Average, Nepal, NPL
+7.058121, 2040-2059, csiro_mk3_6_0, May Average, Nepal, NPL
+30.603958, 2040-2059, csiro_mk3_6_0, Jun Average, Nepal, NPL
+141.71051, 2040-2059, csiro_mk3_6_0, Jul Average, Nepal, NPL
+141.3574, 2040-2059, csiro_mk3_6_0, Aug Average, Nepal, NPL
+103.453896, 2040-2059, csiro_mk3_6_0, Sep Average, Nepal, NPL
+52.822506, 2040-2059, csiro_mk3_6_0, Oct Average, Nepal, NPL
+9.880573, 2040-2059, csiro_mk3_6_0, Nov Average, Nepal, NPL
+14.601745, 2040-2059, csiro_mk3_6_0, Dec Average, Nepal, NPL
+42.6281, 2040-2059, fio_esm, Jan Average, Nepal, NPL
+47.52071, 2040-2059, fio_esm, Feb Average, Nepal, NPL
+29.942865, 2040-2059, fio_esm, Mar Average, Nepal, NPL
+26.03098, 2040-2059, fio_esm, Apr Average, Nepal, NPL
+31.973839, 2040-2059, fio_esm, May Average, Nepal, NPL
+64.74085, 2040-2059, fio_esm, Jun Average, Nepal, NPL
+281.48138, 2040-2059, fio_esm, Jul Average, Nepal, NPL
+357.91525, 2040-2059, fio_esm, Aug Average, Nepal, NPL
+220.70068, 2040-2059, fio_esm, Sep Average, Nepal, NPL
+48.968765, 2040-2059, fio_esm, Oct Average, Nepal, NPL
+25.584805, 2040-2059, fio_esm, Nov Average, Nepal, NPL
+40.866955, 2040-2059, fio_esm, Dec Average, Nepal, NPL
+48.854958, 2040-2059, gfdl_cm3, Jan Average, Nepal, NPL
+22.162561, 2040-2059, gfdl_cm3, Feb Average, Nepal, NPL
+21.992378, 2040-2059, gfdl_cm3, Mar Average, Nepal, NPL
+16.480114, 2040-2059, gfdl_cm3, Apr Average, Nepal, NPL
+67.96692, 2040-2059, gfdl_cm3, May Average, Nepal, NPL
+109.27357, 2040-2059, gfdl_cm3, Jun Average, Nepal, NPL
+249.06293, 2040-2059, gfdl_cm3, Jul Average, Nepal, NPL
+253.67764, 2040-2059, gfdl_cm3, Aug Average, Nepal, NPL
+199.72958, 2040-2059, gfdl_cm3, Sep Average, Nepal, NPL
+107.43874, 2040-2059, gfdl_cm3, Oct Average, Nepal, NPL
+42.23051, 2040-2059, gfdl_cm3, Nov Average, Nepal, NPL
+47.782814, 2040-2059, gfdl_cm3, Dec Average, Nepal, NPL
+26.467884, 2040-2059, gfdl_esm2m, Jan Average, Nepal, NPL
+22.371809, 2040-2059, gfdl_esm2m, Feb Average, Nepal, NPL
+13.493157, 2040-2059, gfdl_esm2m, Mar Average, Nepal, NPL
+11.140006, 2040-2059, gfdl_esm2m, Apr Average, Nepal, NPL
+37.378452, 2040-2059, gfdl_esm2m, May Average, Nepal, NPL
+230.71039, 2040-2059, gfdl_esm2m, Jun Average, Nepal, NPL
+401.7089, 2040-2059, gfdl_esm2m, Jul Average, Nepal, NPL
+440.16638, 2040-2059, gfdl_esm2m, Aug Average, Nepal, NPL
+345.04156, 2040-2059, gfdl_esm2m, Sep Average, Nepal, NPL
+150.15108, 2040-2059, gfdl_esm2m, Oct Average, Nepal, NPL
+46.62493, 2040-2059, gfdl_esm2m, Nov Average, Nepal, NPL
+20.661768, 2040-2059, gfdl_esm2m, Dec Average, Nepal, NPL
+19.131737, 2040-2059, giss_e2_h, Jan Average, Nepal, NPL
+9.219839, 2040-2059, giss_e2_h, Feb Average, Nepal, NPL
+9.05399, 2040-2059, giss_e2_h, Mar Average, Nepal, NPL
+11.661539, 2040-2059, giss_e2_h, Apr Average, Nepal, NPL
+22.13044, 2040-2059, giss_e2_h, May Average, Nepal, NPL
+23.423388, 2040-2059, giss_e2_h, Jun Average, Nepal, NPL
+56.377186, 2040-2059, giss_e2_h, Jul Average, Nepal, NPL
+74.31526, 2040-2059, giss_e2_h, Aug Average, Nepal, NPL
+39.04916, 2040-2059, giss_e2_h, Sep Average, Nepal, NPL
+21.990158, 2040-2059, giss_e2_h, Oct Average, Nepal, NPL
+8.671114, 2040-2059, giss_e2_h, Nov Average, Nepal, NPL
+10.325811, 2040-2059, giss_e2_h, Dec Average, Nepal, NPL
+11.87536, 2040-2059, giss_e2_r, Jan Average, Nepal, NPL
+10.412046, 2040-2059, giss_e2_r, Feb Average, Nepal, NPL
+9.055671, 2040-2059, giss_e2_r, Mar Average, Nepal, NPL
+10.461607, 2040-2059, giss_e2_r, Apr Average, Nepal, NPL
+17.812902, 2040-2059, giss_e2_r, May Average, Nepal, NPL
+21.65843, 2040-2059, giss_e2_r, Jun Average, Nepal, NPL
+39.274334, 2040-2059, giss_e2_r, Jul Average, Nepal, NPL
+52.679985, 2040-2059, giss_e2_r, Aug Average, Nepal, NPL
+32.568264, 2040-2059, giss_e2_r, Sep Average, Nepal, NPL
+15.754524, 2040-2059, giss_e2_r, Oct Average, Nepal, NPL
+5.2906075, 2040-2059, giss_e2_r, Nov Average, Nepal, NPL
+8.94965, 2040-2059, giss_e2_r, Dec Average, Nepal, NPL
+34.34311, 2040-2059, ipsl_cm5a_mr, Jan Average, Nepal, NPL
+16.54491, 2040-2059, ipsl_cm5a_mr, Feb Average, Nepal, NPL
+15.31524, 2040-2059, ipsl_cm5a_mr, Mar Average, Nepal, NPL
+8.684888, 2040-2059, ipsl_cm5a_mr, Apr Average, Nepal, NPL
+19.494776, 2040-2059, ipsl_cm5a_mr, May Average, Nepal, NPL
+74.07778, 2040-2059, ipsl_cm5a_mr, Jun Average, Nepal, NPL
+286.97568, 2040-2059, ipsl_cm5a_mr, Jul Average, Nepal, NPL
+405.20056, 2040-2059, ipsl_cm5a_mr, Aug Average, Nepal, NPL
+237.61327, 2040-2059, ipsl_cm5a_mr, Sep Average, Nepal, NPL
+59.77135, 2040-2059, ipsl_cm5a_mr, Oct Average, Nepal, NPL
+22.450104, 2040-2059, ipsl_cm5a_mr, Nov Average, Nepal, NPL
+30.127012, 2040-2059, ipsl_cm5a_mr, Dec Average, Nepal, NPL
+27.251766, 2040-2059, miroc_esm, Jan Average, Nepal, NPL
+31.960217, 2040-2059, miroc_esm, Feb Average, Nepal, NPL
+42.41513, 2040-2059, miroc_esm, Mar Average, Nepal, NPL
+57.774776, 2040-2059, miroc_esm, Apr Average, Nepal, NPL
+115.01113, 2040-2059, miroc_esm, May Average, Nepal, NPL
+290.95752, 2040-2059, miroc_esm, Jun Average, Nepal, NPL
+299.15082, 2040-2059, miroc_esm, Jul Average, Nepal, NPL
+268.87405, 2040-2059, miroc_esm, Aug Average, Nepal, NPL
+189.63615, 2040-2059, miroc_esm, Sep Average, Nepal, NPL
+141.39104, 2040-2059, miroc_esm, Oct Average, Nepal, NPL
+82.3957, 2040-2059, miroc_esm, Nov Average, Nepal, NPL
+49.918133, 2040-2059, miroc_esm, Dec Average, Nepal, NPL
+38.462074, 2040-2059, miroc_esm_chem, Jan Average, Nepal, NPL
+38.346287, 2040-2059, miroc_esm_chem, Feb Average, Nepal, NPL
+38.3593, 2040-2059, miroc_esm_chem, Mar Average, Nepal, NPL
+41.154617, 2040-2059, miroc_esm_chem, Apr Average, Nepal, NPL
+102.77856, 2040-2059, miroc_esm_chem, May Average, Nepal, NPL
+263.98224, 2040-2059, miroc_esm_chem, Jun Average, Nepal, NPL
+303.95303, 2040-2059, miroc_esm_chem, Jul Average, Nepal, NPL
+268.96387, 2040-2059, miroc_esm_chem, Aug Average, Nepal, NPL
+208.81326, 2040-2059, miroc_esm_chem, Sep Average, Nepal, NPL
+156.95604, 2040-2059, miroc_esm_chem, Oct Average, Nepal, NPL
+87.222015, 2040-2059, miroc_esm_chem, Nov Average, Nepal, NPL
+40.070896, 2040-2059, miroc_esm_chem, Dec Average, Nepal, NPL
+17.74477, 2040-2059, miroc5, Jan Average, Nepal, NPL
+37.894615, 2040-2059, miroc5, Feb Average, Nepal, NPL
+23.775005, 2040-2059, miroc5, Mar Average, Nepal, NPL
+48.28352, 2040-2059, miroc5, Apr Average, Nepal, NPL
+185.37663, 2040-2059, miroc5, May Average, Nepal, NPL
+426.7254, 2040-2059, miroc5, Jun Average, Nepal, NPL
+616.6757, 2040-2059, miroc5, Jul Average, Nepal, NPL
+562.99774, 2040-2059, miroc5, Aug Average, Nepal, NPL
+348.1659, 2040-2059, miroc5, Sep Average, Nepal, NPL
+145.32101, 2040-2059, miroc5, Oct Average, Nepal, NPL
+16.279549, 2040-2059, miroc5, Nov Average, Nepal, NPL
+16.559473, 2040-2059, miroc5, Dec Average, Nepal, NPL
+24.218557, 2040-2059, mri_cgcm3, Jan Average, Nepal, NPL
+20.186348, 2040-2059, mri_cgcm3, Feb Average, Nepal, NPL
+16.40934, 2040-2059, mri_cgcm3, Mar Average, Nepal, NPL
+16.619524, 2040-2059, mri_cgcm3, Apr Average, Nepal, NPL
+9.172145, 2040-2059, mri_cgcm3, May Average, Nepal, NPL
+17.643795, 2040-2059, mri_cgcm3, Jun Average, Nepal, NPL
+128.04794, 2040-2059, mri_cgcm3, Jul Average, Nepal, NPL
+167.0477, 2040-2059, mri_cgcm3, Aug Average, Nepal, NPL
+99.688, 2040-2059, mri_cgcm3, Sep Average, Nepal, NPL
+49.812786, 2040-2059, mri_cgcm3, Oct Average, Nepal, NPL
+38.908844, 2040-2059, mri_cgcm3, Nov Average, Nepal, NPL
+28.733755, 2040-2059, mri_cgcm3, Dec Average, Nepal, NPL
+60.925335, 2040-2059, noresm1_m, Jan Average, Nepal, NPL
+49.213413, 2040-2059, noresm1_m, Feb Average, Nepal, NPL
+40.267418, 2040-2059, noresm1_m, Mar Average, Nepal, NPL
+9.679627, 2040-2059, noresm1_m, Apr Average, Nepal, NPL
+33.175552, 2040-2059, noresm1_m, May Average, Nepal, NPL
+206.46033, 2040-2059, noresm1_m, Jun Average, Nepal, NPL
+724.1995, 2040-2059, noresm1_m, Jul Average, Nepal, NPL
+727.25745, 2040-2059, noresm1_m, Aug Average, Nepal, NPL
+375.635, 2040-2059, noresm1_m, Sep Average, Nepal, NPL
+116.840385, 2040-2059, noresm1_m, Oct Average, Nepal, NPL
+65.69297, 2040-2059, noresm1_m, Nov Average, Nepal, NPL
+64.87246, 2040-2059, noresm1_m, Dec Average, Nepal, NPL
+-20.003199, 2040-2059, Ensemble (10th Percentile), Jan Average, Nepal, NPL
+-15.538036, 2040-2059, Ensemble (10th Percentile), Feb Average, Nepal, NPL
+-15.430271, 2040-2059, Ensemble (10th Percentile), Mar Average, Nepal, NPL
+-16.342958, 2040-2059, Ensemble (10th Percentile), Apr Average, Nepal, NPL
+-14.410666, 2040-2059, Ensemble (10th Percentile), May Average, Nepal, NPL
+-43.782475, 2040-2059, Ensemble (10th Percentile), Jun Average, Nepal, NPL
+-66.20657, 2040-2059, Ensemble (10th Percentile), Jul Average, Nepal, NPL
+-24.94595, 2040-2059, Ensemble (10th Percentile), Aug Average, Nepal, NPL
+-15.1240425, 2040-2059, Ensemble (10th Percentile), Sep Average, Nepal, NPL
+-14.403881, 2040-2059, Ensemble (10th Percentile), Oct Average, Nepal, NPL
+-24.310537, 2040-2059, Ensemble (10th Percentile), Nov Average, Nepal, NPL
+-41.745792, 2040-2059, Ensemble (10th Percentile), Dec Average, Nepal, NPL
+-0.08267933, 2040-2059, Ensemble (50th Percentile), Jan Average, Nepal, NPL
+2.2534711, 2040-2059, Ensemble (50th Percentile), Feb Average, Nepal, NPL
+-1.166054, 2040-2059, Ensemble (50th Percentile), Mar Average, Nepal, NPL
+-1.107369, 2040-2059, Ensemble (50th Percentile), Apr Average, Nepal, NPL
+5.939161, 2040-2059, Ensemble (50th Percentile), May Average, Nepal, NPL
+5.125296, 2040-2059, Ensemble (50th Percentile), Jun Average, Nepal, NPL
+0.038985882, 2040-2059, Ensemble (50th Percentile), Jul Average, Nepal, NPL
+18.605177, 2040-2059, Ensemble (50th Percentile), Aug Average, Nepal, NPL
+16.7898, 2040-2059, Ensemble (50th Percentile), Sep Average, Nepal, NPL
+11.542026, 2040-2059, Ensemble (50th Percentile), Oct Average, Nepal, NPL
+-1.3271657, 2040-2059, Ensemble (50th Percentile), Nov Average, Nepal, NPL
+-1.8714379, 2040-2059, Ensemble (50th Percentile), Dec Average, Nepal, NPL
+18.459719, 2040-2059, Ensemble (90th Percentile), Jan Average, Nepal, NPL
+13.190274, 2040-2059, Ensemble (90th Percentile), Feb Average, Nepal, NPL
+7.508618, 2040-2059, Ensemble (90th Percentile), Mar Average, Nepal, NPL
+17.623432, 2040-2059, Ensemble (90th Percentile), Apr Average, Nepal, NPL
+36.11916, 2040-2059, Ensemble (90th Percentile), May Average, Nepal, NPL
+41.047363, 2040-2059, Ensemble (90th Percentile), Jun Average, Nepal, NPL
+89.72162, 2040-2059, Ensemble (90th Percentile), Jul Average, Nepal, NPL
+123.34466, 2040-2059, Ensemble (90th Percentile), Aug Average, Nepal, NPL
+58.250877, 2040-2059, Ensemble (90th Percentile), Sep Average, Nepal, NPL
+40.023853, 2040-2059, Ensemble (90th Percentile), Oct Average, Nepal, NPL
+14.004493, 2040-2059, Ensemble (90th Percentile), Nov Average, Nepal, NPL
+16.217733, 2040-2059, Ensemble (90th Percentile), Dec Average, Nepal, NPL

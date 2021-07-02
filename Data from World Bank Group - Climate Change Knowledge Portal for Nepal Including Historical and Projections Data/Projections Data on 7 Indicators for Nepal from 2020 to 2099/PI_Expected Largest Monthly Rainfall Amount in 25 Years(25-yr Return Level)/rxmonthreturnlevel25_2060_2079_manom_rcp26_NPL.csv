@@ -1,0 +1,23 @@
+Expected Largest Monthly Rainfall Amount in 25 Years (25-yr Return Level) - (MM), Year, Model, Statistics, ISO3
+152.114, 2060-2079, bcc_csm1_1_m, Annual Anomaly, NPL
+113.263, 2060-2079, bcc_csm1_1, Annual Anomaly, NPL
+252.117, 2060-2079, bnu_esm, Annual Anomaly, NPL
+136.52, 2060-2079, canesm2, Annual Anomaly, NPL
+253.026, 2060-2079, ccsm4, Annual Anomaly, NPL
+386.615, 2060-2079, cesm1_cam5, Annual Anomaly, NPL
+-105.71, 2060-2079, cnrm_cm5, Annual Anomaly, NPL
+-9.6458, 2060-2079, csiro_mk3_6_0, Annual Anomaly, NPL
+165.182, 2060-2079, hadgem2_ao, Annual Anomaly, NPL
+-69.535, 2060-2079, hadgem2_es, Annual Anomaly, NPL
+137.615, 2060-2079, ipsl_cm5a_lr, Annual Anomaly, NPL
+204.074, 2060-2079, ipsl_cm5a_mr, Annual Anomaly, NPL
+128.685, 2060-2079, miroc5, Annual Anomaly, NPL
+160.185, 2060-2079, miroc_esm_chem, Annual Anomaly, NPL
+190.713, 2060-2079, miroc_esm, Annual Anomaly, NPL
+-95.613, 2060-2079, mpi_esm_lr, Annual Anomaly, NPL
+-137.02, 2060-2079, mpi_esm_mr, Annual Anomaly, NPL
+50.4137, 2060-2079, mri_cgcm3, Annual Anomaly, NPL
+314.036, 2060-2079, noresm1_m, Annual Anomaly, NPL
+-663.17, 2060-2079, Ensemble (10th Percentile), Annual Anomaly, NPL
+137.349, 2060-2079, Ensemble (50th Percentile), Annual Anomaly, NPL
+2301.5, 2060-2079, Ensemble (90th Percentile), Annual Anomaly, NPL

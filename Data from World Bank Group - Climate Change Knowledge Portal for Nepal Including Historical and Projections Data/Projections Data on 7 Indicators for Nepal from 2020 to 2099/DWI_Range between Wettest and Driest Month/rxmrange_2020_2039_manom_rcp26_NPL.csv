@@ -1,0 +1,26 @@
+Range between Wettest and Driest Month  - (MM), Year, Model, Statistics, ISO3
+-32.18, 2020-2039, bcc_csm1_1_m, Annual Anomaly, NPL
+36.991, 2020-2039, bcc_csm1_1, Annual Anomaly, NPL
+-1.7839, 2020-2039, bnu_esm, Annual Anomaly, NPL
+109.372, 2020-2039, canesm2, Annual Anomaly, NPL
+-157.86, 2020-2039, ccsm4, Annual Anomaly, NPL
+250.035, 2020-2039, cesm1_cam5, Annual Anomaly, NPL
+-75.476, 2020-2039, cnrm_cm5, Annual Anomaly, NPL
+-66.835, 2020-2039, csiro_mk3_6_0, Annual Anomaly, NPL
+-30.347, 2020-2039, gfdl_cm3, Annual Anomaly, NPL
+165.421, 2020-2039, gfdl_esm2g, Annual Anomaly, NPL
+-5.1681, 2020-2039, gfdl_esm2m, Annual Anomaly, NPL
+10.8725, 2020-2039, hadgem2_ao, Annual Anomaly, NPL
+-46.105, 2020-2039, hadgem2_es, Annual Anomaly, NPL
+-33.79, 2020-2039, ipsl_cm5a_lr, Annual Anomaly, NPL
+18.41, 2020-2039, ipsl_cm5a_mr, Annual Anomaly, NPL
+53.8324, 2020-2039, miroc5, Annual Anomaly, NPL
+39.8365, 2020-2039, miroc_esm_chem, Annual Anomaly, NPL
+-53.884, 2020-2039, miroc_esm, Annual Anomaly, NPL
+50.6461, 2020-2039, mpi_esm_lr, Annual Anomaly, NPL
+-61.623, 2020-2039, mpi_esm_mr, Annual Anomaly, NPL
+41.491, 2020-2039, mri_cgcm3, Annual Anomaly, NPL
+179.991, 2020-2039, noresm1_m, Annual Anomaly, NPL
+-295.41, 2020-2039, Ensemble (10th Percentile), Annual Anomaly, NPL
+-1.0134, 2020-2039, Ensemble (50th Percentile), Annual Anomaly, NPL
+743.594, 2020-2039, Ensemble (90th Percentile), Annual Anomaly, NPL
