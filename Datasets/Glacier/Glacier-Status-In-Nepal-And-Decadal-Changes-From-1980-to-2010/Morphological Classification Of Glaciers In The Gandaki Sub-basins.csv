@@ -1,0 +1,31 @@
+Basin,Glacier type,Glacier Name,Glacier number,Glacier number %,Glacier area(km2),Glacier area(%),Estimated ice reserves(km3),Estimated ice reserves(%),Mean area per glacier(km2)
+Trishuli,Mountain,Miscellaneous,1,0.6,0.5,0.2,0.02,0.1,0.48
+Trishuli,Mountain,Ice Apron,61,37,20.5,9.9,0.73,3.8,0.34
+Trishuli,Mountain,Cirque,3,1.8,0.8,0.4,0.02,0.1,0.26
+Trishuli,Mountain,Niche,7,4.2,1.9,0.9,0.08,0.4,0.28
+Trishuli,Mountain,Basin,86,52.1,71.6,34.5,3.63,18.8,0.83
+Trishuli,Valley,Trough,7,4.2,112.2,54.1,14.78,76.7,16.03
+Budhi Gandaki,Mountain,Miscellaneous,1,0.4,0.5,0.1,0.02,0.1,0.5
+Budhi Gandaki,Mountain,Ice Apron,74,30.6,35.4,10.2,1.6,5.6,0.48
+Budhi Gandaki,Mountain,Cirque,2,0.8,0.4,0.1,0.01,0,0.18
+Budhi Gandaki,Mountain,Niche,26,10.7,5,1.4,0.13,0.5,0.19
+Budhi Gandaki,Mountain,Basin,127,52.5,161.3,46.2,10.2,35.7,1.27
+Budhi Gandaki,Valley,Trough,12,5,146.3,41.9,16.58,58.1,12.19
+Marsyangdi,Mountain,Miscellaneous,0,0,0,0,0,0,0
+Marsyangdi,Mountain,Ice Apron,108,28.1,38.5,7.6,1.65,4.1,0.36
+Marsyangdi,Mountain,Cirque,2,0.5,0.5,0.1,0.01,0,0.23
+Marsyangdi,Mountain,Niche,26,6.8,5,1,0.14,0.3,0.19
+Marsyangdi,Mountain,Basin,238,62,307.5,60.4,19.89,49.8,1.29
+Marsyangdi,Valley,Trough,10,2.6,157.5,30.9,18.28,45.7,15.75
+Seti ,Mountain,Miscellaneous,0,0,0,0,0,0,0
+Seti ,Mountain,Ice Apron,16,35.6,5.5,7.7,0.19,2.4,0.34
+Seti ,Mountain,Cirque,0,0,0,0,0,0,0
+Seti ,Mountain,Niche,7,15.6,0.8,1.1,0.01,0.2,0.12
+Seti ,Mountain,Basin,22,48.9,65.3,91.2,7.88,97.4,2.97
+Seti ,Valley,Trough,0,0,0,0,0,0,0
+Kali Gandaki,Mountain,Miscellaneous,1,0.2,1.2,0.2,0.05,0.1,1.2
+Kali Gandaki,Mountain,Ice Apron,158,31.3,40.9,7.8,1.3,3.3,0.26
+Kali Gandaki,Mountain,Cirque,1,0.2,0.2,0,0,0,0.18
+Kali Gandaki,Mountain,Niche,15,3,1.5,0.3,0.03,0.1,0.1
+Kali Gandaki,Mountain,Basin,324,64.3,367.9,69.8,22.99,59.1,1.14
+Kali Gandaki,Valley,Trough,5,1,115.7,21.9,14.54,37.4,23.13

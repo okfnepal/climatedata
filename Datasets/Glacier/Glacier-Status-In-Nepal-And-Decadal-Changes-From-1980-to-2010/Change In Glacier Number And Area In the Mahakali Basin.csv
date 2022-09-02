@@ -1,0 +1,7 @@
+Class,Area(km2),Glacier no in year 1980,Glacier no in year 1990,Glacier no in year 2000,Glacier no in year  2010,Glacier no change (1980-1990),Glacier no change1990-2000,Glacier no change2000-2010,Glacier no change(1980-2010),Glacier area(km2) 1980,Glacier area(km2)  1990,Glacier area(km2) in year 2000,Glacier area(km2)   in year 2010,Glacier area(km2) change 1980-1990,Glacier area(km2) change 1990-20000,Glacier area(km2) change 2000-2010,Glacier area(km2) change 1980-2010
+1a,<=0.10,16,34,44,60,18,10,16,44,1.1,2.3,2.6,3.6,1.2,0.3,1,2.5
+1b,0.11-0.50,59,59,67,64,0,8,-3,5,15.4,15.2,14.8,14.1,-0.3,-0.4,-0.6,-1.3
+2,0.51-1.00,20,19,15,17,-1,-4,2,-3,14.1,14,10.9,11.6,0,-3.1,0.7,-2.5
+3,1.01-5.00,25,20,18,18,-5,-2,0,-7,46.5,41.8,39.1,46.2,-4.7,-2.7,7.1,-0.3
+4,5.01-10.00,7,6,6,4,-1,0,-2,-3,43.9,39.5,41.4,25.9,-4.5,1.9,-15.5,-18
+5,>=10.01,3,2,1,1,-1,-1,0,-2,37.5,21.9,11.6,11.1,-15.6,-10.3,-0.4,-26.4

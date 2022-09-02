@@ -1,0 +1,7 @@
+Range (km2),Glacier class ,Glacier number in 2010,Glacier number change ~1980-2010,Glacier area(km2) in 2010,Glacier area(km2) change ~1980-2010
+ <= 0.10,Class 1a,781,602,50.3,37.2
+0.1-1.0.50,Class 1b,1739,216,431.4,10.1
+ 0.51-1.00,Class 2,556,-167,394.2,-117.3
+1.01-5.00,Class 3,606,-225,1234.1,-453
+5.01-10.00,Class 4,64,-32,444.3,-218.7
+ >=  10.01,Class 5,62,-16,1348.1,-524.1

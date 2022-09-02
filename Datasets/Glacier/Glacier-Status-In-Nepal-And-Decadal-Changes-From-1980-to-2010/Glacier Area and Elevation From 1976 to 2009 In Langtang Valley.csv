@@ -1,0 +1,33 @@
+Glacier,Year/No. of years after base year,1976/0,1988/12,2000/24,2009/33
+All,Glacier area (km2),191.1,171.3,152.2,142.1
+All,Cumulative area change (km2),0,19.8,38.9,49.1
+All,% area change (from base year 1976),0,10.4,20.4,25.7
+All,% area change (from previous observed year),0,10.4,11.2,6.7
+All,Maximum elevation (masl),7184,7184,7184,7184
+All,Minimum elevation (masl),3997,4007,4020,4112
+All,Elevation shift (from base year 1976) (m),0,10,23,115
+All,Elevation shift (from previous observed year) (m),0,10,13,92
+Lirung,Glacier area (km2),10,7.5,7.2,5.3
+Lirung,Cumulative area change (km2),0,2.5,2.8,4.7
+Lirung,% area change (from base year 1976),0,25.2,27.7,46.6
+Lirung,% area change (from previous observed year),0,25.2,3.4,26.1
+Lirung,Maximum elevation (masl),7160,7184,7160,7160
+Lirung,Minimum elevation (masl),3997,4007,4020,4112
+Lirung,Elevation shift (from base year 1976) (m),0,10,23,115
+Lirung,Elevation shift (from previous observed year) (m),0,10,13,92
+Kimjung,Glacier area (km2),5,4.4,4.2,4.1
+Kimjung,Cumulative area change (km2),0,0.6,0.9,1
+Kimjung,% area change (from base year 1976),0,12,17.5,18.9
+Kimjung,% area change (from previous observed year),0,12,6.3,1.6
+Kimjung,Maximum elevation (masl),6633,6504,6337,6433
+Kimjung,Minimum elevation (masl),4313,4313,4399,4426
+Kimjung,Elevation shift (from base year 1976) (m),0,0,86,113
+Kimjung,Elevation shift (from previous observed year) (m),0,0,86,27
+Yala,Glacier area (km2),5,3.5,3.1,2.4
+Yala,Cumulative area change (km2),0,1.5,1.9,2.6
+Yala,% area change (from base year 1976),0,29.2,38.4,51.4
+Yala,% area change (from previous observed year),0,29.2,13.1,21.1
+Yala,Maximum elevation (masl),6452,6522,6522,6522
+Yala,Minimum elevation (masl),5079,5067,5111,5171
+Yala,Elevation shift (from base year 1976) (m),0,-12,32,92
+Yala,Elevation shift (from previous observed year) (m),0,-12,44,60
